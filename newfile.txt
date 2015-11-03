@@ -1,0 +1,27 @@
+Gene	Start	Variant_Classification	Amino_Acid_change	Validation_Status	Cosmic	Color
+FAM113A	2838470	Silent	p.P201	Valid	.67177	Main
+KIAA1009	84195006	Nonsense	p.S302*	Valid	.95415	Main
+L1TD1	62210940	Silent	p.K722	Unknown	.00056	Main
+MAD2L2	11676107	Deletion	p.L123fs	Unknown	0	Main
+OR2B11	247451959	Deletion	p.L9fs	Unknown	0	Main
+PRDM2	13779899	Insertion	p.704in_frame_insP	Unknown	0	Main
+RHBG	156384556	Deletion	p.R425fs	Unknown	0	Main
+TAF1B	9904895	Deletion	p.V282fs	Unknown	0	Main
+TMEM37	119437075	Insertion	p.T70in_frame_insSVP	Unknown	0	Main
+ZNF804A	184937484	Missense	p.N696K	Unknown	.12369	Main
+TSPYL1	116279302	Insertion	p.176in_frame_insV	Unknown	0	Main
+AKAP9	92022864	Insertion	p.1336in_frame_insQ	Unknown	0	Main
+NCRNA00174	66377558	Insertion	p.T17fs	Unknown	0	Main
+OR11G2	20198016	Insertion	p.G229fs	Unknown	0	Main
+CYP2A7	40880515	Missense	p.S153A	Unknown	.0028	Main
+TMPRSS3	42383199	Splice_Site	e7-1	Unknown	.94873	Main
+TMPRSS3	42383199	Splice_Site	e7-1	Unknown	.94873	Main
+BIRC6	32545808	Missense	p.A4253V	Valid	.96697	Main
+ACO1	32408614	Missense	p.V123L	Unknown	.9893	Main
+FREM2	38689594	Missense	p.D750E	Valid	.74392	Main
+TP53	7675238	Splice_Site	e4-2	Valid	.99475	Main
+TP53	7675238	Splice_Site	e4-2	Valid	.99475	Main
+BRCA1	43092919	Deletion		Valid	0.99	Gold
+BRCA1	43093220	Insertion		Valid	0.99	Gold
+BRCA1	43092919	Insertion		Valid	0.99	Gold
+BRCA1	43092919	Indel		Valid	0.99	Gold
