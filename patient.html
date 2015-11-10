@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Cancer Genomics by Sungshine</title>
+    <title>Cancer Genomics</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -16,14 +16,13 @@
 
         <a href="index.html" class="btn">Home</a>
         <a href="database.html" class="btn">Database</a>
+	<a href="rna.html" class="btn">RNA Analysis</a>
 
-	</section>
-
-	<h2><p> Coming soon: Patient submission portal for cancer risk assessment!</p></h2>
-
-	 <form action="upload.php" method="post" enctype="multipart/form-data">
-                Upload the vcf file of the patient: <input type="file" name="vcf_file" id="vcf_file" accept="file_extension"><br>
+	</section><center>
+	<form action="upload.php" method="post" enctype="multipart/form-data">
+                <br>Upload the vcf file of the patient: <input type="file" name="vcf_file" id="vcf_file" accept="file_extension"><br><br>
                 <input type="submit" value="Upload" name="submit">
-        </form>
+        </form></center>
 
    </body>
+</html>

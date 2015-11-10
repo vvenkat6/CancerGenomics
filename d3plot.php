@@ -31,11 +31,6 @@ body {
   height: 28px;
   pointer-events: none;
 }
-
-a:link    {color:green; background-color:transparent; text-decoration:none}
-a:visited {color:pink; background-color:transparent; text-decoration:none}
-a:hover   {color:red; background-color:transparent; text-decoration:underline}
-a:active  {color:yellow; background-color:transparent; text-decoration:underline}
 </style>
 <body>
 <section class="page-header">
@@ -43,11 +38,12 @@ a:active  {color:yellow; background-color:transparent; text-decoration:underline
         <a href="index.html" class="btn">Home</a>
         <a href="database.html" class="btn">Database</a>
         <a href="patient.html" class="btn">Patient Query</a>
+	<a href="rna.html" class="btn">RNA Analysis</a>
         </section>
         <br>
 	
         <?php
-        $string = '/var/www/html/vcfParser.py ';
+        $string = '/var/www/html/scripts/vcfParser.py ';
         $command = escapeshellcmd($string);
         $output = shell_exec($command);
         
@@ -55,11 +51,11 @@ a:active  {color:yellow; background-color:transparent; text-decoration:underline
         fwrite($myfile,$output);
         fclose($myfile);
 
-	$string = '/var/www/html/query_db2.py';
+	$string = '/var/www/html/scripts/query_db2.py';
         $command = escapeshellcmd($string);
         $result = shell_exec($command);
 
-        $string = '/var/www/html/query_db.py';
+        $string = '/var/www/html/scripts/query_db.py';
         $command = escapeshellcmd($string);
         $result = shell_exec($command);
         ?>
@@ -193,7 +189,7 @@ function type(d) {
 </script>
 
 </body>
-<body>
+<center><body>
 	<table width="700" border="3">
         <p> MUTATION TABLE:<p>
   <?php
@@ -211,6 +207,6 @@ function type(d) {
         ?>
         </table>
 
-</body>
+</body></center>
 </html>
 

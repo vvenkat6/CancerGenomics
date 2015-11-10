@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Cancer Genomics</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">OVARIAN CANCER DATABASE</h1>
+      <h2 class="project-tagline">Georgia Institute of Technology</h2>
+      <a href="index.html" class="btn">Home</a>
+      <a href="database.html" class="btn">Database</a>
+      <a href="patient.html" class="btn">Patient Query</a>
+	</section>
+	<center>
+	<p>The RNA database has gene expression profiles of the gene panel that we are looking at.</p>
+	<p>Select the gene whose expression profile you want to see:
+	<form action="rna_Gene_result.php" method="get">
+		<input list="gene_panel" name="gene">
+  		<datalist id="gene_panel">
+    			<option value="ARX">
+			<option value="FOXL2">
+			<option value="KLHDC8A">
+			<option value="NRK">
+			<option value="SIGLEC11">
+			<option value="WFIKKN2">
+		</datalist>
+		<input type="submit">
+	</form></p>
+	<br>
+	<br>
+	<p>
+	<form action="rna_upload.php" method="post" enctype="multipart/form-data">
+		Upload the patient gene expression profile: <input type="file" name="rna_file" id="rna_file" accept="file_extension"><br><br>
+		<input type="submit" value="Upload" name="submit">
+	</form>
+	</p>
+	</center>
+  </body>
+</html>

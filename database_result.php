@@ -8,13 +8,14 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
 
-<body>
+<center><body>
 	<section class="page-header">
       	<h1 class="project-name">OVARIAN CANCER DATABASE</h1>
       	<h2 class="project-tagline"><?php echo strtoupper($_GET["gene"]); ?> Mutation Table</h2>
       	<a href="index.html" class="btn">Home</a>
         <a href="database.html" class="btn">Database</a>
-	<a href="patient.html" class="btn">Patient</a>
+	<a href="patient.html" class="btn">Patient Query</a>
+	<a href="rna.html" class="btn">RNA Analysis</a>
         </section>
 	<?php
 	$gene = $_GET["gene"]; 
@@ -22,7 +23,7 @@
 	
 	<table width="700" border="3">
 	<?php
-	$string = '/var/www/html/webSearch_db.py '.$gene;
+	$string = '/var/www/html/scripts/webSearch_db.py '.$gene;
 	$command = escapeshellcmd($string);
 	$output = shell_exec($command);
 	
@@ -31,11 +32,10 @@
 	fclose($myfile);
 	$handle = fopen("newfile.txt","r");
 
- 	$string = '/var/www/html/query_db.py';
+ 	$string = '/var/www/html/scripts/query_db.py';
         $command = escapeshellcmd($string);
         $result = shell_exec($command);
 	?>
-
 	<img src = "testeshwar.png" style="width:800px;height:800px;">
 	<br><br><br>
 	<p>MUTATION TABLE:<p>
@@ -53,6 +53,6 @@
 	}
 	?>
 	</table>
-</body>
+</body></center>
 </html>
 

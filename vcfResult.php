@@ -19,7 +19,7 @@
 	
 	<table width="700" border="3">
 	<?php
-	$string = '/var/www/html/vcfParser.py ';
+	$string = '/var/www/html/scripts/vcfParser.py ';
 	echo $string;
 	$command = escapeshellcmd($string);
 	$output = shell_exec($command);
@@ -28,17 +28,16 @@
 	fwrite($myfile,$output);
 	fclose($myfile);
 
-	$string = '/var/www/html/query_db.py';
+	$string = '/var/www/html/scripts/query_db.py';
 	$command = escapeshellcmd($string);
 	$result = shell_exec($command);
 	?>
 	
-	<img src = "testeshwar.png" style="width:800px;height:800px;">
+	<img src = "images/testeshwar.png" style="width:800px;height:800px;">
 	<br><br><br>
 	<p> MUTATION TABLE:<p>
 
 	<?php
-	echo "hi2";
 	$handle = fopen("newfile.txt","r");
 	if($handle){
 		while(($line = fgets($handle)) !== false){

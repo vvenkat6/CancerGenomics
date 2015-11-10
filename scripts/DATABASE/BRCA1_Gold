@@ -1,0 +1,1075 @@
+Location	Mutation Type	Nucleotide Change	Protein Change	Classification	Posterior Probability	Reference	Secondary Reference	Comments	Genomic_Location
+Exon 2	Nonsense	c.8T>G	p.L3*	5 - Definitely pathogenic	>0.99	Keshavarzi (2012) Fam Cancer 11; 57		 	43124089
+Exon 2	Nonsense	c.34C>T	p.Q12*	5 - Definitely pathogenic	>0.99	Adem (2003) Cancer 97; 1		 	43124063
+Exon 2	Nonsense	c.55C>T	p.Q19*	5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43124042
+Exon 3	Nonsense	c.85G>T	p.E29*	5 - Definitely pathogenic	>0.99	Gonzalez-Angulo (2011) Clin Cancer Res 17; 1082		 	43115775
+Exon 3	Nonsense	c.89T>A	p.L30*	5 - Definitely pathogenic	>0.99	John (2007) JAMA 298; 2869		 	43115771
+Exon 5	Nonsense	c.178C>T	p.Q60*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43106490
+Exon 5	Nonsense	c.188T>A	p.L63*	5 - Definitely pathogenic	>0.99	Inoue (1995) Cancer Res 55; 3521		 	43106480
+Exon 6	Nonsense	c.220C>T	p.Q74*	5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43104949
+Exon 6	Nonsense	c.241C>T	p.Q81*	5 - Definitely pathogenic	>0.99	Oros (2004) Int J Cancer 112; 411		 	43104928
+Exon 6	Nonsense	c.250G>T	p.E84*	5 - Definitely pathogenic	>0.99	Rummel (2013) Breast Cancer Res Treat 137; 119		 	43104919
+Exon 7	Nonsense	c.303T>G	p.Y101*	5 - Definitely pathogenic	>0.99	Russo (2007) Breast Cancer Res Treat 105; 267		 	43104260
+Exon 7	Nonsense	c.390C>A	p.Y130*	5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43104173
+Exon 7	Nonsense	c.427G>T	p.E143*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43104136
+Exon 8	Nonsense	c.463C>T	p.Q155*	5 - Definitely pathogenic	>0.99	Hu (2003) Hum Mutat 22; 104		 	43099859
+Exon 8	Nonsense	c.505C>T	p.Q169*	5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43099817
+Exon 8	Nonsense	c.514C>T	p.Q172*	5 - Definitely pathogenic	>0.99	Khoo (2000) Hum Mutat 16; 88		 	43099808
+Exon 10	Nonsense	c.616C>T	p.Q206*	5 - Definitely pathogenic	>0.99	Hu (2003) Hum Mutat 22; 104		 	43095900
+Exon 11	Nonsense	c.678T>A	p.C226*	5 - Definitely pathogenic	>0.99	Meyer (2003) Hum Mutat 22; 259		 	43094853
+Exon 11	Nonsense	c.688G>T	p.E230*	5 - Definitely pathogenic	>0.99	Johnston (2012) Am J Hum Genet 91; 97		 	43094843
+Exon 11	Nonsense	c.763G>T	p.E255*	5 - Definitely pathogenic	>0.99	Sinilnikova (2006) Fam Cancer 5; 15		 	43094768
+Exon 11	Nonsense	c.783T>G	p.Y261*	5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43094748
+Exon 11	Nonsense	c.800C>G	p.S267*	5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2010) Hum Mutat 32; 325		 	43094731
+Exon 11	Nonsense	c.848T>G	p.L283*	5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43094683
+Exon 11	Nonsense	c.850C>T	p.Q284*	5 - Definitely pathogenic	>0.99	Seymour (2008) Breast Cancer Res Treat 112; 343		 	43094681
+Exon 11	Nonsense	c.925A>T	p.K309*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43094606
+Exon 11	Nonsense	c.928C>T	p.Q310*	5 - Definitely pathogenic	>0.99	Wang (2000) Jpn J Clin Oncol 30; 343		 	43094603
+Exon 11	Nonsense	c.949C>T	p.Q317*	5 - Definitely pathogenic	>0.99	Yoshihara (2011) Genes Chromosomes Cancer 50; 167		 	43094582
+Exon 11	Nonsense	c.962G>A	p.W321*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43094569
+Exon 11	Nonsense	c.1012A>T	p.K338*	5 - Definitely pathogenic	>0.99	Alharbi (2005) Genome Res 15; 967		 	43094519
+Exon 11	Nonsense	c.1054G>T	p.E352*	5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43094477
+Exon 11	Nonsense	c.1058G>A	p.W353*	5 - Definitely pathogenic	>0.99	Hakansson (1997) Am J Hum Genet 60; 1068		 	43094473
+Exon 11	Nonsense	c.1063A>T	p.K355*	5 - Definitely pathogenic	>0.99	Kadouri (2004) Int J Cancer 108; 399		 	43094468
+Exon 11	Nonsense	c.1066C>T	p.Q356*	5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43094465
+Exon 11	Nonsense	c.1082C>G	p.S361*	5 - Definitely pathogenic	>0.99	Esteves (2009) Braz J Med Biol Res 42; 453		 	43094449
+Exon 11	Nonsense	c.1115G>A	p.W372*	5 - Definitely pathogenic	>0.99	Zhou (2004) Zhonghua Yi Xue Za Zhi 84; 294		 	43094416
+Exon 11	Nonsense	c.1116G>A	p.W372*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43094415
+Exon 11	Nonsense	c.1138C>T	p.Q380*	5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43094393
+Exon 11	Nonsense	c.1141A>T	p.K381*	5 - Definitely pathogenic	>0.99	Garcia-Patino (1998) Acta Oncol 37; 299		 	43094390
+Exon 11	Nonsense	c.1193C>A	p.S398*	5 - Definitely pathogenic	>0.99	Novakovic (2012) Int J Oncol epub; epub		 	43094338
+Exon 11	Nonsense	c.1204G>T	p.E402*	5 - Definitely pathogenic	>0.99	Thirthagiri (2008) Breast Cancer Res 10; R59		 	43094327
+Exon 11	Nonsense	c.1252G>T	p.E418*	5 - Definitely pathogenic	>0.99	Levanat (2012) Gene 498; 169		 	43094279
+Exon 11	Nonsense	c.1266T>G	p.Y422*	5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43094265
+Exon 11	Nonsense	c.1279G>T	p.E427*	5 - Definitely pathogenic	>0.99	Li (2008) Breast Cancer Res Treat 110; 99		 	43094252
+Exon 11	Nonsense	c.1292T>G	p.L431*	5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43094239
+Exon 11	Nonsense	c.1326T>A	p.C442*	5 - Definitely pathogenic	>0.99	Kadouri (2004) Int J Cancer 108; 399		 	43094205
+Exon 11	Nonsense	c.1333G>T	p.E445*	5 - Definitely pathogenic	>0.99	Diez (2003) Hum Mutat 22:301–312		 	43094198
+Exon 11	Nonsense	c.1352C>A	p.S451*	5 - Definitely pathogenic	>0.99	Reeves (2004) Int J Cancer 110; 677		 	43094179
+Exon 11	Nonsense	c.1399A>T	p.K467*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43094132
+Exon 11	Nonsense	c.1421T>G	p.L474*	5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43094110
+Exon 11	Nonsense	c.1450G>T	p.G484*	5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43094081
+Exon 11	Nonsense	c.1465G>T	p.E489*	5 - Definitely pathogenic	>0.99	Zhi (2002) Hum Mutat 20; 474		 	43094066
+Exon 11	Nonsense	c.1471C>T	p.Q491*	5 - Definitely pathogenic	>0.99	Rashid (2006) Int J Cancer 119; 2832		 	43094060
+Exon 11	Nonsense	c.1480C>T	p.Q494*	5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43094051
+Exon 11	Nonsense	c.1505T>G	p.L502*	5 - Definitely pathogenic	>0.99	Stavropoulou (2013) PLoS One 8; e58182		 	43094026
+Exon 11	Nonsense	c.1513A>T	p.K505*	5 - Definitely pathogenic	>0.99	Palmieri (2002) Ann Oncol 13; 1899		 	43094018
+Exon 11	Nonsense	c.1519A>T	p.R507*	5 - Definitely pathogenic	>0.99	Palomba (2009) BMC Cancer 9; 245		 	43094012
+Exon 11	Nonsense	c.1529C>G	p.S510*	5 - Definitely pathogenic	>0.99	Garvin (1996) J Med Genet 33; 721		 	43094002
+Exon 11	Nonsense	c.1576C>T	p.Q526*	5 - Definitely pathogenic	>0.99	Friedman (1995) Am J Hum Genet 57; 1284		 	43093955
+Exon 11	Nonsense	c.1600C>T	p.Q534*	5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43093931
+Exon 11	Nonsense	c.1612C>T	p.Q538*	5 - Definitely pathogenic	>0.99	Eerola (2005) Breast Cancer Res 7; R93		 	43093919
+Exon 11	Nonsense	c.1618G>T	p.E540*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093913
+Exon 11	Nonsense	c.1621C>T	p.Q541*	5 - Definitely pathogenic	>0.99	Dong (1998) Hum Genet 103; 154		 	43093910
+Exon 11	Nonsense	c.1630C>T	p.Q544*	5 - Definitely pathogenic	>0.99	Litton (2012) Cancer 118; 321		 	43093901
+Exon 11	Nonsense	c.1660G>T	p.E554*	5 - Definitely pathogenic	>0.99	Zhang (2012) Breast Cancer Res Treat 132; 421		 	43093871
+Exon 11	Nonsense	c.1687C>T	p.Q563*	5 - Definitely pathogenic	>0.99	Wagner (1998) Int J Cancer 77; 354		 	43093844
+Exon 11	Nonsense	c.1714G>T	p.E572*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093817
+Exon 11	Nonsense	c.1729G>T	p.E577*	5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43093802
+Exon 11	Nonsense	c.1741A>T	p.K581*	5 - Definitely pathogenic	>0.99	Keshavarzi (2012) Fam Cancer 11; 57		 	43093790
+Exon 11	Nonsense	c.1747A>T	p.K583*	5 - Definitely pathogenic	>0.99	Pohlreich (2005) Breast Cancer Res 7; R728		 	43093784
+Exon 11	Nonsense	c.1793T>A	p.L598*	5 - Definitely pathogenic	>0.99	Norquist (2011) J Clin Oncol 29; 3008		 	43093738
+Exon 11	Nonsense	c.1793T>G	p.L598*	5 - Definitely pathogenic	>0.99	Bergman (2005) Fam Cancer 4; 89		 	43093738
+Exon 11	Nonsense	c.1808C>G	p.S603*	5 - Definitely pathogenic	>0.99	Al-Mulla (2009) J Clin Pathol 62; 350		 	43093723
+Exon 11	Nonsense	c.1819A>T	p.K607*	5 - Definitely pathogenic	>0.99	Gayther (1999) Am J Hum Genet 65; 1021		 	43093712
+Exon 11	Nonsense	c.1840A>T	p.K614*	5 - Definitely pathogenic	>0.99	Loizidou (2007) Clin Genet 71; 165		 	43093691
+Exon 11	Nonsense	c.1912G>T	p.E638*	5 - Definitely pathogenic	>0.99	Moleshi (2003) Am J Med Genet 117A; 304		 	43093619
+Exon 11	Nonsense	c.1916T>A	p.L639*	5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43093615
+Exon 11	Nonsense	c.1945G>T	p.E649*	5 - Definitely pathogenic	>0.99	Li (2006) Int J Gynecol Cancer 16S1; 172		 	43093586
+Exon 11	Nonsense	c.1960A>T	p.K654*	5 - Definitely pathogenic	>0.99	Weitzel (2005) Cancer Epidemiol Biomarkers Prev 14; 1666		 	43093571
+Exon 11	Nonsense	c.1965C>A	p.Y655*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093566
+Exon 11	Nonsense	c.1969C>T	p.Q657*	5 - Definitely pathogenic	>0.99	Peixoto (2006) Fam Cancer 5; 379		 	43093562
+Exon 11	Nonsense	c.2008G>T	p.E670*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093523
+Exon 11	Nonsense	c.2014A>T	p.K672*	5 - Definitely pathogenic	>0.99	van der Stoep (2009) Hum Mutat 30; 899		 	43093517
+Exon 11	Nonsense	c.2035A>T	p.K679*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43093496
+Exon 11	Nonsense	c.2059C>T	p.Q687*	5 - Definitely pathogenic	>0.99	Worsham (1998) Diagn Mol Pathol 7; 164		 	43093472
+Exon 11	Nonsense	c.2068A>T	p.K690*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093463
+Exon 11	Nonsense	c.2138C>G	p.S713*	5 - Definitely pathogenic	>0.99	Vaziri (2000) Hum Mutat 17; 74		 	43093393
+Exon 11	Nonsense	c.2155A>T	p.K719*	5 - Definitely pathogenic	>0.99	Risch (2006) J Natl Cancer Inst 98; 1694		 	43093376
+Exon 11	Nonsense	c.2158G>T	p.E720*	5 - Definitely pathogenic	>0.99	Tworek (1999) Cancer Genet Cytogenet 112; 105		 	43093373
+Exon 11	Nonsense	c.2188G>T	p.E730*	5 - Definitely pathogenic	>0.99	Lee (2011) J Clin Oncol 29; 4373		 	43093343
+Exon 11	Nonsense	c.2194G>T	p.E732*	5 - Definitely pathogenic	>0.99	Kadouri (2004) Int J Cancer 108; 399		 	43093337
+Exon 11	Nonsense	c.2197G>T	p.E733*	5 - Definitely pathogenic	>0.99	Litton (2012) Cancer 118; 321		 	43093334
+Exon 11	Nonsense	c.2263G>T	p.E755*	5 - Definitely pathogenic	>0.99	Ramus (1997) Am J Hum Genet 60; 1242		 	43093268
+Exon 11	Nonsense	c.2275C>T	p.Q759*	5 - Definitely pathogenic	>0.99	Juwle (2012) Med Oncol 29; 3272		 	43093256
+Exon 11	Nonsense	c.2309C>A	p.S770*	5 - Definitely pathogenic	>0.99	Santarosa (1998) Int J Cancer 78; 581		 	43093222
+Exon 11	Nonsense	c.2338C>T	p.Q780*	5 - Definitely pathogenic	>0.99	Hogervorst (1995) Nat Genet 10; 208		 	43093193
+Exon 11	Nonsense	c.2354T>A	p.L785*	5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43093177
+Exon 11	Nonsense	c.2389G>T	p.E797*	5 - Definitely pathogenic	>0.99	Liede (1998) Am J Hum Genet 62; 1543		 	43093142
+Exon 11	Nonsense	c.2434A>T	p.K812*	5 - Definitely pathogenic	>0.99	Laplace-Marieze (1999) Int J Oncol 14; 971		 	43093097
+Exon 11	Nonsense	c.2437G>T	p.G813*	5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43093094
+Exon 11	Nonsense	c.2563C>T	p.Q855*	5 - Definitely pathogenic	>0.99	Perkowska (2003) Hum Mutat 21; 553		 	43092968
+Exon 11	Nonsense	c.2568T>G	p.Y856*	5 - Definitely pathogenic	>0.99	Delgado (2010) Breast Cancer Res Treat 128; 211		 	43092963
+Exon 11	Nonsense	c.2572C>T	p.Q858*	5 - Definitely pathogenic	>0.99	Mote (2004) Genes Chromosomes Cancer 39; 236		 	43092959
+Exon 11	Nonsense	c.2591C>G	p.S864*	5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43092940
+Exon 11	Nonsense	c.2603C>A	p.S868*	5 - Definitely pathogenic	>0.99	Li (2008) Breast Cancer Res Treat 110; 99		 	43092928
+Exon 11	Nonsense	c.2603C>G	p.S868*	5 - Definitely pathogenic	>0.99	Walsh (2011) Proc Natl Acad Sci U S A 108: 18032		 	43092928
+Exon 11	Nonsense	c.2635G>T	p.E879*	5 - Definitely pathogenic	>0.99	Khoo (2000) Hum Mutat 15; 485		 	43092896
+Exon 11	Nonsense	c.2641G>T	p.E881*	5 - Definitely pathogenic	>0.99	Reeves (2004) Int J Cancer 110; 677		 	43092890
+Exon 11	Nonsense	c.2683C>T	p.Q895*	5 - Definitely pathogenic	>0.99	Llort (2002) Hum Mutat 19; 307		 	43092848
+Exon 11	Nonsense	c.2710G>T	p.E904*	5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092821
+Exon 11	Nonsense	c.2713C>T	p.Q905*	5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092818
+Exon 11	Nonsense	c.2716A>T	p.K906*	5 - Definitely pathogenic	>0.99	George (2013) Clin Cancer Res 19; 3474		 	43092815
+Exon 11	Nonsense	c.2722G>T	p.E908*	5 - Definitely pathogenic	>0.99	Serova (1996) Am J Hum Genet 58; 42		 	43092809
+Exon 11	Nonsense	c.2728C>T	p.Q910*	5 - Definitely pathogenic	>0.99	de Juan Jiménez (2012) Fam Cancer 11; 49		 	43092803
+Exon 11	Nonsense	c.2761C>T	p.Q921*	5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43092770
+Exon 11	Nonsense	c.2800C>T	p.Q934*	5 - Definitely pathogenic	>0.99	Kashima (2000) Jpn J Cancer Res 91; 399		 	43092731
+Exon 11	Nonsense	c.2832T>A	p.C944*	5 - Definitely pathogenic	>0.99	Pal (2005) Cancer 104; 2807		 	43092699
+Exon 11	Nonsense	c.2864C>A	p.S955*	5 - Definitely pathogenic	>0.99	Weitzel (2005) Cancer Epidemiol Biomarkers Prev 14; 1666		 	43092667
+Exon 11	Nonsense	c.2869C>T	p.Q957*	5 - Definitely pathogenic	>0.99	Borg (1999) Dis Markers 15; 79		 	43092662
+Exon 11	Nonsense	c.2890G>T	p.G964*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092641
+Exon 11	Nonsense	c.2914G>T	p.G972*	5 - Definitely pathogenic	>0.99	Ahn (2007) Cancer Lett 245; 90		 	43092617
+Exon 11	Nonsense	c.2921T>A	p.L974*	5 - Definitely pathogenic	>0.99	Tomka (2001) Neoplasma 48; 451		 	43092610
+Exon 11	Nonsense	c.2923C>T	p.Q975*	5 - Definitely pathogenic	>0.99	Balz (2002) Cancer Genet Cytogenet 138; 120		 	43092608
+Exon 11	Nonsense	c.2934T>G	p.Y978*	5 - Definitely pathogenic	>0.99	Theodor (1998) Br J Cancer 77; 1880		 	43092597
+Exon 11	Nonsense	c.2963C>A	p.S988*	5 - Definitely pathogenic	>0.99	Scott (2003) Hum Genet 112; 542		 	43092568
+Exon 11	Nonsense	c.3020C>G	p.S1007*	5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43092511
+Exon 11	Nonsense	c.3112G>T	p.E1038*	5 - Definitely pathogenic	>0.99	Schulz (2012) J Med Genet 49; 422		 	43092419
+Exon 11	Nonsense	c.3122C>G	p.S1041*	5 - Definitely pathogenic	>0.99	Li (2008) Breast Cancer Res Treat 110: 99		 	43092409
+Exon 11	Nonsense	c.3178G>T	p.E1060*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43092353
+Exon 11	Nonsense	c.3239T>A	p.L1080*	5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43092292
+Exon 11	Nonsense	c.3257T>G	p.L1086*	5 - Definitely pathogenic	>0.99	Wagner (1998) Int J Cancer 77; 354		 	43092274
+Exon 11	Nonsense	c.3268C>T	p.Q1090*	5 - Definitely pathogenic	>0.99	Gao (2000) Hum Genet 107; 192		 	43092263
+Exon 11	Nonsense	c.3286C>T	p.Q1096*	5 - Definitely pathogenic	>0.99	Majdak (2005) Eur J Cancer 41; 143		 	43092245
+Exon 11	Nonsense	c.3319G>T	p.E1107*	5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43092212
+Exon 11	Nonsense	c.3339T>G	p.Y1113*	5 - Definitely pathogenic	>0.99	Scott (2003) Hum Genet 112; 542		 	43092192
+Exon 11	Nonsense	c.3340G>T	p.E1114*	5 - Definitely pathogenic	>0.99	Kang (2002) Hum Mutat 20; 235		 	43092191
+Exon 11	Nonsense	c.3352C>T	p.Q1118*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092179
+Exon 11	Nonsense	c.3381T>G	p.Y1127*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092150
+Exon 11	Nonsense	c.3389C>G	p.S1130*	5 - Definitely pathogenic	>0.99	Plummer (1995) Hum Mol Genet 4; 1989		 	43092142
+Exon 11	Nonsense	c.3398T>G	p.L1133*	5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43092133
+Exon 11	Nonsense	c.3400G>T	p.E1134*	5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43092131
+Exon 11	Nonsense	c.3403C>T	p.Q1135*	5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43092128
+Exon 11	Nonsense	c.3430C>T	p.Q1144*	5 - Definitely pathogenic	>0.99	Schorge (2001) Gynecol Oncol 83; 383		 	43092101
+Exon 11	Nonsense	c.3472G>T	p.E1158*	5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43092059
+Exon 11	Nonsense	c.3514G>T	p.E1172*	5 - Definitely pathogenic	>0.99	Curci (2002) Int J Oncol 20; 963		 	43092017
+Exon 11	Nonsense	c.3553G>T	p.E1185*	5 - Definitely pathogenic	>0.99	Valarmathi (2004) Hum Mutat 23; 205		 	43091978
+Exon 11	Nonsense	c.3593T>A	p.L1198*	5 - Definitely pathogenic	>0.99	Ahn (2007) Cancer Lett 245; 90		 	43091938
+Exon 11	Nonsense	c.3598C>T	p.Q1200*	5 - Definitely pathogenic	>0.99	Tartaglini (1998) Hum Mutat S1; S163		 	43091933
+Exon 11	Nonsense	c.3607C>T	p.R1203*	5 - Definitely pathogenic	>0.99	Friedman (1994) Nat Genet 8; 399		 	43091924
+Exon 11	Nonsense	c.3640G>T	p.E1214*	5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43091891
+Exon 11	Nonsense	c.3647T>G	p.L1216*	5 - Definitely pathogenic	>0.99	Yamashita (1999) Breast Cancer Res Treat 58; 11		 	43091884
+Exon 11	Nonsense	c.3661G>T	p.E1221*	5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43091870
+Exon 11	Nonsense	c.3689T>G	p.L1230*	5 - Definitely pathogenic	>0.99	Blay (2013) BMC Cancer 13;		 	43091842
+Exon 11	Nonsense	c.3718C>T	p.Q1240*	5 - Definitely pathogenic	>0.99	Kwon (2008) Int J Gynecol Cancer 18; 546		 	43091813
+Exon 11	Nonsense	c.3748G>T	p.E1250*	5 - Definitely pathogenic	>0.99	Castilla (1994) Nat Genet 8; 387		 	43091783
+Exon 11	Nonsense	c.3753T>A	p.C1251*	5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2010) Hum Mutat 32; 325		 	43091778
+Exon 11	Nonsense	c.3772G>T	p.E1258*	5 - Definitely pathogenic	>0.99	Maillet (2006) Cancer Genet Cytogenet 169; 62		 	43091759
+Exon 11	Nonsense	c.3782T>G	p.L1261*	5 - Definitely pathogenic	>0.99	Seong (2009) Clin Genet 76; 152		 	43091749
+Exon 11	Nonsense	c.3785C>A	p.S1262*	5 - Definitely pathogenic	>0.99	Vehmanen (1997) Hum Mol Genet 6; 2309		 	43091746
+Exon 11	Nonsense	c.3817C>T	p.Q1273*	5 - Definitely pathogenic	>0.99	Gallardo (2004) Rev Med Chil 132; 203		 	43091714
+Exon 11	Nonsense	c.3841C>T	p.Q1281*	5 - Definitely pathogenic	>0.99	Caputo (2012) Nucleic Acids Res 40: D992 [Additional report]		 	43091690
+Exon 11	Nonsense	c.3862G>T	p.E1288*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43091669
+Exon 11	Nonsense	c.3893C>A	p.S1298*	5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43091638
+Exon 11	Nonsense	c.3895C>T	p.Q1299*	5 - Definitely pathogenic	>0.99	Kang (2002) Hum Mutat 20; 235		 	43091636
+Exon 11	Nonsense	c.3904G>T	p.E1302*	5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43091627
+Exon 11	Nonsense	c.3937C>T	p.Q1313*	5 - Definitely pathogenic	>0.99	Miki (1994) Science 266; 66		 	43091594
+Exon 11	Nonsense	c.3967C>T	p.Q1323*	5 - Definitely pathogenic	>0.99	Capalbo (2006) Ann Oncol 17S7; vii34		 	43091564
+Exon 11	Nonsense	c.3991C>T	p.Q1331*	5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43091540
+Exon 11	Nonsense	c.4052T>A	p.L1351*	5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43091479
+Exon 11	Nonsense	c.4057G>T	p.E1353*	5 - Definitely pathogenic	>0.99	Alharbi (2005) Genome Res 15; 967		 	43091474
+Exon 11	Nonsense	c.4075C>T	p.Q1359*	5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43091456
+Exon 11	Nonsense	c.4088C>G	p.S1363*	5 - Definitely pathogenic	>0.99	Michils (2012) J Mol Diagn 14; 623		 	43091443
+Exon 12	Nonsense	c.4116T>A	p.C1372*	5 - Definitely pathogenic	>0.99	Sakayori (2003) J Hum Genet 48; 130		 	43091013
+Exon 12	Nonsense	c.4117G>T	p.E1373*	5 - Definitely pathogenic	>0.99	Risch (2001) Am J Hum Genet 68; 700		 	43091012
+Exon 12	Nonsense	c.4183C>T	p.Q1395*	5 - Definitely pathogenic	>0.99	Langston (1996) N Engl J Med 334; 137		 	43090946
+Exon 13	Nonsense	c.4186C>T	p.Q1396*	5 - Definitely pathogenic	>0.99	Cilotti (2002) J Exp Clin Cancer Res 21; 137		 	43082575
+Exon 13	Nonsense	c.4201C>T	p.Q1401*	5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2010) Hum Mutat 32; 325		 	43082560
+Exon 13	Nonsense	c.4222C>T	p.Q1408*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43082539
+Exon 13	Nonsense	c.4228G>T	p.E1410*	5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43082533
+Exon 13	Nonsense	c.4237G>T	p.E1413*	5 - Definitely pathogenic	>0.99	Melichar (2012) Acta Oncol 51; 136		 	43082524
+Exon 13	Nonsense	c.4253T>G	p.L1418*	5 - Definitely pathogenic	>0.99	Keshavarzi (2012) Fam Cancer 11; 57		 	43082508
+Exon 13	Nonsense	c.4258C>T	p.Q1420*	5 - Definitely pathogenic	>0.99	Thirthagiri (2008) Breast Cancer Res 10; R59		 	43082503
+Exon 13	Nonsense	c.4287C>A	p.Y1429*	5 - Definitely pathogenic	>0.99	Cortesi (2002) J Exp Clin Cancer Res 21; 131		 	43082474
+Exon 13	Nonsense	c.4327C>T	p.R1443*	5 - Definitely pathogenic	>0.99	Castilla (1994) Nat Genet 8; 387		 	43082434
+Exon 13	Nonsense	c.4339C>T	p.Q1447*	5 - Definitely pathogenic	>0.99	Konecny (2007) Neoplasma 54; 137		 	43082422
+Exon 14	Nonsense	c.4372C>T	p.Q1458*	5 - Definitely pathogenic	>0.99	Rostagno (2003) J Hum Genet 48; 362		 	43076600
+Exon 14	Nonsense	c.4389C>A	p.Y1463*	5 - Definitely pathogenic	>0.99	Smith (2012) Proc Biol Sci 279; 1389		 	43076583
+Exon 14	Nonsense	c.4399C>T	p.Q1467*	5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43076573
+Exon 14	Nonsense	c.4480G>T	p.E1494*	5 - Definitely pathogenic	>0.99	Eerola (2005) Breast Cancer Res 7; R93		 	43076492
+Exon 15	Nonsense	c.4487C>G	p.S1496*	5 - Definitely pathogenic	>0.99	S/NI consortium (2003) Br J Cancer 88; 1256		 	43074519
+Exon 15	Nonsense	c.4508C>A	p.S1503*	5 - Definitely pathogenic	>0.99	Liede (2002) Am J Hum Genet 71; 595		 	43074498
+Exon 15	Nonsense	c.4524G>A	p.W1508*	5 - Definitely pathogenic	>0.99	Laitman (2010) Breast Cancer Res Treat 127; 489		 	43074482
+Exon 15	Nonsense	c.4603G>T	p.E1535*	5 - Definitely pathogenic	>0.99	Schorge (2001) Gynecol Oncol 83; 383		 	43074403
+Exon 15	Nonsense	c.4609C>T	p.Q1537*	5 - Definitely pathogenic	>0.99	Ozcelik (2003) J Med Genet 40; e91		 	43074397
+Exon 15	Nonsense	c.4612C>T	p.Q1538*	5 - Definitely pathogenic	>0.99	Tartaglini (1998) Hum Mutat S1; S163		 	43074394
+Exon 15	Nonsense	c.4621G>T	p.E1541*	5 - Definitely pathogenic	>0.99	Futreal (1994) Science 266; 120		 	43074385
+Exon 15	Nonsense	c.4656C>G	p.Y1552*	5 - Definitely pathogenic	>0.99	Kwong (2012) PLoS One 7; e43994		 	43074350
+Exon 16	Nonsense	c.4678G>T	p.G1560*	5 - Definitely pathogenic	>0.99	Schrader (2012) Obstet Gynecol 120; 235		 	43071236
+Exon 16	Nonsense	c.4689C>A	p.Y1563*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43071225
+Exon 16	Nonsense	c.4689C>G	p.Y1563*	5 - Definitely pathogenic	>0.99	Serova (1996) Am J Hum Genet 58; 42		 	43071225
+Exon 16	Nonsense	c.4741G>T	p.E1581*	5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43071173
+Exon 16	Nonsense	c.4760C>G	p.S1587*	5 - Definitely pathogenic	>0.99	Robertson (2012) Br J Cancer 106; 1234		 	43071154
+Exon 16	Nonsense	c.4801A>T	p.K1601*	5 - Definitely pathogenic	>0.99	Ang (2007) Cancer Epidemiol Biomarkers Prev 16; 2276		 	43071113
+Exon 16	Nonsense	c.4810C>T	p.Q1604*	5 - Definitely pathogenic	>0.99	Laplace-Marieze (1997) Hum Mutat 9; 474		 	43071104
+Exon 16	Nonsense	c.4903G>T	p.E1635*	5 - Definitely pathogenic	>0.99	Kwong (2012) PLoS One 7; e43994		 	43071011
+Exon 16	Nonsense	c.4930G>T	p.E1644*	5 - Definitely pathogenic	>0.99	Martin (2009) Breast Cancer Res Treat 113; 393		 	43070984
+Exon 16	Nonsense	c.4942A>T	p.K1648*	5 - Definitely pathogenic	>0.99	Laraqui (2013) Int J Med Sci 10; 60		 	43070972
+Exon 16	Nonsense	c.4981G>T	p.E1661*	5 - Definitely pathogenic	>0.99	Choi (2004) J Clin Oncol 22; 1638		 	43070933
+Exon 17	Nonsense	c.4998C>A	p.Y1666*	5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43067684
+Exon 17	Nonsense	c.4999A>T	p.K1667*	5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43067683
+Exon 17	Nonsense	c.5047G>T	p.E1683*	5 - Definitely pathogenic	>0.99	Borg (1999) Dis Markers 15; 79		 	43067635
+Exon 17	Nonsense	c.5068A>T	p.K1690*	5 - Definitely pathogenic	>0.99	Robertson (2012) Br J Cancer 106; 1234		 	43067614
+Exon 18	Nonsense	c.5080G>T	p.E1694*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242	more	 	43063946
+Exon 18	Nonsense	c.5109T>G	p.Y1703*	5 - Definitely pathogenic	>0.99	Schroeder (2010) Breast Cancer Res Treat 122; 287		 	43063917
+Exon 18	Nonsense	c.5128G>T	p.G1710*	5 - Definitely pathogenic	>0.99	Fricker (2000) Bull Cancer 87; 739		 	43063898
+Exon 18	Nonsense	c.5136G>A	p.W1712*	5 - Definitely pathogenic	>0.99	Ozcelik (2003) J Med Genet 40; e91		 	43063890
+Exon 18	Nonsense	c.5148T>G	p.Y1716*	5 - Definitely pathogenic	>0.99	Vaidyanathan (2009) J Biosci 34; 415		 	43063878
+Exon 19	Nonsense	c.5153G>A	p.W1718*	5 - Definitely pathogenic	>0.99	Dong (1998) Hum Genet 103; 154		 	43063373
+Exon 19	Nonsense	c.5154G>A	p.W1718*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43063372
+Exon 19	Nonsense	c.5161C>T	p.Q1721*	5 - Definitely pathogenic	>0.99	Laitman (2010) Breast Cancer Res Treat 127; 489		 	43063365
+Exon 19	Nonsense	c.5173G>T	p.E1725*	5 - Definitely pathogenic	>0.99	Merajver (1995) Nat Genet 9; 439		 	43063353
+Exon 19	Nonsense	c.5179A>T	p.K1727*	5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43063347
+Exon 20	Nonsense	c.5251C>T	p.R1751*	5 - Definitely pathogenic	>0.99	Vehmanen (1997) Hum Mol Genet 6; 2309		 	43057078
+Exon 20	Nonsense	c.5260G>T	p.E1754*	5 - Definitely pathogenic	>0.99	Valarmathi (2003) Hum Mutat 21; 98		 	43057069
+Exon 20	Nonsense	c.5266C>T	p.Q1756*	5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43057063
+Exon 21	Nonsense	c.5293G>T	p.E1765*	5 - Definitely pathogenic	>0.99	Curci (2002) Int J Oncol 20; 963		 	43051102
+Exon 21	Nonsense	c.5307T>A	p.Y1769*	5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2010) Hum Mutat 32; 325		 	43051088
+Exon 22	Nonsense	c.5335C>T	p.Q1779*	5 - Definitely pathogenic	>0.99	Levanat (2012) Gene 498; 169		 	43049192
+Exon 22	Nonsense	c.5341G>T	p.E1781*	5 - Definitely pathogenic	>0.99	Iyevleva (2010) Cancer Lett 298; 258		 	43049186
+Exon 22	Nonsense	c.5345G>A	p.W1782*	5 - Definitely pathogenic	>0.99	Evans (2003) J Med Genet 40; e107		 	43049182
+Exon 22	Nonsense	c.5346G>A	p.W1782*	5 - Definitely pathogenic	>0.99	Sobczak (1997) Oncogene 15; 1773		 	43049181
+Exon 22	Nonsense	c.5353C>T	p.Q1785*	5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43049174
+Exon 22	Nonsense	c.5377A>T	p.K1793*	5 - Definitely pathogenic	>0.99	Stegel (2011) BMC Med Genet 12; 9		 	43049150
+Exon 23	Nonsense	c.5431C>T	p.Q1811*	5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43047679
+Exon 23	Nonsense	c.5444G>A	p.W1815*	5 - Definitely pathogenic	>0.99	Montagna (1996) Cancer Res 56; 5466		 	43047666
+Exon 23	Nonsense	c.5445G>A	p.W1815*	5 - Definitely pathogenic	>0.99	Seo (2004) Hum Mutat 24; 350		 	43047665
+Exon 23	Nonsense	c.5449G>T	p.E1817*	5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43047661
+Exon 24	Nonsense	c.5503C>T	p.R1835*	5 - Definitely pathogenic	>0.99	Serova (1996) Am J Hum Genet 58; 42	more	 	43045767
+Exon 24	Nonsense	c.5506G>T	p.E1836*	5 - Definitely pathogenic	>0.99	Diez-Gilbert (1999) Med Clin (Barc) 112; 51		 	43045764
+Exon 24	Nonsense	c.5510G>A	p.W1837*	5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8	more	 	43045760
+Exon 24	Nonsense	c.5511G>A	p.W1837*	5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369	more	 	43045759
+Exon 24	Nonsense	c.5536C>T	p.Q1846*	5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43045734
+Exon 24	Nonsense	c.5541C>A	p.C1847*	5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2010) Hum Mutat 32; 325		 	43045729
+Exon 24	Nonsense	c.5559C>G	p.Y1853*	5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242	more	 	43045711
+Intron 2	Splice Site	c.81-6T>A		5 - Definitely pathogenic	>0.99	Vreeswijk (2009) Hum Mutat 30; 107		 	43115785
+Intron 2	Splice Site	c.81-2A>G		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2010) Hum Mutat 32; 325		 	43115781
+Intron 2	Splice Site	c.81-1G>A		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43115780
+Intron 2	Splice Site	c.81-1G>C		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583	Wappenschmidt (2012) PLoS One 7; e50800	 	43115780
+Intron 2	Splice Site	c.80+1G>A		5 - Definitely pathogenic	>0.99	Fackenthal (2012) Int J Cancer 131; 1114		 	43124016
+Intron 3	Splice Site	c.135-1G>C		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654	Wappenschmidt (2012) PLoS One 7; e50800	 	43106534
+Intron 3	Splice Site	c.135-1G>T		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43106534
+Intron 3	Splice Site	c.134+1G>A		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99	Houdayer (2012) Hum Mutat 33; 1228	 	43115725
+Intron 3	Splice Site	c.134+1G>T		5 - Definitely pathogenic	>0.99	Thirthagiri (2008) Breast Cancer Res 10; R59		 	43115725
+Intron 3	Splice Site	c.134+2T>G		5 - Definitely pathogenic	>0.99	Palma (2008) Cancer Res 68; 7006		 	43115724
+Intron 3	Splice Site	c.134+3A>C		5 - Definitely pathogenic	>0.99	Phelan (2002) Hum Mutat 20; 352	Claes (2003) Genes Chromosomes Cancer 37 314	 	43115723
+Intron 5	Splice Site	c.213-12A>G		5 - Definitely pathogenic	>0.99	Hoffman (1998) Am J Med Genet 80; 140	Men‚ndez (2012) Breast Cancer Res Treat 132: 979 [Functional characterisation]	 	43104968
+Intron 5	Splice Site	c.213-11T>G		5 - Definitely pathogenic	>0.99	Friedman (1994) Nat Genet 8; 399	Colombo (2013) PLoS One 8: e57173 [Functional characterisation]	 	43104967
+Intron 5	Splice Site	c.213-2A>C		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2010) Hum Mutat 32; 325	Houdayer (2012) Hum Mutat 33; 1228	 	43104958
+Intron 5	Splice Site	c.213-2A>G		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99	Mucaki (2013) Hum Mutat 34: 557 [Additional report]	 	43104958
+Intron 5	Splice Site	c.213-1G>A		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43104957
+Exon 5	Splice Site	c.211A>G		5 - Definitely pathogenic	>0.99	Vega (2001) Hum Mutat 17; 520	Men‚ndez (2012) Breast Cancer Res Treat 132: 979 [Functional characterisation]	 	43106457
+Intron 5	Splice Site	c.212+1G>A		5 - Definitely pathogenic	>0.99	Friedman (1995) Am J Hum Genet 57; 1284	Sanz (2010) Clin Cancer Res 16: 1957 [Functional characterisation]	 	43106455
+Intron 5	Splice Site	c.212+1G>C		5 - Definitely pathogenic	>0.99	Evans (2003) J Med Genet 40; e107	Wappenschmidt (2012) PLoS One 7; e50800	 	43106455
+Intron 5	Splice Site	c.212+1G>T		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242	Meindl (2002) Int J Cancer 97: 472 [Additional report]	 	43106455
+Intron 5	Splice Site	c.212+2T>C		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428	Houdayer (2012) Hum Mutat 33; 1228	 	43106454
+Intron 6	Splice Site	c.302-3C>G		5 - Definitely pathogenic	>0.99	Easton (2007) Am J Hum Genet 81; 873	Machackova (2008) BMC Cancer 8: 140	 	43104264
+Intron 6	Splice Site	c.302-2A>C		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43104263
+Intron 6	Splice Site	c.302-2A>G		5 - Definitely pathogenic	>0.99	Robertson (2012) Br J Cancer 106; 1234		 	43104263
+Intron 6	Splice Site	c.302-1G>A		5 - Definitely pathogenic	>0.99	Osorio (2003) Eur J Hum Genet 11; 489	Guti‚rrez-Enr¡quez (2009) Breast Cancer Res Treat 117: 461 [Functional characterisation]	 	43104262
+Intron 6	Splice Site	c.302-1G>C		5 - Definitely pathogenic	>0.99	Easton (2007) Am J Hum Genet 81; 873	Lindor (2012) Hum Mutat 33: 8 [Additional report]	 	43104262
+Intron 7	Splice Site	c.441+1G>A		5 - Definitely pathogenic	>0.99	Chen (2006) Hum Mutat 27; 427	Mucaki (2013) Hum Mutat 34: 557 [Additional report]	 	43104121
+Intron 7	Splice Site	c.441+2T>A		5 - Definitely pathogenic	>0.99	Thomassen (2012) Breast Cancer Res Treat 132; 1009		 	43104120
+Intron 7	Splice Site	c.441+2T>G		5 - Definitely pathogenic	>0.99	Colombo (2013) PLoS One 8; e57173		 	43104120
+Intron 8	Splice Site	c.547+1G>T		5 - Definitely pathogenic	>0.99	Evans (2003) J Med Genet 40; e107		 	43099774
+Intron 8	Splice Site	c.547+2T>A		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242	Pyne (1999) Mutat Res 406: 101 [Additional characterisation]	 	43099773
+Intron 9	Splice Site	c.594-2A>C		5 - Definitely pathogenic	>0.99	Scott (2003) Hum Genet 112; 542		 	43095924
+Intron 9	Splice Site	c.594-2A>G		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43095924
+Intron 10	Splice Site	c.671-2A>C		5 - Definitely pathogenic	>0.99	Keaton (2003) J Hum Genet 48; 399		 	43094862
+Intron 10	Splice Site	c.671-1G>A		5 - Definitely pathogenic	>0.99	Evans (2003) J Med Genet 40; e107		 	43094861
+Intron 11	Splice Site	c.4097-2A>G		5 - Definitely pathogenic	>0.99	Vehmanen (1997) Hum Mol Genet 6; 2309		 	43091034
+Intron 11	Splice Site	c.4097-1G>A		5 - Definitely pathogenic	>0.99	Easton (2007) Am J Hum Genet 81; 873	Lindor (2012) Hum Mutat 33: 8 [Additional report]	 	43091033
+Intron 11	Splice Site	c.4096+1G>A		5 - Definitely pathogenic	>0.99	Bonatti (2006) Cancer Genet Cytogenet 170; 93		 	43091434
+Intron 11	Splice Site	c.4096+3A>G		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43091432
+Exon 12	Splice Site	c.4185G>A		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428	Machackova (2008) BMC Cancer 8: 140 [Additional report]	 	43090944
+Intron 12	Splice Site	c.4185+1G>T		5 - Definitely pathogenic	>0.99	Haffty (2009) Ann Oncol 20; 1653		 	43090943
+Intron 13	Splice Site	c.4357+1G>A		5 - Definitely pathogenic	>0.99	Pal (2004) Cancer Epidemiol Biomarkers Prev 13; 1794	Thomassen (2012) Breast Cancer Res Treat 132: 1009 [Functional characterisation]	 	43082403
+Intron 13	Splice Site	c.4357+1G>C		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43082403
+Intron 13	Splice Site	c.4357+1G>T		5 - Definitely pathogenic	>0.99	Sugano (2008) Cancer Sci 99; 1967	Men‚ndez (2012) Breast Cancer Res Treat 132: 979 [Functional characterisation]	 	43082403
+Intron 13	Splice Site	c.4357+2T>C		5 - Definitely pathogenic	>0.99	Saxena (2002) Hum Mutat 20; 473		 	43082402
+Intron 13	Splice Site	c.4357+6T>C		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43082398
+Intron 14	Splice Site	c.4485-2A>G		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43074523
+Intron 14	Splice Site	c.4485-1G>A		5 - Definitely pathogenic	>0.99	Liede (2002) Am J Hum Genet 71; 595		 	43074522
+Exon 14	Splice Site	c.4484G>T		5 - Definitely pathogenic	>0.99	Ozcelik (1999) Hum Mutat 14; 540	Colombo (2013) PLoS One 8: e57173 [Functional characterisation]	 	43076488
+Intron 14	Splice Site	c.4484+1G>A		5 - Definitely pathogenic	>0.99	Perkowska (2003) Hum Mutat 21; 553	Houdayer (2012) Hum Mutat 33; 1228	 	43076487
+Intron 14	Splice Site	c.4484+1G>T		5 - Definitely pathogenic	>0.99	Men‚ndez (2012) Breast Cancer Res Treat 132; 979		 	43076487
+Exon 15	Splice Site	c.4675G>A		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43074331
+Exon 15	Splice Site	c.4675G>C		5 - Definitely pathogenic	>0.99	Abkevich (2004) J Med Genet 41; 492		 	43074331
+Intron 15	Splice Site	c.4675+1G>A		5 - Definitely pathogenic	>0.99	Adem (2003) Cancer 97; 1	Lindor (2012) Hum Mutat 33: 8 [Additional report]	 	43074330
+Intron 16	Splice Site	c.4987-5T>A		5 - Definitely pathogenic	>0.99	Bonnet (2008) J Med Genet 45; 438		 	43067700
+Intron 16	Splice Site	c.4987-3C>G		5 - Definitely pathogenic	>0.99	Brand?o (2011) Breast Cancer Res Treat 129; 971	Brand?o (2012) Breast Cancer Res Treat 131: 723 [Functional characterisation]	 	43067698
+Intron 16	Splice Site	c.4987-2A>G		5 - Definitely pathogenic	>0.99	Meyer (2003) Hum Mutat 22; 259	Thomassen (2012) Breast Cancer Res Treat 132: 1009 [Functional characterisation]	 	43067697
+Intron 16	Splice Site	c.4987-1G>A		5 - Definitely pathogenic	>0.99	Colombo (2013) PLoS One 8; e57173		 	43067696
+Intron 16	Splice Site	c.4986+1G>T		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315	Colombo (2013) PLoS One 8: e57173 [Functional characterisation]	 	43070927
+Intron 16	Splice Site	c.4986+2T>C		5 - Definitely pathogenic	>0.99	Borg (2010) Hum Mutat 31; E1200		 	43070926
+Intron 16	Splice Site	c.4986+3G>C		5 - Definitely pathogenic	>0.99	Adem (2003) Cancer 97; 1	Wappenschmidt (2012) PLoS One 7; e50800	 	43070925
+Intron 16	Splice Site	c.4986+4A>G		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43070924
+Intron 16	Splice Site	c.4986+5G>A		5 - Definitely pathogenic	>0.99	Vreeswijk (2009) Hum Mutat 30; 107	Colombo (2013) PLoS One 8: e57173 [Functional characterisation]	 	43070923
+Intron 16	Splice Site	c.4986+6T>C		5 - Definitely pathogenic	>0.99	Scholl (1999) Am J Med Genet 85; 113		 	43070922
+Intron 16	Splice Site	c.4986+6T>G		5 - Definitely pathogenic	>0.99	Risch (2001) Am J Hum Genet 68; 700	Chen (2006) Hum Mutat 27; 427	 	43070922
+Intron 17	Splice Site	c.5075-2A>C		5 - Definitely pathogenic	>0.99	Andersen (1998) Hum Mutat 11; 166		 	43063953
+Intron 17	Splice Site	c.5075-2A>G		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43063953
+Intron 17	Splice Site	c.5075-2A>T		5 - Definitely pathogenic	>0.99	De Silva (2008) BMC Cancer 8; 214		 	43063953
+Intron 17	Splice Site	c.5075-1G>A		5 - Definitely pathogenic	>0.99	Phelan (2002) Hum Mutat 20; 352		 	43063952
+Intron 17	Splice Site	c.5075-1G>T		5 - Definitely pathogenic	>0.99	Song (2005) Zhonghua Yi Xue Za Zhi 85; 3030		 	43063952
+Exon 17	Splice Site	c.5074G>A		5 - Definitely pathogenic	>0.99	Bergthorsson (1998) Hum Mutat S1; S195	Wappenschmidt (2012) PLoS One 7; e50800	 	43067608
+Exon 17	Splice Site	c.5074G>C		5 - Definitely pathogenic	>0.99	Thomassen (2012) Breast Cancer Res Treat 132; 1009	Houdayer (2012) Hum Mutat 33; 1228	 	43067608
+Exon 17	Splice Site	c.5074G>T		5 - Definitely pathogenic	>0.99	Abkevich (2004) J Med Genet 41; 492		 	43067608
+Intron 17	Splice Site	c.5074+1G>A		5 - Definitely pathogenic	>0.99	Easton (2007) Am J Hum Genet 81; 873	Lindor (2012) Hum Mutat 33: 8 [Additional report]	 	43067607
+Intron 17	Splice Site	c.5074+1G>T		5 - Definitely pathogenic	>0.99	Choi (2004) J Clin Oncol 22; 1638	Brose (2004) Genet Test 8; 133	 	43067607
+Intron 17	Splice Site	c.5074+3A>G		5 - Definitely pathogenic	>0.99	Men‚ndez (2012) Breast Cancer Res Treat 132; 979		 	43067605
+Intron 18	Splice Site	c.5153-1G>A		5 - Definitely pathogenic	>0.99	Osorio (2000) Br J Cancer 82; 1266	Sanz (2010) Clin Cancer Res 16: 1957 [Functional characterisation]	 	43063374
+Intron 18	Splice Site	c.5153-1G>C		5 - Definitely pathogenic	>0.99	Johannsson (1996) Am J Hum Genet 58; 441	Lindor (2012) Hum Mutat 33: 8 [Additional report]	 	43063374
+Intron 18	Splice Site	c.5153-1G>T		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43063374
+Intron 18	Splice Site	c.5152+1G>A		5 - Definitely pathogenic	>0.99	Kang (2012) Breast Cancer Res Treat 134; 1189		 	43063873
+Intron 18	Splice Site	c.5152+1G>C		5 - Definitely pathogenic	>0.99	Dong (1998) Hum Genet 103; 154	Wappenschmidt (2012) PLoS One 7; e50800	 	43063873
+Intron 18	Splice Site	c.5152+1G>T		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428	Lindor (2012) Hum Mutat 33: 8 [Additional report]	 	43063873
+Intron 18	Splice Site	c.5152+5G>A		5 - Definitely pathogenic	>0.99	Campos (2003) Hum Mutat 22; 337		 	43063869
+Intron 19	Splice Site	c.5194-2A>C		5 - Definitely pathogenic	>0.99	Robertson (2012) Br J Cancer 106; 1234		 	43057137
+Intron 19	Splice Site	c.5194-2A>G		5 - Definitely pathogenic	>0.99	Esteban-Cardenosa (2004) Clin Chem 50; 313		 	43057137
+Intron 19	Splice Site	c.5194-1G>T		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43057136
+Intron 19	Splice Site	c.5193+1G>C		5 - Definitely pathogenic	>0.99	Kwong (2012) PLoS One 7; e43994		 	43063332
+Intron 19	Splice Site	c.5193+2T>G		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43063331
+Intron 20	Splice Site	c.5278-2A>T		5 - Definitely pathogenic	>0.99	Jang (2012) J Hum Genet 57; 212		 	43051119
+Intron 20	Splice Site	c.5278-1G>A		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242	Wappenschmidt (2012) PLoS One 7; e50800	 	43051118
+Intron 20	Splice Site	c.5278-1G>C		5 - Definitely pathogenic	>0.99	de la Hoya (2002) Int J Cancer 97; 466	Houdayer (2012) Hum Mutat 33; 1228	 	43051118
+Intron 20	Splice Site	c.5278-1G>T		5 - Definitely pathogenic	>0.99	Hamann (1997) J Med Genet 34; 884		 	43051118
+Intron 20	Splice Site	c.5277+1G>A		5 - Definitely pathogenic	>0.99	de la Hoya (2001) Int J Cancer 91; 137	Sanz (2010) Clin Cancer Res 16: 1957 [Functional characterisation]	 	43057051
+Intron 20	Splice Site	c.5277+1G>C		5 - Definitely pathogenic	>0.99	de la Hoya (2002) Int J Cancer 97; 466		 	43057051
+Intron 21	Splice Site	c.5333-6T>G		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43049200
+Intron 21	Splice Site	c.5333-2A>C		5 - Definitely pathogenic	>0.99	Al-Mulla (2009) J Clin Pathol 62; 350		 	43049196
+Intron 21	Splice Site	c.5333-2A>T		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43049196
+Intron 21	Splice Site	c.5333-1G>A		5 - Definitely pathogenic	>0.99	Schroeder (2010) Breast Cancer Res Treat 122; 287		 	43049195
+Intron 21	Splice Site	c.5333-1G>C		5 - Definitely pathogenic	>0.99	Gadzicki (2009) Cancer Genet Cytogenet 189; 105		 	43049195
+Intron 21	Splice Site	c.5333-1G>T		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43049195
+Intron 21	Splice Site	c.5332+1G>A		5 - Definitely pathogenic	>0.99	Fricker (2000) Bull Cancer 87; 739	Colombo (2013) PLoS One 8: e57173 [Functional characterisation]	 	43051062
+Intron 21	Splice Site	c.5332+1G>C		5 - Definitely pathogenic	>0.99	Song (2005) Zhonghua Yi Xue Za Zhi 85; 3030		 	43051062
+Intron 21	Splice Site	c.5332+2T>C		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43051061
+Intron 22	Splice Site	c.5407-2A>G		5 - Definitely pathogenic	>0.99	Campos (2003) Hum Mutat 22; 337		 	43047705
+Exon 23	Splice Site	c.5408G>C		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43047702
+Intron 22	Splice Site	c.5406+3A>T		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43049118
+Intron 22	Splice Site	c.5406+4A>G		5 - Definitely pathogenic	>0.99	Wappenschmidt (2012) PLoS One 7; e50800		 	43049117
+Intron 22	Splice Site	c.5406+5G>A		5 - Definitely pathogenic	>0.99	Petrij-Bosch (1997) Nat Genet 17; 341		 	43049116
+Intron 22	Splice Site	c.5406+5G>C		5 - Definitely pathogenic	>0.99	Fostira (2012) Breast Cancer Res Treat 134; 353	Houdayer (2012) Hum Mutat 33; 1228	 	43049116
+Intron 22	Splice Site	c.5406+33A>T		5 - Definitely pathogenic	>0.99	Matsushima (1995) Hum Mol Genet 4; 1953		 	43049088
+Exon 23	Splice Site	c.5467G>A		5 - Definitely pathogenic	>0.99	Ladopoulou (2002) Cancer Genet Cytogenet 134; 175		 	43047643
+Intron 23	Splice Site	c.5467+1G>A		5 - Definitely pathogenic	>0.99	Laskie Ostrow (2001) Cancer Genet Cytogenet 127; 188		 	43047642
+Exon 2	Deletion	c.61delA		5 - Definitely pathogenic	>0.99	Thirthagiri (2008) Breast Cancer Res 10; R59		 	43124036
+Exon 2	Deletion	c.64_65delTT		5 - Definitely pathogenic	>0.99	Fries (2002) Mil Med 167; 99		 	43124032
+Exon 2	Deletion	c.66_67delAG		5 - Definitely pathogenic	>0.99	Simard (1994) Nat Genet 8; 392	O'Donnell (2010) Gynecol Oncol 116: 262 [Functional characterisation]	 	43124030
+Exon 2	Deletion	c.68_69delAG		5 - Definitely pathogenic	>0.99	Struewing (1995) Am J Hum Genet 57; 1	O'Donnell (2008) In Vitro Cell Dev Biol Anim 44: 357 [Functional characterisation]	 	43124028
+Exon 2	Deletion	c.70_80del11		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43124017
+Exon 2	Deletion	c.72_73delTC		5 - Definitely pathogenic	>0.99	Takahashi (1995) Cancer Res 55; 2998		 	43124024
+Intron 2	Deletion	c.81-2delA		5 - Definitely pathogenic	>0.99	Martin (2004) Cancer Genet Cytogenet 150; 173		 	43115781
+Exon 3	Deletion	c.83_84delTG		5 - Definitely pathogenic	>0.99	Uhrhammer (2008) Int J Med Sci 5; 197		 	43115776
+Exon 3	Deletion	c.112_113delAA		5 - Definitely pathogenic	>0.99	Friedman (1995) Am J Hum Genet 57; 1284		 	43115747
+Exon 3	Deletion	c.117_118delTG		5 - Definitely pathogenic	>0.99	Osorio (2000) Br J Cancer 82; 1266		 	43115742
+Exon 3	Deletion	c.122delA		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43115738
+Exon 3	Deletion	c.124delA		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021	Menéndez (2012) Breast Cancer Res Treat 132: 979 [Functional characterisation]	 	43115736
+Exon 3	Deletion	c.133_134delAA		5 - Definitely pathogenic	>0.99	Couch (1997) N Engl J Med 336; 1409		 	43115726
+Intron 3	Deletion	c.134+2delT		5 - Definitely pathogenic	>0.99	Toh (2008) PLoS One 3; e2024		 	43115724
+Intron 3	Deletion	c.134+3_134+6del4		5 - Definitely pathogenic	>0.99	Caligo (1996) Oncogene 13; 1483	Colombo (2013) PLoS One 8: e57173 [Functional characterisation]	 	43115720
+Exon 5	Deletion	c.144delG		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43106524
+Exon 5	Deletion	c.160delC		5 - Definitely pathogenic	>0.99	Evans (2003) J Med Genet 40; e107		 	43106508
+Exon 5	Deletion	c.178_179delCA		5 - Definitely pathogenic	>0.99	Vaidyanathan (2009) J Biosci 34; 415		 	43106489
+Exon 5	Deletion	c.182_183delGT		5 - Definitely pathogenic	>0.99	Papi (2009) Breast Cancer Res Treat 117; 497		 	43106485
+Exon 5	Deletion	c.190_193del4		5 - Definitely pathogenic	>0.99	Sugano (2008) Cancer Sci 99; 1967		 	43106475
+Exon 5	Deletion	c.195delG		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43106473
+Exon 5	Deletion	c.211delA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43106457
+Exon 6	Deletion	c.232delA		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43104937
+Exon 6	Deletion	c.246delT		5 - Definitely pathogenic	>0.99	Smith (2013) Hum Mutat 34; 1026		 	43104923
+Exon 6	Deletion	c.290_291delCA		5 - Definitely pathogenic	>0.99	Bergman (2005) Fam Cancer 4; 89		 	43104878
+Intron 6	Deletion	c.302-2delA		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43104263
+Exon 7	Deletion	c.329_330delAG		5 - Definitely pathogenic	>0.99	Frank (1998) J Clin Oncol 16; 2417		 	43104233
+Exon 7	Deletion	c.342_343delTC	p.P115*	5 - Definitely pathogenic	>0.99	Negura (2010) Fam Cancer 9; 519		 	43104220
+Exon 7	Deletion	c.399_400delTG		5 - Definitely pathogenic	>0.99	Steinmann (2001) Br J Cancer 85; 850		 	43104163
+Exon 7	Deletion	c.431delA		5 - Definitely pathogenic	>0.99	Rashid (2006) Int J Cancer 119; 2832		 	43104132
+Exon 7	Deletion	c.437_440del4		5 - Definitely pathogenic	>0.99	Musolino (2007) Breast 16; 280		 	43104123
+Exon 8	Deletion	c.457_458delAG		5 - Definitely pathogenic	>0.99	Stegel (2011) BMC Med Genet 12; 9		 	43099864
+Exon 8	Deletion	c.470_471delCT		5 - Definitely pathogenic	>0.99	de la Hoya (2001) Int J Cancer 91; 137		 	43099851
+Exon 8	Deletion	c.470_477del8		5 - Definitely pathogenic	>0.99	Hu (2008) Zhonghua Yi Xue Za Zhi 88; 2383		 	43099845
+Exon 8	Deletion	c.485_486delTG		5 - Definitely pathogenic	>0.99	Borg (2010) Hum Mutat 31; E1200		 	43099836
+Exon 8	Deletion	c.488delG		5 - Definitely pathogenic	>0.99	Meyer (2003) Hum Mutat 22; 259		 	43099834
+Exon 8	Deletion	c.493_494delCT		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43099828
+Exon 8	Deletion	c.514delC		5 - Definitely pathogenic	>0.99	van Orsouw (1999) J Med Genet 36; 747		 	43099808
+Exon 8	Deletion	c.520delC		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43099802
+Exon 8	Deletion	c.536delA		5 - Definitely pathogenic	>0.99	Machado (2007) J Clin Oncol 25; 2027		 	43099786
+Exon 9	Deletion	c.548delG		5 - Definitely pathogenic	>0.99	Li (2006) Int J Gynecol Cancer 16S1; 172		 	43097289
+Exon 10	Deletion	c.667_668delAA		5 - Definitely pathogenic	>0.99	Eerola (2005) Breast Cancer Res 7; R93		 	43095848
+Exon 11	Deletion	c.676delT		5 - Definitely pathogenic	>0.99	Serova (1997) Am J Hum Genet 60; 486		 	43094855
+Exon 11	Deletion	c.697_698delGT		5 - Definitely pathogenic	>0.99	Frank (1998) J Clin Oncol 16; 2417		 	43094833
+Exon 11	Deletion	c.737delT		5 - Definitely pathogenic	>0.99	Zhang (2011) Gynecol Oncol 121; 353		 	43094794
+Exon 11	Deletion	c.744delC		5 - Definitely pathogenic	>0.99	Schneegans (2012) Fam Cancer 11; 181		 	43094787
+Exon 11	Deletion	c.791_794del4		5 - Definitely pathogenic	>0.99	Llort (2002) Hum Mutat 19; 307		 	43094737
+Exon 11	Deletion	c.794_795delCT		5 - Definitely pathogenic	>0.99	Borg (1999) Dis Markers 15; 79		 	43094736
+Exon 11	Deletion	c.798_799delTT		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43094732
+Exon 11	Deletion	c.835delC		5 - Definitely pathogenic	>0.99	Zuradelli (2010) Breast Cancer Res Treat 124; 251		 	43094696
+Exon 11	Deletion	c.843_846del4		5 - Definitely pathogenic	>0.99	Wagner (1998) Int J Cancer 77; 354		 	43094685
+Exon 11	Deletion	c.895_896delGT		5 - Definitely pathogenic	>0.99	Couch (1997) N Engl J Med 336; 1409		 	43094635
+Exon 11	Deletion	c.909delA		5 - Definitely pathogenic	>0.99	Kumar (2002) Cancer Biol Ther 1; 18		 	43094622
+Exon 11	Deletion	c.924delC		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43094607
+Exon 11	Deletion	c.927delA		5 - Definitely pathogenic	>0.99	Gadzicki (2009) Cancer Genet Cytogenet 189; 105		 	43094604
+Exon 11	Deletion	c.929delA		5 - Definitely pathogenic	>0.99	Friedman (1995) Am J Hum Genet 57; 1284		 	43094602
+Exon 11	Deletion	c.930delG		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43094601
+Exon 11	Deletion	c.933delT		5 - Definitely pathogenic	>0.99	Juwle (2012) Med Oncol 29; 3272		 	43094598
+Exon 11	Deletion	c.959_960delGA		5 - Definitely pathogenic	>0.99	Kwong (2012) PLoS One 7; e43994		 	43094571
+Exon 11	Deletion	c.961delT		5 - Definitely pathogenic	>0.99	Khoo (2000) Hum Mutat 16; 88		 	43094570
+Exon 11	Deletion	c.964delG		5 - Definitely pathogenic	>0.99	Smith (2001) Gynecol Oncol 83; 586		 	43094567
+Exon 11	Deletion	c.980_981delCA		5 - Definitely pathogenic	>0.99	Palomba (2009) BMC Cancer 9; 245		 	43094550
+Exon 11	Deletion	c.981_982delAT		5 - Definitely pathogenic	>0.99	Fitzgerald (1996) N Engl J Med 334; 143		 	43094549
+Exon 11	Deletion	c.985_986delAA		5 - Definitely pathogenic	>0.99	Sauvan (2000) Hum Mutat 17; 154		 	43094545
+Exon 11	Deletion	c.1016delA		5 - Definitely pathogenic	>0.99	Hogervorst (1995) Nat Genet 10; 208		 	43094515
+Exon 11	Deletion	c.1018delG		5 - Definitely pathogenic	>0.99	Eccles (1998) Br J Cancer 77; 2199		 	43094513
+Exon 11	Deletion	c.1039_1040delCT		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43094491
+Exon 11	Deletion	c.1040delT		5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43094491
+Exon 11	Deletion	c.1049_1050delGA		5 - Definitely pathogenic	>0.99	Custodio (2012) J Cancer Res Clin Oncol 138; 867		 	43094481
+Exon 11	Deletion	c.1067delA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43094464
+Exon 11	Deletion	c.1068_1077del10		5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43094454
+Exon 11	Deletion	c.1072delC		5 - Definitely pathogenic	>0.99	Claes (1999) Hum Mutat 13; 256		 	43094459
+Exon 11	Deletion	c.1082_1092del11		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43094439
+Exon 11	Deletion	c.1086_1087delGA		5 - Definitely pathogenic	>0.99	Frank (1998) J Clin Oncol 16; 2417		 	43094444
+Exon 11	Deletion	c.1088delA		5 - Definitely pathogenic	>0.99	Montagna (1996) Cancer Res 56; 5466		 	43094443
+Exon 11	Deletion	c.1091delC		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43094440
+Exon 11	Deletion	c.1112delC		5 - Definitely pathogenic	>0.99	Sugano (2008) Cancer Sci 99; 1967		 	43094419
+Exon 11	Deletion	c.1121delC		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43094410
+Exon 11	Deletion	c.1122_1123delAC		5 - Definitely pathogenic	>0.99	Diez (1999) Int J Cancer 83; 465		 	43094408
+Exon 11	Deletion	c.1127delA		5 - Definitely pathogenic	>0.99	Arnold (1999) Hum Mutat 14; 333		 	43094404
+Exon 11	Deletion	c.1158_1159delTT		5 - Definitely pathogenic	>0.99	Sauvan (2000) Hum Mutat 17; 154		 	43094372
+Exon 11	Deletion	c.1157_1170del14		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43094361
+Exon 11	Deletion	c.1166delG		5 - Definitely pathogenic	>0.99	Konecny (2007) Neoplasma 54; 137		 	43094365
+Exon 11	Deletion	c.1175_1178del4		5 - Definitely pathogenic	>0.99	Martin (2001) J Clin Oncol 19; 2247		 	43094353
+Exon 11	Deletion	c.1188delT		5 - Definitely pathogenic	>0.99	Gajalakshmi (2007) Breast Cancer Res Treat 101; 3		 	43094343
+Exon 11	Deletion	c.1204delG		5 - Definitely pathogenic	>0.99	Struewing (1995) Am J Hum Genet 57; 1		 	43094327
+Exon 11	Deletion	c.1217delA		5 - Definitely pathogenic	>0.99	Garcia-Patino (1998) J Clin Oncol 16; 115		 	43094314
+Exon 11	Deletion	c.1232_1233delAT		5 - Definitely pathogenic	>0.99	Schrader (2012) Obstet Gynecol 120; 235		 	43094298
+Exon 11	Deletion	c.1255delG		5 - Definitely pathogenic	>0.99	Frank (1998) J Clin Oncol 16; 2417		 	43094276
+Exon 11	Deletion	c.1292delT		5 - Definitely pathogenic	>0.99	Michils (2012) J Mol Diagn 14; 623		 	43094239
+Exon 11	Deletion	c.1297delG		5 - Definitely pathogenic	>0.99	Zhang (2011) Gynecol Oncol epub; epub		 	43094234
+Exon 11	Deletion	c.1319delT		5 - Definitely pathogenic	>0.99	Hogervorst (1995) Nat Genet 10; 208		 	43094212
+Exon 11	Deletion	c.1335_1336delAA		5 - Definitely pathogenic	>0.99	Kadouri (2004) Int J Cancer 108; 399		 	43094195
+Exon 11	Deletion	c.1360_1361delAG		5 - Definitely pathogenic	>0.99	van Orsouw (1999) J Med Genet 36; 747		 	43094170
+Exon 11	Deletion	c.1371delA		5 - Definitely pathogenic	>0.99	Llort (2002) Hum Mutat 19; 307		 	43094160
+Exon 11	Deletion	c.1374delC		5 - Definitely pathogenic	>0.99	Reeves (2004) Int J Cancer 110; 677		 	43094157
+Exon 11	Deletion	c.1386delG		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43094145
+Exon 11	Deletion	c.1390delA		5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43094141
+Exon 11	Deletion	c.1392delC		5 - Definitely pathogenic	>0.99	Sng (2000) Br J Cancer 82; 538		 	43094139
+Exon 11	Deletion	c.1403delA		5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43094128
+Exon 11	Deletion	c.1405delG		5 - Definitely pathogenic	>0.99	Garcia-Patino (1998) J Clin Oncol 16; 115		 	43094126
+Exon 11	Deletion	c.1444delA		5 - Definitely pathogenic	>0.99	Palma (2008) Cancer Res 68; 7006		 	43094087
+Exon 11	Deletion	c.1444_1447del4		5 - Definitely pathogenic	>0.99	Emi (1998) Jpn J Cancer Res 89; 12		 	43094084
+Exon 11	Deletion	c.1483_1498del16		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43094033
+Exon 11	Deletion	c.1492delC		5 - Definitely pathogenic	>0.99	Garvin (1996) J Med Genet 33; 721		 	43094039
+Exon 11	Deletion	c.1499delA		5 - Definitely pathogenic	>0.99	Zhang (2011) Gynecol Oncol epub; epub		 	43094032
+Exon 11	Deletion	c.1504_1507del4		5 - Definitely pathogenic	>0.99	Solano (2012) SpringerPlus 1;		 	43094024
+Exon 11	Deletion	c.1504_1508del5		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43094023
+Exon 11	Deletion	c.1506_1510del5		5 - Definitely pathogenic	>0.99	Gao (2000) Hum Genet 107; 186		 	43094021
+Exon 11	Deletion	c.1504_1518del15		5 - Definitely pathogenic	>0.99	Smith (2001) Gynecol Oncol 83; 586		 	43094013
+Exon 11	Deletion	c.1510delC		5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43094021
+Exon 11	Deletion	c.1517_1521del5		5 - Definitely pathogenic	>0.99	Choi (2004) J Clin Oncol 22; 1638		 	43094010
+Exon 11	Deletion	c.1530delA		5 - Definitely pathogenic	>0.99	S/NI Consortium (2003) Br J Cancer 88; 1256		 	43094001
+Exon 11	Deletion	c.1551delT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093980
+Exon 11	Deletion	c.1556delA		5 - Definitely pathogenic	>0.99	Johannsson (1996) Am J Hum Genet 58; 441		 	43093975
+Exon 11	Deletion	c.1570delG		5 - Definitely pathogenic	>0.99	Esteban Cardeñosa (2008) Breast Cancer Res Treat 112; 69		 	43093961
+Exon 11	Deletion	c.1583_1589del7		5 - Definitely pathogenic	>0.99	Moslehi (1998) Am J Med Genet 78; 386		 	43093942
+Exon 11	Deletion	c.1595_1601del7		5 - Definitely pathogenic	>0.99	S/NI Consortium (2003) Br J Cancer 88; 1256		 	43093930
+Exon 11	Deletion	c.1608_1611del4		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43093920
+Exon 11	Deletion	c.1649delA		5 - Definitely pathogenic	>0.99	Risch (2001) Am J Hum Genet 68; 700		 	43093882
+Exon 11	Deletion	c.1673_1674delAA		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43093857
+Exon 11	Deletion	c.1674delA		5 - Definitely pathogenic	>0.99	Couch (1997) N Engl J Med 336; 1409		 	43093857
+Exon 11	Deletion	c.1694delA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093837
+Exon 11	Deletion	c.1700delA		5 - Definitely pathogenic	>0.99	Yazici (2002) Hum Mutat 20; 28		 	43093831
+Exon 11	Deletion	c.1713_1717del5		5 - Definitely pathogenic	>0.99	Gao (1997) Am J Hum Genet 60; 1233		 	43093814
+Exon 11	Deletion	c.1716delA		5 - Definitely pathogenic	>0.99	Seong (2009) Clin Genet 76; 152		 	43093815
+Exon 11	Deletion	c.1729_1730delGA		5 - Definitely pathogenic	>0.99	Vaziri (2000) Hum Mutat 17; 74		 	43093801
+Exon 11	Deletion	c.1757delC		5 - Definitely pathogenic	>0.99	Hopper (1999) Cancer Epidemiol Biomarkers Prev 8; 741		 	43093774
+Exon 11	Deletion	c.1758_1761del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093770
+Exon 11	Deletion	c.1805delA		5 - Definitely pathogenic	>0.99	Vehmanen (1997) Hum Mol Genet 6; 2309		 	43093726
+Exon 11	Deletion	c.1817delC		5 - Definitely pathogenic	>0.99	Uhrhammer (2008) Int J Med Sci 5; 197		 	43093714
+Exon 11	Deletion	c.1823delA		5 - Definitely pathogenic	>0.99	Ahn (2007) Cancer Lett 245; 90		 	43093708
+Exon 11	Deletion	c.1823_1826del4		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43093705
+Exon 11	Deletion	c.1831delC	p.L611*	5 - Definitely pathogenic	>0.99	Seong (2009) Clin Genet 76; 152		 	43093700
+Exon 11	Deletion	c.1846_1848delTCT	p.Ser616del	5 - Definitely pathogenic	>0.99	Ellis (2000) J Med Genet 37; 792		 	43093683
+Exon 11	Deletion	c.1881_1884del4		5 - Definitely pathogenic	>0.99	Gayther (1999) Am J Hum Genet 65; 1021		 	43093647
+Exon 11	Deletion	c.1889delA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093642
+Exon 11	Deletion	c.1906delT		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43093625
+Exon 11	Deletion	c.1912delG		5 - Definitely pathogenic	>0.99	Diez (2003) Hum Mutat 22; 301		 	43093619
+Exon 11	Deletion	c.1930delT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093601
+Exon 11	Deletion	c.1936delA		5 - Definitely pathogenic	>0.99	Jang (2012) J Hum Genet 57; 212		 	43093595
+Exon 11	Deletion	c.1938_1947del10		5 - Definitely pathogenic	>0.99	Ciernikova (2003) Neoplasma 50; 403		 	43093584
+Exon 11	Deletion	c.1949_1950delTA		5 - Definitely pathogenic	>0.99	Diez (2011) Oncol Lett 2; 1287		 	43093581
+Exon 11	Deletion	c.1952delA		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43093579
+Exon 11	Deletion	c.1953_1956del4		5 - Definitely pathogenic	>0.99	van Orsouw (1999) J Med Genet 36; 747		 	43093575
+Exon 11	Deletion	c.1958_1961del4		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43093570
+Exon 11	Deletion	c.1961delA		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43093570
+Exon 11	Deletion	c.1996delC		5 - Definitely pathogenic	>0.99	Schneegans (2012) Fam Cancer 11; 181		 	43093535
+Exon 11	Deletion	c.2019delA		5 - Definitely pathogenic	>0.99	Yazici (2002) Hum Mutat 20; 28		 	43093512
+Exon 11	Deletion	c.2021delC		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43093510
+Exon 11	Deletion	c.2028_2029delTG		5 - Definitely pathogenic	>0.99	Yoshihara (2011) Genes Chromosomes Cancer 50; 167		 	43093502
+Exon 11	Deletion	c.2048delA		5 - Definitely pathogenic	>0.99	Kim (2006) Biochem Biophys Res Commun 349; 604		 	43093483
+Exon 11	Deletion	c.2063_2066del4		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43093465
+Exon 11	Deletion	c.2071delA		5 - Definitely pathogenic	>0.99	Andersen (1998) Hum Mutat 11; 166		 	43093460
+Exon 11	Deletion	c.2074delC		5 - Definitely pathogenic	>0.99	Hegde (2000) Hum Mutat 16; 422		 	43093457
+Exon 11	Deletion	c.2075_2076delAT		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43093455
+Exon 11	Deletion	c.2086delA		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43093445
+Exon 11	Deletion	c.2110_2111delAA		5 - Definitely pathogenic	>0.99	Bergman (2005) Fam Cancer 4; 89		 	43093420
+Exon 11	Deletion	c.2126_2127delTT		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43093404
+Exon 11	Deletion	c.2155_2168del14		5 - Definitely pathogenic	>0.99	Papi (2009) Breast Cancer Res Treat 117; 497		 	43093363
+Exon 11	Deletion	c.2166delC		5 - Definitely pathogenic	>0.99	Yang (2011) JAMA 306; 1557		 	43093365
+Exon 11	Deletion	c.2174delG		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43093357
+Exon 11	Deletion	c.2176_2177delCT		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43093354
+Exon 11	Deletion	c.2188_2201del14		5 - Definitely pathogenic	>0.99	Lim (2009) Nat Med 15; 907		 	43093330
+Exon 11	Deletion	c.2192_2196del5		5 - Definitely pathogenic	>0.99	Fackenthal (2012) Int J Cancer 131; 1114		 	43093335
+Exon 11	Deletion	c.2193_2196del4		5 - Definitely pathogenic	>0.99	Matsushima (1995) Hum Mol Genet 4; 1953		 	43093335
+Exon 11	Deletion	c.2196delA		5 - Definitely pathogenic	>0.99	Smith (2001) Gynecol Oncol 83; 586		 	43093335
+Exon 11	Deletion	c.2197_2201del5		5 - Definitely pathogenic	>0.99	Hogervorst (1995) Nat Genet 10; 208		 	43093330
+Exon 11	Deletion	c.2199delG		5 - Definitely pathogenic	>0.99	Al-Sukhni (2008) Hum Genet 124; 271		 	43093332
+Exon 11	Deletion	c.2210delC		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43093321
+Exon 11	Deletion	c.2210_2211delCA		5 - Definitely pathogenic	>0.99	Frank (1998) J Clin Oncol 16; 2417		 	43093320
+Exon 11	Deletion	c.2211_2212delAG		5 - Definitely pathogenic	>0.99	Smith (2001) Gynecol Oncol 83; 586		 	43093319
+Exon 11	Deletion	c.2212_2215del4		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43093316
+Exon 11	Deletion	c.2216_2217delAA		5 - Definitely pathogenic	>0.99	Yassaee (2002) Breast Cancer Res 4; R6		 	43093314
+Exon 11	Deletion	c.2241delC		5 - Definitely pathogenic	>0.99	Infante (2006) J Hum Genet 51; 611		 	43093290
+Exon 11	Deletion	c.2248_2252del5		5 - Definitely pathogenic	>0.99	Zhang (2012) Breast Cancer Res Treat 132; 421		 	43093279
+Exon 11	Deletion	c.2253_2254delGT		5 - Definitely pathogenic	>0.99	Khoo (2000) Hum Mutat 16; 88		 	43093277
+Exon 11	Deletion	c.2269delG		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43093262
+Exon 11	Deletion	c.2283_2284delAA		5 - Definitely pathogenic	>0.99	Johannsson (1996) Am J Hum Genet 58; 441		 	43093247
+Exon 11	Deletion	c.2296_2297delAG	p.S766*	5 - Definitely pathogenic	>0.99	Friedman (1994) Nat Genet 8; 399		 	43093234
+Exon 11	Deletion	c.2299delA		5 - Definitely pathogenic	>0.99	Tworek (1999) Cancer Genet Cytogenet 112; 105		 	43093232
+Exon 11	Deletion	c.2308delT		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	43093223
+Exon 11	Deletion	c.2314delG		5 - Definitely pathogenic	>0.99	Borg (2010) Hum Mutat 31; E1200		 	43093217
+Exon 11	Deletion	c.2350_2351delTC		5 - Definitely pathogenic	>0.99	Montagna (2002) Int J Cancer 98; 732		 	43093180
+Exon 11	Deletion	c.2351_2357del7		5 - Definitely pathogenic	>0.99	Moller (2007) Eur J Cancer 43; 1713		 	43093174
+Exon 11	Deletion	c.2356delC		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43093175
+Exon 11	Deletion	c.2357delT		5 - Definitely pathogenic	>0.99	Yazici (2002) Hum Mutat 20; 28		 	43093174
+Exon 11	Deletion	c.2359delG		5 - Definitely pathogenic	>0.99	Kim (2006) Biochem Biophys Res Commun 349; 604		 	43093172
+Exon 11	Deletion	c.2389delG		5 - Definitely pathogenic	>0.99	Borg (2010) Hum Mutat 31; E1200		 	43093142
+Exon 11	Deletion	c.2389_2390delGA		5 - Definitely pathogenic	>0.99	Yamashita (1999) Breast Cancer Res Treat 58; 11		 	43093141
+Exon 11	Deletion	c.2390_2391delAA		5 - Definitely pathogenic	>0.99	Schehl (1997) J Natl Cancer Inst 89; 1547		 	43093140
+Exon 11	Deletion	c.2405_2406delTG		5 - Definitely pathogenic	>0.99	Risch (2001) Am J Hum Genet 68; 700		 	43093125
+Exon 11	Deletion	c.2406_2409del4		5 - Definitely pathogenic	>0.99	Weitzel (2005) Cancer Epidemiol Biomarkers Prev 14; 1666		 	43093122
+Exon 11	Deletion	c.2411delA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093120
+Exon 11	Deletion	c.2411_2412delAG		5 - Definitely pathogenic	>0.99	Rothfuss (2000) Cancer Res 60; 390		 	43093119
+Exon 11	Deletion	c.2429delA		5 - Definitely pathogenic	>0.99	Jung (2008) Anal Bioanal Chem 391; 405		 	43093102
+Exon 11	Deletion	c.2433delC		5 - Definitely pathogenic	>0.99	Weitzel (2005) Cancer Epidemiol Biomarkers Prev 14; 1666		 	43093098
+Exon 11	Deletion	c.2457delC		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43093074
+Exon 11	Deletion	c.2475delC		5 - Definitely pathogenic	>0.99	Plummer (1995) Hum Mol Genet 4; 1989		 	43093056
+Exon 11	Deletion	c.2476delA		5 - Definitely pathogenic	>0.99	Johannsson (1996) Am J Hum Genet 58; 441		 	43093055
+Exon 11	Deletion	c.2477delC		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43093054
+Exon 11	Deletion	c.2486_2487delTT		5 - Definitely pathogenic	>0.99	Jara (2006) Cancer Genet Cytogenet 166; 36		 	43093044
+Exon 11	Deletion	c.2487delT		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43093044
+Exon 11	Deletion	c.2501delG		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093030
+Exon 11	Deletion	c.2507_2508delAA		5 - Definitely pathogenic	>0.99	De Leeneer (2012) Breast Cancer Res Treat 132; 87		 	43093023
+Exon 11	Deletion	c.2515delC		5 - Definitely pathogenic	>0.99	King (2001) JAMA 286; 2251		 	43093016
+Exon 11	Deletion	c.2517_2518delCA		5 - Definitely pathogenic	>0.99	Krainer (1997) N Engl J Med 336; 1419		 	43093013
+Exon 11	Deletion	c.2518delA		5 - Definitely pathogenic	>0.99	Couch (1997) N Engl J Med 336; 1409		 	43093013
+Exon 11	Deletion	c.2529delA		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43093002
+Exon 11	Deletion	c.2551delG		5 - Definitely pathogenic	>0.99	Troudi (2008) Cancer Biomark 4; 11		 	43092980
+Exon 11	Deletion	c.2556delT		5 - Definitely pathogenic	>0.99	Emi (1998) Jpn J Cancer Res 89; 12		 	43092975
+Exon 11	Deletion	c.2561_2565del5		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	43092966
+Exon 11	Deletion	c.2594delA		5 - Definitely pathogenic	>0.99	Miesfeldt (1998) Cancer Genet Cytogenet 100; 43		 	43092937
+Exon 11	Deletion	c.2611_2612delCC		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43092919
+Exon 11	Deletion	c.2643delA		5 - Definitely pathogenic	>0.99	Tikhomirova (2007) Genetika 43; 1263		 	43092888
+Exon 11	Deletion	c.2646_2648delTGC		5 - Definitely pathogenic	>0.99	Verhoog (1998) Lancet 351; 316		 	43092883
+Exon 11	Deletion	c.2657_2658delCT		5 - Definitely pathogenic	>0.99	Gayther (1999) Am J Hum Genet 65; 1021		 	43092873
+Exon 11	Deletion	c.2670delG		5 - Definitely pathogenic	>0.99	Troudi (2007) J Hum Genet 52; 915		 	43092861
+Exon 11	Deletion	c.2671delT		5 - Definitely pathogenic	>0.99	Hu (2003) Hum Mutat 22; 104		 	43092860
+Exon 11	Deletion	c.2679_2680delGA		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092851
+Exon 11	Deletion	c.2679_2682del4		5 - Definitely pathogenic	>0.99	Couch (1997) N Engl J Med 336; 1409		 	43092849
+Exon 11	Deletion	c.2681_2682delAA		5 - Definitely pathogenic	>0.99	Friedman (1994) Nat Genet 8; 399		 	43092849
+Exon 11	Deletion	c.2682delA		5 - Definitely pathogenic	>0.99	Young (2009) BMC Cancer 9; 86		 	43092849
+Exon 11	Deletion	c.2683_2686del4		5 - Definitely pathogenic	>0.99	Infante (2006) J Hum Genet 51; 611		 	43092845
+Exon 11	Deletion	c.2685_2686delAA		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43092845
+Exon 11	Deletion	c.2686delA		5 - Definitely pathogenic	>0.99	Solano (2012) SpringerPlus 1;		 	43092845
+Exon 11	Deletion	c.2702_2703delTT		5 - Definitely pathogenic	>0.99	Risch (2001) Am J Hum Genet 68; 700		 	43092828
+Exon 11	Deletion	c.2709_2710delTG		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092821
+Exon 11	Deletion	c.2719_2722del4		5 - Definitely pathogenic	>0.99	Risch (2006) J Natl Cancer Inst 98; 1694		 	43092809
+Exon 11	Deletion	c.2726delA		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43092805
+Exon 11	Deletion	c.2726_2730del5		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43092801
+Exon 11	Deletion	c.2727_2730del4		5 - Definitely pathogenic	>0.99	Montagna (1996) Cancer Res 56; 5466		 	43092801
+Exon 11	Deletion	c.2728delC		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43092803
+Exon 11	Deletion	c.2744_2745delCT		5 - Definitely pathogenic	>0.99	Friedman (1994) Nat Genet 8; 399		 	43092786
+Exon 11	Deletion	c.2762delA		5 - Definitely pathogenic	>0.99	Foretova (2004) Hum Mutat 23; 397		 	43092769
+Exon 11	Deletion	c.2766delA		5 - Definitely pathogenic	>0.99	Ho (2000) Cancer 89; 811		 	43092765
+Exon 11	Deletion	c.2764_2767del4		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43092764
+Exon 11	Deletion	c.2796_2799del4		5 - Definitely pathogenic	>0.99	Malone (1998) JAMA 279; 922		 	43092732
+Exon 11	Deletion	c.2798_2799delGT		5 - Definitely pathogenic	>0.99	Hu (2008) Zhonghua Yi Xue Za Zhi 88; 2383		 	43092732
+Exon 11	Deletion	c.2805delA		5 - Definitely pathogenic	>0.99	Tazzite (2012) Gynecol Oncol 125; 687		 	43092726
+Exon 11	Deletion	c.2806_2809del4		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43092722
+Exon 11	Deletion	c.2808_2811del4		5 - Definitely pathogenic	>0.99	Laplace-Marieze (1999) Int J Oncol 14; 971		 	43092720
+Exon 11	Deletion	c.2812_2813delCC		5 - Definitely pathogenic	>0.99	Palma (2008) Cancer Res 68; 7006		 	43092718
+Exon 11	Deletion	c.2814delA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092717
+Exon 11	Deletion	c.2830delT		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43092701
+Exon 11	Deletion	c.2834_2835delGT		5 - Definitely pathogenic	>0.99	Risch (2006) J Natl Cancer Inst 98; 1694		 	43092696
+Exon 11	Deletion	c.2835_2836delTA		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43092695
+Exon 11	Deletion	c.2836_2837delAT		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43092694
+Exon 11	Deletion	c.2844_2853del10		5 - Definitely pathogenic	>0.99	Grudinina (2005) Hum Genet 41; 405		 	43092678
+Exon 11	Deletion	c.2846delG		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092685
+Exon 11	Deletion	c.2856_2857delTT		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43092674
+Exon 11	Deletion	c.2866_2870del5		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43092661
+Exon 11	Deletion	c.2872_2876del5		5 - Definitely pathogenic	>0.99	Ratajska (2008) Oncol Rep 19; 263		 	43092655
+Exon 11	Deletion	c.2875delA		5 - Definitely pathogenic	>0.99	Lee (2011) J Clin Oncol 29; 4373		 	43092656
+Exon 11	Deletion	c.2887delA		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092644
+Exon 11	Deletion	c.2898delT		5 - Definitely pathogenic	>0.99	Michils (2012) J Mol Diagn 14; 623		 	43092633
+Exon 11	Deletion	c.2910delA		5 - Definitely pathogenic	>0.99	Bergman (2005) Fam Cancer 4; 89		 	43092621
+Exon 11	Deletion	c.2911delC		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092620
+Exon 11	Deletion	c.2920_2921delTT		5 - Definitely pathogenic	>0.99	Garvin (1997) J Med Genet 34; 990		 	43092610
+Exon 11	Deletion	c.2934delT		5 - Definitely pathogenic	>0.99	Vaziri (2000) Hum Mutat 17; 74		 	43092597
+Exon 11	Deletion	c.2951_2952delTT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092579
+Exon 11	Deletion	c.2952delT		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	43092579
+Exon 11	Deletion	c.2955delC		5 - Definitely pathogenic	>0.99	Robertson (2012) Br J Cancer 106; 1234		 	43092576
+Exon 11	Deletion	c.2967delT		5 - Definitely pathogenic	>0.99	De Silva (2008) BMC Cancer 8; 214		 	43092564
+Exon 11	Deletion	c.2973_2979del7		5 - Definitely pathogenic	>0.99	Risch (2006) J Natl Cancer Inst 98; 1694		 	43092552
+Exon 11	Deletion	c.2974_2990del17		5 - Definitely pathogenic	>0.99	Zhang (2011) Gynecol Oncol 121; 353		 	43092541
+Exon 11	Deletion	c.2980delT		5 - Definitely pathogenic	>0.99	Konstantopoulou (2000) Hum Mutat 16; 272		 	43092551
+Exon 11	Deletion	c.2990delA		5 - Definitely pathogenic	>0.99	Fackenthal (2012) Int J Cancer 131; 1114		 	43092541
+Exon 11	Deletion	c.2999delA		5 - Definitely pathogenic	>0.99	Mote (2004) Genes Chromosomes Cancer 39; 236		 	43092532
+Exon 11	Deletion	c.3005delA		5 - Definitely pathogenic	>0.99	Simard (1994) Nat Genet 8; 392		 	43092526
+Exon 11	Deletion	c.3008_3009delTT		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43092522
+Exon 11	Deletion	c.3013delG		5 - Definitely pathogenic	>0.99	Goelen (1999) J Med Genet 36; 304		 	43092518
+Exon 11	Deletion	c.3018_3021del4		5 - Definitely pathogenic	>0.99	Wagner (1998) Int J Cancer 77; 354		 	43092510
+Exon 11	Deletion	c.3029_3030delCT		5 - Definitely pathogenic	>0.99	John (2007) JAMA 298; 2869		 	43092501
+Exon 11	Deletion	c.3084_3094del11		5 - Definitely pathogenic	>0.99	Moller (2007) Eur J Cancer 43; 1713		 	43092437
+Exon 11	Deletion	c.3107_3112del6	p.F1036*	5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43092419
+Exon 11	Deletion	c.3108delT		5 - Definitely pathogenic	>0.99	Pal (2001) Fam Cancer 1; 17		 	43092423
+Exon 11	Deletion	c.3125_3134del10		5 - Definitely pathogenic	>0.99	Vaca-Paniagua (2012) PLoS One 7; e37432		 	43092397
+Exon 11	Deletion	c.3143delG		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092388
+Exon 11	Deletion	c.3145delT		5 - Definitely pathogenic	>0.99	Bonadona (2005) Genes Chromosomes Cancer 43; 404		 	43092386
+Exon 11	Deletion	c.3155delA		5 - Definitely pathogenic	>0.99	Hopper (1999) Cancer Epidemiol Biomarkers Prev 8; 741		 	43092376
+Exon 11	Deletion	c.3157delG		5 - Definitely pathogenic	>0.99	Lim (2009) J Cancer Res Clin Oncol 135; 1593		 	43092374
+Exon 11	Deletion	c.3164delG		5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43092367
+Exon 11	Deletion	c.3168delC		5 - Definitely pathogenic	>0.99	Gayther (1999) Am J Hum Genet 65; 1021		 	43092363
+Exon 11	Deletion	c.3169_3172del4		5 - Definitely pathogenic	>0.99	Ahmad (2012) Clin Genet 82; 594		 	43092359
+Exon 11	Deletion	c.3181delA		5 - Definitely pathogenic	>0.99	Patmasiriwat (2002) Hum Mutat 20; 230		 	43092350
+Exon 11	Deletion	c.3183delA		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43092348
+Exon 11	Deletion	c.3214delC		5 - Definitely pathogenic	>0.99	Kwong (2012) PLoS One 7; e43994		 	43092317
+Exon 11	Deletion	c.3228_3229delAG		5 - Definitely pathogenic	>0.99	Malone (1998) JAMA 279; 922		 	43092302
+Exon 11	Deletion	c.3262delG		5 - Definitely pathogenic	>0.99	Sng (2000) Br J Cancer 82; 538		 	43092269
+Exon 11	Deletion	c.3266delT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092265
+Exon 11	Deletion	c.3279delC		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43092252
+Exon 11	Deletion	c.3285delA		5 - Definitely pathogenic	>0.99	Papi (2009) Breast Cancer Res Treat 117; 497		 	43092246
+Exon 11	Deletion	c.3286delC		5 - Definitely pathogenic	>0.99	Naseem (2006) Clin Genet 70; 388		 	43092245
+Exon 11	Deletion	c.3288_3289delAA		5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43092242
+Exon 11	Deletion	c.3289delA		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43092242
+Exon 11	Deletion	c.3296delC		5 - Definitely pathogenic	>0.99	Hopper (1999) Cancer Epidemiol Biomarkers Prev 8; 741		 	43092235
+Exon 11	Deletion	c.3314delA		5 - Definitely pathogenic	>0.99	Bergman (2005) Fam Cancer 4; 89		 	43092217
+Exon 11	Deletion	c.3323_3326del4		5 - Definitely pathogenic	>0.99	Duarte (2002) Rev Clin Esp 202; 259		 	43092205
+Exon 11	Deletion	c.3326_3329del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092202
+Exon 11	Deletion	c.3329delA		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43092202
+Exon 11	Deletion	c.3329_3330delAG		5 - Definitely pathogenic	>0.99	Salgado (2005) Oncol Rep 14; 85		 	43092201
+Exon 11	Deletion	c.3331delC		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092200
+Exon 11	Deletion	c.3331_3334del4		5 - Definitely pathogenic	>0.99	Durocher (1996) J Med Genet 33; 814		 	43092197
+Exon 11	Deletion	c.3333delA		5 - Definitely pathogenic	>0.99	Elit (2001) Int J Gynecol Cancer 11; 241		 	43092198
+Exon 11	Deletion	c.3333_3336del4		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43092195
+Exon 11	Deletion	c.3342_3345del4		5 - Definitely pathogenic	>0.99	Kwong (2009) Breast Cancer Res Treat 117; 683		 	43092186
+Exon 11	Deletion	c.3343delG		5 - Definitely pathogenic	>0.99	Meyer (2003) Hum Mutat 22; 259		 	43092188
+Exon 11	Deletion	c.3354_3355delGA		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43092176
+Exon 11	Deletion	c.3355_3359del5		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092172
+Exon 11	Deletion	c.3357delT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092174
+Exon 11	Deletion	c.3358_3359delGT		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43092172
+Exon 11	Deletion	c.3359_3360delTT		5 - Definitely pathogenic	>0.99	Miramar (2008) Breast Cancer Res Treat 112; 353		 	43092171
+Exon 11	Deletion	c.3359_3363del5		5 - Definitely pathogenic	>0.99	Li (2006) Int J Gynecol Cancer 16S1; 172		 	43092168
+Exon 11	Deletion	c.3375_3376delTC		5 - Definitely pathogenic	>0.99	Kashima (2000) Jpn J Cancer Res 91; 399		 	43092155
+Exon 11	Deletion	c.3377delC		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	43092154
+Exon 11	Deletion	c.3390delA		5 - Definitely pathogenic	>0.99	Litton (2012) Cancer 118; 321		 	43092141
+Exon 11	Deletion	c.3397_3398delTT		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43092133
+Exon 11	Deletion	c.3413delG		5 - Definitely pathogenic	>0.99	Amikura (2006) Gynecol Oncol 100; 365		 	43092118
+Exon 11	Deletion	c.3416delG		5 - Definitely pathogenic	>0.99	Robertson (2012) Br J Cancer 106; 1234		 	43092115
+Exon 11	Deletion	c.3417delT		5 - Definitely pathogenic	>0.99	Salgado (2009) Breast Cancer Res Treat 113; 71		 	43092114
+Exon 11	Deletion	c.3424delG		5 - Definitely pathogenic	>0.99	Chan (2012) J Mol Diagn 14; 602		 	43092107
+Exon 11	Deletion	c.3436_3439del4		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43092092
+Exon 11	Deletion	c.3442delG		5 - Definitely pathogenic	>0.99	Sugano (2008) Cancer Sci 99; 1967		 	43092089
+Exon 11	Deletion	c.3450delT		5 - Definitely pathogenic	>0.99	Zhang (2012) Breast Cancer Res Treat 132; 421		 	43092081
+Exon 11	Deletion	c.3468delT		5 - Definitely pathogenic	>0.99	Ruiz-Flores (2002) Hum Mutat 20; 474		 	43092063
+Exon 11	Deletion	c.3476_3479del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092052
+Exon 11	Deletion	c.3477_3480del4		5 - Definitely pathogenic	>0.99	Montagna (1996) Cancer Res 56; 5466		 	43092051
+Exon 11	Deletion	c.3481delG		5 - Definitely pathogenic	>0.99	Gross (1999) Hum Genet 105; 72		 	43092050
+Exon 11	Deletion	c.3481_3491del11		5 - Definitely pathogenic	>0.99	Struewing (1995) Am J Hum Genet 57; 1		 	43092040
+Exon 11	Deletion	c.3485delA		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43092046
+Exon 11	Deletion	c.3494_3495delTT		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43092036
+Exon 11	Deletion	c.3505_3509del5		5 - Definitely pathogenic	>0.99	Sugano (2008) Cancer Sci 99; 1967		 	43092022
+Exon 11	Deletion	c.3540_3541delCG		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43091990
+Exon 11	Deletion	c.3549_3550delAG		5 - Definitely pathogenic	>0.99	Meijers-Heijboer (2001) N Engl J Med 345; 159		 	43091981
+Exon 11	Deletion	c.3583delC		5 - Definitely pathogenic	>0.99	Esteban Cardeñosa (2008) Breast Cancer Res Treat 112; 69		 	43091948
+Exon 11	Deletion	c.3596_3602del7		5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43091929
+Exon 11	Deletion	c.3612delA		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43091919
+Exon 11	Deletion	c.3626delT		5 - Definitely pathogenic	>0.99	Vehmanen (1997) Hum Mol Genet 6; 2309		 	43091905
+Exon 11	Deletion	c.3628delG		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43091903
+Exon 11	Deletion	c.3629_3630delAG		5 - Definitely pathogenic	>0.99	Sauvan (2000) Hum Mutat 17; 154		 	43091901
+Exon 11	Deletion	c.3642_3643delGA		5 - Definitely pathogenic	>0.99	Machackova (2001) Hum Mutat 18; 545		 	43091888
+Exon 11	Deletion	c.3676_3679del4		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43091852
+Exon 11	Deletion	c.3695_3698del4		5 - Definitely pathogenic	>0.99	Esteban Cardeñosa (2010) Breast Cancer Res Treat 121; 257		 	43091833
+Exon 11	Deletion	c.3699delA		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43091832
+Exon 11	Deletion	c.3700_3704del5		5 - Definitely pathogenic	>0.99	Takahashi (1995) Cancer Res 55; 2998		 	43091827
+Exon 11	Deletion	c.3704delA		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43091827
+Exon 11	Deletion	c.3704_3707del4		5 - Definitely pathogenic	>0.99	Palomba (2009) BMC Cancer 9; 245		 	43091824
+Exon 11	Deletion	c.3706_3707delAA		5 - Definitely pathogenic	>0.99	Alharbi (2005) Genome Res 15; 967		 	43091824
+Exon 11	Deletion	c.3706_3713del8		5 - Definitely pathogenic	>0.99	Haffty (2009) Ann Oncol 20; 1653		 	43091818
+Exon 11	Deletion	c.3710delT		5 - Definitely pathogenic	>0.99	Johannsson (1996) Am J Hum Genet 58; 441		 	43091821
+Exon 11	Deletion	c.3715delT		5 - Definitely pathogenic	>0.99	Uhrhammer (2008) Int J Med Sci 5; 197		 	43091816
+Exon 11	Deletion	c.3731_3738del8		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43091793
+Exon 11	Deletion	c.3756_3757delGT		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43091774
+Exon 11	Deletion	c.3756_3759del4		5 - Definitely pathogenic	>0.99	Castilla (1994) Nat Genet 8; 387		 	43091772
+Exon 11	Deletion	c.3758_3759delCT		5 - Definitely pathogenic	>0.99	Solano (2012) SpringerPlus 1;		 	43091772
+Exon 11	Deletion	c.3759_3760delTA		5 - Definitely pathogenic	>0.99	John (2007) JAMA 298; 2869		 	43091771
+Exon 11	Deletion	c.3762_3763delGA		5 - Definitely pathogenic	>0.99	Ottini (1998) Hum Mutat S1; S237		 	43091768
+Exon 11	Deletion	c.3763_3764delAA		5 - Definitely pathogenic	>0.99	Alharbi (2005) Genome Res 15; 967		 	43091767
+Exon 11	Deletion	c.3770_3771delAG		5 - Definitely pathogenic	>0.99	Takahashi (1995) Cancer Res 55; 2998		 	43091760
+Exon 11	Deletion	c.3771_3778del8		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	43091753
+Exon 11	Deletion	c.3774_3775delGA		5 - Definitely pathogenic	>0.99	Bonadona (2005) Genes Chromosomes Cancer 43; 404		 	43091756
+Exon 11	Deletion	c.3779delT		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43091752
+Exon 11	Deletion	c.3794delA		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43091737
+Exon 11	Deletion	c.3820delG	p.V1274*	5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43091711
+Exon 11	Deletion	c.3844delG		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43091687
+Exon 11	Deletion	c.3858_3861del4		5 - Definitely pathogenic	>0.99	Frank (1998) J Clin Oncol 16; 2417		 	43091670
+Exon 11	Deletion	c.3869_3870delAA		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43091661
+Exon 11	Deletion	c.3876delT		5 - Definitely pathogenic	>0.99	Walsh (2011) Proc Natl Acad Sci U S A 108; 18032		 	43091655
+Exon 11	Deletion	c.3901_3902delAG		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43091629
+Exon 11	Deletion	c.3910delG		5 - Definitely pathogenic	>0.99	Heidemann (2012) Breast Cancer Res Treat 134; 1229		 	43091621
+Exon 11	Deletion	c.3914delA		5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43091617
+Exon 11	Deletion	c.3916_3917delTT		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43091614
+Exon 11	Deletion	c.3926delA		5 - Definitely pathogenic	>0.99	Muller (2004) Fam Cancer 3; 15		 	43091605
+Exon 11	Deletion	c.3927_3930del4		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43091601
+Exon 11	Deletion	c.3931_3934del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43091597
+Exon 11	Deletion	c.3932delA		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43091599
+Exon 11	Deletion	c.3952_3955del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43091576
+Exon 11	Deletion	c.3967delC		5 - Definitely pathogenic	>0.99	Meyer (2003) Hum Mutat 22; 259		 	43091564
+Exon 11	Deletion	c.3968_3971del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43091560
+Exon 11	Deletion	c.3973delA		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43091558
+Exon 11	Deletion	c.3981delG		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43091550
+Exon 11	Deletion	c.3999delT		5 - Definitely pathogenic	>0.99	Awadelkarim (2007) Breast Cancer Res Treat 102; 189		 	43091532
+Exon 11	Deletion	c.4001delG		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43091530
+Exon 11	Deletion	c.4002_4005del4		5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43091526
+Exon 11	Deletion	c.4032_4034delTGA	p.D1344del	5 - Definitely pathogenic	>0.99	Tikhomirova (2007) Genetika 43; 1263		 	43091497
+Exon 11	Deletion	c.4035delA		5 - Definitely pathogenic	>0.99	Gayther (1996) Am J Hum Genet 58; 451		 	43091496
+Exon 11	Deletion	c.4038_4039delAA		5 - Definitely pathogenic	>0.99	Salgado (2011) Oncol Lett 2; 807		 	43091492
+Exon 11	Deletion	c.4038_4041del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43091490
+Exon 11	Deletion	c.4041_4042delAG		5 - Definitely pathogenic	>0.99	Eccles (1998) Br J Cancer 77; 2199		 	43091489
+Exon 11	Deletion	c.4043delG		5 - Definitely pathogenic	>0.99	S/NI Consortium (2003) Br J Cancer 88; 1256		 	43091488
+Exon 11	Deletion	c.4057_4061del5		5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43091470
+Exon 11	Deletion	c.4062_4068del7		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43091463
+Exon 11	Deletion	c.4065_4068del4		5 - Definitely pathogenic	>0.99	Friedman (1994) Nat Genet 8; 399		 	43091463
+Exon 11	Deletion	c.4066_4069del4		5 - Definitely pathogenic	>0.99	Jara (2004) Biol Res 37; 469		 	43091462
+Exon 11	Deletion	c.4092_4093delCT		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43091438
+Exon 11	Deletion	c.4094delT	p.L1365*	5 - Definitely pathogenic	>0.99	Vaidyanathan (2009) J Biosci 34; 415		 	43091437
+Exon 12	Deletion	c.4120_4121delAG		5 - Definitely pathogenic	>0.99	Montagna (1996) Cancer Res 56; 5466		 	43091008
+Exon 12	Deletion	c.4122_4123delTG		5 - Definitely pathogenic	>0.99	Fackenthal (2012) Int J Cancer 131; 1114		 	43091006
+Exon 12	Deletion	c.4129delA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43091000
+Exon 12	Deletion	c.4136_4137delCT		5 - Definitely pathogenic	>0.99	Li (2006) Int J Gynecol Cancer 16S1; 172		 	43090992
+Exon 12	Deletion	c.4158_4162del5		5 - Definitely pathogenic	>0.99	Rajkumar (2003) Asian Pac J Mol Biol Biotechnol 4; 203		 	43090967
+Exon 12	Deletion	c.4161_4162delTC		5 - Definitely pathogenic	>0.99	Hamann (1997) J Med Genet 34; 884		 	43090967
+Exon 12	Deletion	c.4165_4166delAG	p.S1389*	5 - Definitely pathogenic	>0.99	Dong (1998) Hum Genet 103; 154		 	43090963
+Exon 12	Deletion	c.4167delT		5 - Definitely pathogenic	>0.99	Martin (2001) J Clin Oncol 19; 2247		 	43090962
+Exon 12	Deletion	c.4167_4168delTG		5 - Definitely pathogenic	>0.99	Fostira (2012) Breast Cancer Res Treat 134; 353		 	43090961
+Exon 12	Deletion	c.4183_4185delCAG	p.Gln1395del	5 - Definitely pathogenic	>0.99	Balz (2002) Cancer Genet Cytogenet 138; 120		 	43090944
+Exon 12	Deletion	c.4185_4185+3del4		5 - Definitely pathogenic	>0.99	Thomassen (2012) Breast Cancer Res Treat 132; 1009		 	43090941
+Exon 13	Deletion	c.4195_4196delAC		5 - Definitely pathogenic	>0.99	Diez (2003) Hum Mutat 22; 301		 	43082565
+Exon 13	Deletion	c.4243delG		5 - Definitely pathogenic	>0.99	Konecny (2011) Breast Cancer Res Treat 126; 119		 	43082518
+Exon 13	Deletion	c.4251_4252delGT		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43082509
+Exon 13	Deletion	c.4307_4308delCT		5 - Definitely pathogenic	>0.99	de Juan (2009) Breast Cancer Res Treat 115; 405		 	43082453
+Exon 13	Deletion	c.4331_4332delAT		5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43082429
+Intron 13	Deletion	c.4357+1delG		5 - Definitely pathogenic	>0.99	Musolino (2005) Tumori 91; 505	Menéndez (2012) Breast Cancer Res Treat 132: 979 [Functional characterisation]	 	43082403
+Exon 14	Deletion	c.4373_4389del17		5 - Definitely pathogenic	>0.99	Hegde (2000) Hum Mutat 16; 422		 	43076583
+Exon 14	Deletion	c.4391delC		5 - Definitely pathogenic	>0.99	Yazici (2000) Br J Cancer 83; 737		 	43076581
+Exon 14	Deletion	c.4393delA		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43076579
+Exon 14	Deletion	c.4435delG		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43076537
+Exon 14	Deletion	c.4447delA		5 - Definitely pathogenic	>0.99	Tommasi (2005) Mutat Res 578; 395		 	43076525
+Exon 14	Deletion	c.4452_4455del4		5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43076517
+Exon 14	Deletion	c.4456delA		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43076516
+Exon 14	Deletion	c.4457delG		5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43076515
+Exon 14	Deletion	c.4482_4483delAA		5 - Definitely pathogenic	>0.99	Frank (1998) J Clin Oncol 16; 2417		 	43076489
+Intron 14	Deletion	c.4484+1delG		5 - Definitely pathogenic	>0.99	Yazici (2000) Br J Cancer 83; 737		 	43076487
+Exon 15	Deletion	c.4516delG		5 - Definitely pathogenic	>0.99	Janavicius (2009) Breast Cancer Res Treat 117; 467		 	43074490
+Exon 15	Deletion	c.4528delA		5 - Definitely pathogenic	>0.99	Tommasi (2008) Mutat Res 644; 64		 	43074478
+Exon 15	Deletion	c.4533_4534delCA		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43074472
+Exon 15	Deletion	c.4570_4573del4		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43074433
+Exon 15	Deletion	c.4574_4575delAA		5 - Definitely pathogenic	>0.99	Greenman (1998) Genes Chromosomes Cancer 21; 244		 	43074431
+Exon 15	Deletion	c.4575_4585del11		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43074421
+Exon 15	Deletion	c.4625_4626delCT		5 - Definitely pathogenic	>0.99	Evans (2003) J Med Genet 40; e107		 	43074380
+Exon 15	Deletion	c.4646_4665del20		5 - Definitely pathogenic	>0.99	Dobricic (2010) Cancer Genet Cytogenet 202; 27		 	43074341
+Exon 16	Deletion	c.4681delA		5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43071233
+Exon 16	Deletion	c.4684_4685delCC		5 - Definitely pathogenic	>0.99	Hansen (2010) Breast Cancer Res Treat epub; epub		 	43071229
+Exon 16	Deletion	c.4724delC		5 - Definitely pathogenic	>0.99	Calo (2006) Breast Cancer Res Treat 96; 97		 	43071190
+Exon 16	Deletion	c.4745delA		5 - Definitely pathogenic	>0.99	Moller (2007) Eur J Cancer 43; 1713		 	43071169
+Exon 16	Deletion	c.4754_4755delCA		5 - Definitely pathogenic	>0.99	Caligo (1996) Oncogene 13; 1483		 	43071159
+Exon 16	Deletion	c.4764delT		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43071150
+Exon 16	Deletion	c.4837delA		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43071077
+Exon 16	Deletion	c.4873_4885del13		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43071029
+Exon 16	Deletion	c.4905_4906delGA		5 - Definitely pathogenic	>0.99	Miramar (2008) Breast Cancer Res Treat 112; 353		 	43071008
+Exon 16	Deletion	c.4910delC		5 - Definitely pathogenic	>0.99	Zhi (2002) Hum Mutat 20; 474		 	43071004
+Exon 16	Deletion	c.4936delG		5 - Definitely pathogenic	>0.99	King (2001) JAMA 286; 2251		 	43070978
+Exon 16	Deletion	c.4945delA		5 - Definitely pathogenic	>0.99	Gayther (1999) Am J Hum Genet 65; 1021		 	43070969
+Exon 16	Deletion	c.4963_4981del19		5 - Definitely pathogenic	>0.99	Santarosa (1998) Int J Cancer 78; 581		 	43070933
+Exon 16	Deletion	c.4964_4979del16		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43070935
+Exon 16	Deletion	c.4964_4982del19		5 - Definitely pathogenic	>0.99	Couch (1997) N Engl J Med 336; 1409	Quaresima (2008) Clin Cancer Res 14: 6797 [Functional characterisation]	 	43070932
+Exon 16	Deletion	c.4966_4984del19		5 - Definitely pathogenic	>0.99	Castilla (1994) Nat Genet 8; 387		 	43070930
+Exon 17	Deletion	c.5005delG		5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43067677
+Exon 17	Deletion	c.5026_5036del11		5 - Definitely pathogenic	>0.99	Vehmanen (1997) Hum Mol Genet 6; 2309		 	43067646
+Exon 17	Deletion	c.5030delC		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43067652
+Exon 17	Deletion	c.5030_5033del4		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	43067649
+Exon 17	Deletion	c.5035delC	p.L1679*	5 - Definitely pathogenic	>0.99	Manguoglu (2010) Cancer Genet Cytogenet 203; 230		 	43067647
+Exon 17	Deletion	c.5035_5039del5		5 - Definitely pathogenic	>0.99	Musolino (2005) Tumori 91; 505		 	43067643
+Exon 17	Deletion	c.5040delT		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43067642
+Exon 17	Deletion	c.5062_5064delGTT	p.V1688del	5 - Definitely pathogenic	>0.99	Montagna (1996) Cancer Res 56; 5466	Vallon-Christersson (2001) Hum Mol Genet 10: 353 [Functional characterisation]	 	43067618
+Exon 18	Deletion	c.5075_5078del4		5 - Definitely pathogenic	>0.99	Litton (2012) Cancer 118; 321		 	43063948
+Exon 18	Deletion	c.5078_5080delCTG	p.A1693del	5 - Definitely pathogenic	>0.99	Diez (2003) Hum Mutat 22; 301		 	43063946
+Exon 18	Deletion	c.5084_5085delTT		5 - Definitely pathogenic	>0.99	Konecny (2011) Breast Cancer Res Treat 126; 119		 	43063941
+Exon 18	Deletion	c.5102_5103delTG		5 - Definitely pathogenic	>0.99	Kang (2002) Hum Mutat 20; 235		 	43063923
+Exon 18	Deletion	c.5106delA		5 - Definitely pathogenic	>0.99	Nedelcu (2002) Eur J Hum Genet 10; 150		 	43063920
+Exon 18	Deletion	c.5112delT		5 - Definitely pathogenic	>0.99	Rodriguez (2008) Fam Cancer 7; 275		 	43063914
+Exon 18	Deletion	c.5126delG		5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43063900
+Exon 18	Deletion	c.5137delG		5 - Definitely pathogenic	>0.99	Struewing (1995) Am J Hum Genet 57; 1		 	43063889
+Intron 18	Deletion	c.5153-2delA		5 - Definitely pathogenic	>0.99	Kiechle (2000) Hum Mutat 16; 529		 	43063375
+Exon 19	Deletion	c.5162delA		5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43063364
+Exon 19	Deletion	c.5177_5178delGA		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43063348
+Exon 19	Deletion	c.5177_5180del4		5 - Definitely pathogenic	>0.99	Gao (1997) Am J Hum Genet 60; 1233		 	43063346
+Exon 19	Deletion	c.5179_5192del14		5 - Definitely pathogenic	>0.99	Smith (2001) Gynecol Oncol 83; 586		 	43063334
+Exon 19	Deletion	c.5182delA		5 - Definitely pathogenic	>0.99	Walsh (2011) Proc Natl Acad Sci U S A 108; 18032		 	43063344
+Intron 19	Deletion	c.5193+1delG		5 - Definitely pathogenic	>0.99	Heidemann (2012) Breast Cancer Res Treat epub; epub		 	43063332
+Intron 19	Deletion	c.5193+2delT		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43063331
+Exon 20	Deletion	c.5207delT		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43057122
+Exon 20	Deletion	c.5213_5215delGAG	p.G1738del	5 - Definitely pathogenic	>0.99	Abkevich (2004) J Med Genet 41; 492		 	43057114
+Exon 20	Deletion	c.5229_5230delAA		5 - Definitely pathogenic	>0.99	Greenman (1998) Genes Chromosomes Cancer 21; 244		 	43057099
+Exon 20	Deletion	c.5230delA		5 - Definitely pathogenic	>0.99	Borg (2010) Hum Mutat 31; E1200		 	43057099
+Exon 20	Deletion	c.5231delG		5 - Definitely pathogenic	>0.99	Moatter (2011) J Coll Physicians Surg Pak 21; 680		 	43057098
+Exon 20	Deletion	c.5266delC		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43057063
+Exon 20	Deletion	c.5270_5276del7		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43057053
+Intron 20	Deletion	c.5278-2delA		5 - Definitely pathogenic	>0.99	Colombo (2013) PLoS One 8; e57173		 	43051119
+Exon 21	Deletion	c.5289delG		5 - Definitely pathogenic	>0.99	De Silva (2008) BMC Cancer 8; 214		 	43051106
+Exon 21	Deletion	c.5310delG		5 - Definitely pathogenic	>0.99	Evans (2003) J Med Genet 40; e107		 	43051085
+Exon 21	Deletion	c.5315delT		5 - Definitely pathogenic	>0.99	Dong (1998) Hum Genet 103; 154		 	43051080
+Exon 21	Deletion	c.5320_5321delAA		5 - Definitely pathogenic	>0.99	Couch (1997) N Engl J Med 336; 1409		 	43051074
+Exon 21	Deletion	c.5323_5324delAT		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43051071
+Intron 21	Deletion	c.5332+1delG		5 - Definitely pathogenic	>0.99	Chen (2009) Breast Cancer Res Treat 117; 55		 	43051062
+Exon 22	Deletion	c.5335delC		5 - Definitely pathogenic	>0.99	De Leon Matsuda (2002) Int J Cancer 98; 596		 	43049192
+Exon 22	Deletion	c.5369_5385del17		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43049142
+Intron 22	Deletion	c.5406+1_5406+3delGTA		5 - Definitely pathogenic	>0.99	Kwong (2012) PLoS One 7; e43994		 	43049118
+Exon 23	Deletion	c.5410_5411delGT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43047699
+Exon 23	Deletion	c.5419delA		5 - Definitely pathogenic	>0.99	Diez (1999) Int J Cancer 83; 465		 	43047691
+Exon 23	Deletion	c.5440delG		5 - Definitely pathogenic	>0.99	Hosking (1995) Nat Genet 9; 343		 	43047670
+Exon 23	Deletion	c.5450_5451delAG		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43047659
+Exon 24	Deletion	c.5470_5477del8		5 - Definitely pathogenic	>0.99	Choi (2004) J Clin Oncol 22; 1638		 	43045793
+Exon 24	Deletion	c.5483delG		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43045787
+Exon 24	Deletion	c.5492delC		5 - Definitely pathogenic	>0.99	Arnold (1999) Hum Mutat 14; 333		 	43045778
+Exon 24	Deletion	c.814_824dup		5 - Definitely pathogenic	>0.99	Han (2006) Clin Genet 70; 496		 	43094707
+Exon 24	Deletion	c.5503delC		5 - Definitely pathogenic	>0.99	Joosse (2009) Breast Cancer Res Treat 116; 479		 	43045767
+Exon 24	Deletion	c.5512delG		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43045758
+Exon 24	Deletion	c.5521delA		5 - Definitely pathogenic	>0.99	Malone (1998) JAMA 279; 922		 	43045749
+Exon 24	Deletion	c.5548delC		5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43045722
+Exon 2	Insertion	c.32_33insC		5 - Definitely pathogenic	>0.99	Szabo (1995) Hum Mol Genet 4; 1811		 	43124064
+Exon 2	Insertion	c.62dupT		5 - Definitely pathogenic	>0.99	Yassaee (2002) Breast Cancer Res 4; R6		 	43124035
+Exon 2	Insertion	c.66dupA		5 - Definitely pathogenic	>0.99	Matsushima (1995) Hum Mol Genet 4; 1953		 	43124031
+Exon 2	Insertion	c.66_67insC		5 - Definitely pathogenic	>0.99	Majdak (2005) Eur J Cancer 41; 143		 	43124030
+Exon 2	Insertion	c.68dupA		5 - Definitely pathogenic	>0.99	Dong (1998) Hum Genet 103; 154		 	43124029
+Exon 2	Insertion	c.68_69dupAG		5 - Definitely pathogenic	>0.99	Borg (2010) Hum Mutat 31; E1200		 	43124028
+Exon 2	Insertion	c.70_73dup4		5 - Definitely pathogenic	>0.99	Díez (1999) Int J Cancer 83: 465 [Additional report]		 	43124024
+Exon 2	Insertion	c.75_80dup6	p.C27insIC	5 - Definitely pathogenic	>0.99	Tworek (1999) Cancer Genet Cytogenet 112; 105		 	43124017
+Exon 5	Insertion	c.189dupA		5 - Definitely pathogenic	>0.99	Gallardo (2006) Breast Cancer Res Treat 95; 81		 	43106479
+Exon 5	Insertion	c.211dupA		5 - Definitely pathogenic	>0.99	Troudi (2007) J Hum Genet 52; 915		 	43106457
+Exon 7	Insertion	c.329dupA		5 - Definitely pathogenic	>0.99	Wagner (1999) Genomics 62; 369		 	43104234
+Exon 7	Insertion	c.375_376insT		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43104187
+Exon 7	Insertion	c.406dupA		5 - Definitely pathogenic	>0.99	Werness (2000) J Natl Cancer Inst 92; 1088		 	43104157
+Exon 7	Insertion	c.431dupA		5 - Definitely pathogenic	>0.99	Feliubadaló (2013) Eur J Hum Genet 21; 864		 	43104132
+Exon 8	Insertion	c.494dupT		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43099828
+Exon 9	Insertion	c.569_570ins4		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	Error
+Exon 10	Insertion	c.624_625ins20		5 - Definitely pathogenic	>0.99	Patmasiriwat (2002) Hum Mutat 20; 230		 	Error
+Exon 11	Insertion	c.677_678insC		5 - Definitely pathogenic	>0.99	Xiaoman (1999) Chin Med Sci J 14; 195		 	43094853
+Exon 11	Insertion	c.742dupA		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43094789
+Exon 11	Insertion	c.768_769insA		5 - Definitely pathogenic	>0.99	Al-Mulla (2009) J Clin Pathol 62; 350		 	43094762
+Exon 11	Insertion	c.768_769insAG		5 - Definitely pathogenic	>0.99	Al-Mulla (2009) J Clin Pathol 62; 350		 	43094762
+Exon 11	Insertion	c.799dupT		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43094732
+Exon 11	Insertion	c.814_824dup11		5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43094707
+Exon 11	Insertion	c.815_824dup10		5 - Definitely pathogenic	>0.99	Mefford (1999) Am J Hum Genet 65: 575 [Additional characterisation]		 	43094707
+Exon 11	Insertion	c.827_828insT		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43094703
+Exon 11	Insertion	c.844_850dup7		5 - Definitely pathogenic	>0.99	Ozcelik (2003) J Med Genet 40; e91		 	43094681
+Exon 11	Insertion	c.903_904insC		5 - Definitely pathogenic	>0.99	Garcia-Patino (1998) J Clin Oncol 16; 115		 	43094627
+Exon 11	Insertion	c.1008dupA		5 - Definitely pathogenic	>0.99	Reeves (2004) Int J Cancer 110; 677		 	43094523
+Exon 11	Insertion	c.1016dupA		5 - Definitely pathogenic	>0.99	Simard (1994) Nat Genet 8; 392		 	43094515
+Exon 11	Insertion	c.1080_1081insA		5 - Definitely pathogenic	>0.99	Ozdag (2000) Eur J Cancer 36; 2076		 	43094450
+Exon 11	Insertion	c.1099dupA		5 - Definitely pathogenic	>0.99	Alharbi (2005) Genome Res 15; 967		 	43094432
+Exon 11	Insertion	c.1100dupC		5 - Definitely pathogenic	>0.99	Gayther (1995) Nat Genet 11; 428		 	43094431
+Exon 11	Insertion	c.1152dupG		5 - Definitely pathogenic	>0.99	Ramus (2007) Hum Mutat 28; 1207		 	43094379
+Exon 11	Insertion	c.1159dupT		5 - Definitely pathogenic	>0.99	Yamashita (1999) Breast Cancer Res Treat 58; 11		 	43094372
+Exon 11	Insertion	c.1208_1209dupCT		5 - Definitely pathogenic	>0.99	Stavropoulou (2013) PLoS One 8; e58182		 	43094322
+Exon 11	Insertion	c.1241dupA		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43094290
+Exon 11	Insertion	c.1265dupA		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43094266
+Exon 11	Insertion	c.1265_1266dupAT		5 - Definitely pathogenic	>0.99	Ahmad (2012) Clin Genet 82; 594		 	43094265
+Exon 11	Insertion	c.1287dupA		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43094244
+Exon 11	Insertion	c.1292dupT		5 - Definitely pathogenic	>0.99	Hogervorst (1995) Nat Genet 10; 208		 	43094239
+Exon 11	Insertion	c.1319dupT		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43094212
+Exon 11	Insertion	c.1339dupG		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43094192
+Exon 11	Insertion	c.1363_1364insGA		5 - Definitely pathogenic	>0.99	Essioux (1998) Am J Med Genet 79; 175		 	43094167
+Exon 11	Insertion	c.1380dupA		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43094151
+Exon 11	Insertion	c.1386dupG		5 - Definitely pathogenic	>0.99	King (2001) JAMA 286; 2251		 	43094145
+Exon 11	Insertion	c.1390dupA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43094141
+Exon 11	Insertion	c.1390_1391insG		5 - Definitely pathogenic	>0.99	Risch (2006) J Natl Cancer Inst 98; 1694		 	43094140
+Exon 11	Insertion	c.1384_1393dup10		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43094138
+Exon 11	Insertion	c.1439dupA		5 - Definitely pathogenic	>0.99	van Orsouw (1999) J Med Genet 36; 747		 	43094092
+Exon 11	Insertion	c.1499_1508dup10		5 - Definitely pathogenic	>0.99	Yang (2011) JAMA 306; 1557		 	43094023
+Exon 11	Insertion	c.1511dupG	p. K505*	5 - Definitely pathogenic	>0.99	Son (2012) Breast Cancer Res Treat 133; 1143		 	43094020
+Exon 11	Insertion	c.1513_1514insT		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43094017
+Exon 11	Insertion	c.1565_1566insC		5 - Definitely pathogenic	>0.99	Garcia-Patino (1998) Acta Oncol 37; 299		 	43093965
+Exon 11	Insertion	c.1601dupA		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43093930
+Exon 11	Insertion	c.1623dupG		5 - Definitely pathogenic	>0.99	Gao (2000) Hum Genet 107; 192		 	43093908
+Exon 11	Insertion	c.1716dupA		5 - Definitely pathogenic	>0.99	Ahn (2007) Cancer Lett 245; 90		 	43093815
+Exon 11	Insertion	c.1846dupT		5 - Definitely pathogenic	>0.99	Fu (2007) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 24; 341		 	43093685
+Exon 11	Insertion	c.1874_1877dup4		5 - Definitely pathogenic	>0.99	Balz (2002) Cancer Genet Cytogenet 138; 120		 	43093654
+Exon 11	Insertion	c.1892dupT		5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43093639
+Exon 11	Insertion	c.1952dupA		5 - Definitely pathogenic	>0.99	Kroiss (2005) Hum Mutat 26; 583		 	43093579
+Exon 11	Insertion	c.1953dupG		5 - Definitely pathogenic	>0.99	Oros (2004) Int J Cancer 112; 411		 	43093578
+Exon 11	Insertion	c.1961dupA		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43093570
+Exon 11	Insertion	c.1963_1964insG		5 - Definitely pathogenic	>0.99	Gayther (1999) Am J Hum Genet 65; 1021		 	43093567
+Exon 11	Insertion	c.1963dupT		5 - Definitely pathogenic	>0.99	Lim (2009) J Cancer Res Clin Oncol 135; 1593		 	43093568
+Exon 11	Insertion	c.2012_2013dupGT		5 - Definitely pathogenic	>0.99	Chen (2009) Breast Cancer Res Treat 117; 55		 	43093518
+Exon 11	Insertion	c.2043dupT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43093488
+Exon 11	Insertion	c.2125_2126insA		5 - Definitely pathogenic	>0.99	Laplace-Marieze (1999) Int J Oncol 14; 971		 	43093405
+Exon 11	Insertion	c.2157dupA		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43093374
+Exon 11	Insertion	c.2236dupG		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43093295
+Exon 11	Insertion	c.2241dupC		5 - Definitely pathogenic	>0.99	Negura (2010) Fam Cancer 9; 519		 	43093290
+Exon 11	Insertion	c.2292_2310dup19		5 - Definitely pathogenic	>0.99	Infante (2006) J Hum Genet 51; 611		 	43093221
+Exon 11	Insertion	c.2310_2311insC		5 - Definitely pathogenic	>0.99	Sng (2000) Br J Cancer 82; 538		 	43093220
+Exon 11	Insertion	c.2325_2326insA		5 - Definitely pathogenic	>0.99	Garcia-Patino (1998) J Clin Oncol 16; 115		 	43093205
+Exon 11	Insertion	c.2359dupG		5 - Definitely pathogenic	>0.99	Sibille-Hoang (1998) Eur J Cancer Prev 7; 53		 	43093172
+Exon 11	Insertion	c.2380dupG		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43093151
+Exon 11	Insertion	c.2440_2441insA		5 - Definitely pathogenic	>0.99	Al-Mulla (2009) J Clin Pathol 62; 350		 	43093090
+Exon 11	Insertion	c.2487dupT		5 - Definitely pathogenic	>0.99	Marroni (2004) Eur J Hum Genet 12; 899		 	43093044
+Exon 11	Insertion	c.2488_2497dup10	p.K833*	5 - Definitely pathogenic	>0.99	Machackova (2001) Hum Mutat 18; 545		 	43093034
+Exon 11	Insertion	c.2488_2504dup17		5 - Definitely pathogenic	>0.99	George (2013) Clin Cancer Res 19; 3474		 	43093027
+Exon 11	Insertion	c.2556dupT		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092975
+Exon 11	Insertion	c.2558dupA		5 - Definitely pathogenic	>0.99	Lim (2009) Nat Med 15; 907		 	43092973
+Exon 11	Insertion	c.2560_2561dupGC		5 - Definitely pathogenic	>0.99	Risch (2006) J Natl Cancer Inst 98; 1694		 	43092970
+Exon 11	Insertion	c.2564_2565ins5		5 - Definitely pathogenic	>0.99	Stoppa-Lyonnet (1997) Am J Hum Genet 60; 1021		 	Error
+Exon 11	Insertion	c.2601_2604dup4		5 - Definitely pathogenic	>0.99	Tworek (1999) Cancer Genet Cytogenet 112; 105		 	43092927
+Exon 11	Insertion	c.2612dupC		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092919
+Exon 11	Insertion	c.2612_2613insT		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43092918
+Exon 11	Insertion	c.2617dupT		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092914
+Exon 11	Insertion	c.2647_2648ins4		5 - Definitely pathogenic	>0.99	Stavropoulou (2013) PLoS One 8; e58182		 	Error
+Exon 11	Insertion	c.2659_2660insA		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43092871
+Exon 11	Insertion	c.2659dupG		5 - Definitely pathogenic	>0.99	Weber (2004) Anal Chem 76; 4839		 	43092872
+Exon 11	Insertion	c.2665dupT		5 - Definitely pathogenic	>0.99	Purnomosari (2007) Breast Cancer Res Treat 106; 297		 	43092866
+Exon 11	Insertion	c.2689_2690insA		5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43092841
+Exon 11	Insertion	c.2694dupA		5 - Definitely pathogenic	>0.99	Pals (1999) Mol Diagn 4; 241		 	43092837
+Exon 11	Insertion	c.2717dupA		5 - Definitely pathogenic	>0.99	Vijayalakshmi (2011) Int J Hum Genet 11 127		 	43092814
+Exon 11	Insertion	c.2726dupA		5 - Definitely pathogenic	>0.99	Ho (2000) Cancer 89; 811		 	43092805
+Exon 11	Insertion	c.2745dupT		5 - Definitely pathogenic	>0.99	Uhrhammer (2008) Int J Med Sci 5; 197		 	43092786
+Exon 11	Insertion	c.2749dupA		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43092782
+Exon 11	Insertion	c.2835dupT		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1997) JAMA 278; 1242		 	43092696
+Exon 11	Insertion	c.2848dupT	p.R951*	5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43092683
+Exon 11	Insertion	c.2870dupA		5 - Definitely pathogenic	>0.99	Manguoglu (2003) Hum Mutat 21; 444		 	43092661
+Exon 11	Insertion	c.2901_2902dupTC		5 - Definitely pathogenic	>0.99	Blay (2013) BMC Cancer 13; 243		 	43092629
+Exon 11	Insertion	c.2921dupT		5 - Definitely pathogenic	>0.99	Schroeder (2010) Breast Cancer Res Treat 122; 287		 	43092610
+Exon 11	Insertion	c.2929_2930dupCC		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43092601
+Exon 11	Insertion	c.2952dupT		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43092579
+Exon 11	Insertion	c.2989_2990dupAA		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43092541
+Exon 11	Insertion	c.3048_3052dup5		5 - Definitely pathogenic	>0.99	Shattuck-Eidens (1995) JAMA 273; 535		 	43092479
+Exon 11	Insertion	c.3108dupT		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43092423
+Exon 11	Insertion	c.3157dupG		5 - Definitely pathogenic	>0.99	Konstantopoulou (2000) Hum Mutat 16; 272		 	43092374
+Exon 11	Insertion	c.3158_3159insG		5 - Definitely pathogenic	>0.99	Stavropoulou (2013) PLoS One 8; e58182		 	43092372
+Exon 11	Insertion	c.3193dupG		5 - Definitely pathogenic	>0.99	Werness (2000) Int J Gynecol Pathol 19; 390		 	43092338
+Exon 11	Insertion	c.3211dupG		5 - Definitely pathogenic	>0.99	Shen (2000) J Natl Med Assoc 92; 29		 	43092320
+Exon 11	Insertion	c.3254_3255dupGA		5 - Definitely pathogenic	>0.99	Risch (2001) Am J Hum Genet 68; 700		 	43092276
+Exon 11	Insertion	c.3255dupA		5 - Definitely pathogenic	>0.99	Santarosa (1998) Int J Cancer 78; 581		 	43092276
+Exon 11	Insertion	c.3257dupT		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43092274
+Exon 11	Insertion	c.3307dupT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43092224
+Exon 11	Insertion	c.3329dupA		5 - Definitely pathogenic	>0.99	Garvin (1996) J Med Genet 33; 721		 	43092202
+Exon 11	Insertion	c.3351dupT		5 - Definitely pathogenic	>0.99	Vietri (2012) Clin Chem Lab Med 50; 2171		 	43092180
+Exon 11	Insertion	c.3420dupT		5 - Definitely pathogenic	>0.99	Fu (2007) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 24; 341		 	43092111
+Exon 11	Insertion	c.3450dupT	p.D1151*	5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43092081
+Exon 11	Insertion	c.3503dupA		5 - Definitely pathogenic	>0.99	Hansen (2011) Fam Cancer 10; 207		 	43092028
+Exon 11	Insertion	c.3575_3576insAA		5 - Definitely pathogenic	>0.99	Fu (2007) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 24; 341		 	43091955
+Exon 11	Insertion	c.3578dupT		5 - Definitely pathogenic	>0.99	Eccles (1998) Br J Cancer 77; 2199		 	43091953
+Exon 11	Insertion	c.3586dupA		5 - Definitely pathogenic	>0.99	Simard (2007) J Med Genet 44; 107		 	43091945
+Exon 11	Insertion	c.3624dupA		5 - Definitely pathogenic	>0.99	Konstantopoulou (2000) Hum Mutat 16; 272		 	43091907
+Exon 11	Insertion	c.3626dupT		5 - Definitely pathogenic	>0.99	Meindl (2002) Int J Cancer 97; 472		 	43091905
+Exon 11	Insertion	c.3627dupA		5 - Definitely pathogenic	>0.99	Kim (2006) Biochem Biophys Res Commun 349; 604		 	43091904
+Exon 11	Insertion	c.3648dupA		5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43091883
+Exon 11	Insertion	c.3649dupT		5 - Definitely pathogenic	>0.99	van Orsouw (1999) J Med Genet 36; 747		 	43091882
+Exon 11	Insertion	c.3668_3671dup4		5 - Definitely pathogenic	>0.99	S/NI consortium (2003) Br J Cancer 88; 1256		 	43091860
+Exon 11	Insertion	c.3693dupT		5 - Definitely pathogenic	>0.99	Rashid (2006) Int J Cancer 119; 2832		 	43091838
+Exon 11	Insertion	c.3759dupT		5 - Definitely pathogenic	>0.99	Greenman (1998) Genes Chromosomes Cancer 21; 244		 	43091772
+Exon 11	Insertion	c.3760_3761insT		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43091770
+Exon 11	Insertion	c.3764dupA		5 - Definitely pathogenic	>0.99	Gao (1997) Am J Hum Genet 60; 1233		 	43091767
+Exon 11	Insertion	c.3813dupT	p.N1272*	5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43091718
+Exon 11	Insertion	c.3814_3815insT		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43091716
+Exon 11	Insertion	c.3820dupG		5 - Definitely pathogenic	>0.99	Couch (1996) Hum Mutat 8; 8		 	43091711
+Exon 11	Insertion	c.3822_3823insT		5 - Definitely pathogenic	>0.99	Mote (2004) Genes Chromosomes Cancer 39; 236		 	43091708
+Exon 11	Insertion	c.3871_3872insC		5 - Definitely pathogenic	>0.99	De Benedetti (1996) Oncogene 13; 1353		 	43091659
+Exon 11	Insertion	c.3982dupT		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43091549
+Exon 11	Insertion	c.4049dupG		5 - Definitely pathogenic	>0.99	Kwong (2009) Breast Cancer Res Treat 117; 683		 	43091482
+Exon 11	Insertion	c.4052dupT		5 - Definitely pathogenic	>0.99	Stuppia (2003) Hum Mutat 22; 178		 	43091479
+Exon 12	Insertion	c.4107_4110dup4		5 - Definitely pathogenic	>0.99	de la Hoya (2001) Int J Cancer 91; 137		 	43091019
+Exon 12	Insertion	c.4165_4166dupAG		5 - Definitely pathogenic	>0.99	de la Hoya (2002) Int J Cancer 100; 618		 	43090963
+Exon 12	Insertion	c.4182_4183dupTC		5 - Definitely pathogenic	>0.99	Yang (2011) JAMA 306; 1557		 	43090946
+Exon 13	Insertion	c.4240dupC		5 - Definitely pathogenic	>0.99	Fackenthal (2012) Int J Cancer 131; 1114		 	43082521
+Exon 13	Insertion	c.4242_4243insT		5 - Definitely pathogenic	>0.99	Purnomosari (2007) Breast Cancer Res Treat 106; 297		 	43082518
+Exon 13	Insertion	c.4266dupG		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43082495
+Exon 13	Insertion	c.4300dupA		5 - Definitely pathogenic	>0.99	Arnold (1999) Hum Mutat 14; 333		 	43082461
+Exon 13	Insertion	c.4321dupG		5 - Definitely pathogenic	>0.99	Pal (2005) Cancer 104; 2807		 	43082440
+Exon 13	Insertion	c.4335_4338dup4		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43082423
+Exon 14	Insertion	c.4391dupC		5 - Definitely pathogenic	>0.99	Coulet (2010) Genet Test Mol Biomarkers 14; 677		 	43076581
+Exon 15	Insertion	c.4595_4596insCT		5 - Definitely pathogenic	>0.99	Serova (1997) Am J Hum Genet 60; 486		 	43074410
+Exon 15	Insertion	c.4611_4612insG		5 - Definitely pathogenic	>0.99	Donenberg (2011) Breast Cancer Res Treat 125; 591		 	43074394
+Exon 16	Insertion	c.4695dupA		5 - Definitely pathogenic	>0.99	Kwong (2012) PLoS One 7; e43994		 	43071219
+Exon 16	Insertion	c.4757dupA		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43071157
+Exon 16	Insertion	c.4836dupG		5 - Definitely pathogenic	>0.99	Hedau (2004) Breast Cancer Res Treat 88; 177		 	43071078
+Exon 16	Insertion	c.4838_4839insC		5 - Definitely pathogenic	>0.99	Reeves (2004) Int J Cancer 110; 677		 	43071075
+Exon 17	Insertion	c.5027dupT		5 - Definitely pathogenic	>0.99	van der Hout (2006) Hum Mutat 27; 654		 	43067655
+Exon 17	Insertion	c.5038_5042dup5		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43067640
+Exon 17	Insertion	c.5071dupA		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	43067611
+Exon 20	Insertion	c.5257dupA		5 - Definitely pathogenic	>0.99	Rashid (2006) Int J Cancer 119; 2832		 	43057072
+Exon 20	Insertion	c.5266dupC		5 - Definitely pathogenic	>0.99	Simard (1994) Nat Genet 8; 392		 	43057063
+Exon 21	Insertion	c.5289dupG		5 - Definitely pathogenic	>0.99	Peyrat (1998) Eur J Cancer Prev 7; 57		 	43051106
+Exon 21	Insertion	c.5310dupG		5 - Definitely pathogenic	>0.99	Ahmad (2012) Clin Genet 82; 594		 	43051085
+Exon 21	Insertion	c.5319dupC		5 - Definitely pathogenic	>0.99	Castilla (1994) Nat Genet 8; 387		 	43051076
+Exon 21	Insertion	c.5328dupC		5 - Definitely pathogenic	>0.99	Balraj (2002) Singapore Med J 43; 194		 	43051067
+Exon 22	Insertion	c.5386dupT		5 - Definitely pathogenic	>0.99	Szabo (1995) Hum Mol Genet 4; 1811		 	43049141
+Exon 24	Insertion	c.5532_5533insG		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43045737
+Exon 24	Insertion	c.5533dupT		5 - Definitely pathogenic	>0.99	Sugano (2008) Cancer Sci 99; 1967		 	43045737
+Exon 24	Insertion	c.5553dupC		5 - Definitely pathogenic	>0.99	Ahn (2007) Cancer Lett 245; 90		 	43045717
+Exon 24	Insertion	c.5558dupA		5 - Definitely pathogenic	>0.99	Friedman (1994) Nat Genet 8; 399		 	43045712
+Exon 2	Indel	c.38_39delATinsGGG		5 - Definitely pathogenic	>0.99	Lim (2009) J Cancer Res Clin Oncol 135; 1593		 	43124058
+Exon 3	Indel	c.133_134+3del5insT		5 - Definitely pathogenic	>0.99	Brose (2004) Genet Test 8; 133		 	43115723
+Exon 6	Indel	c.230delCins11		5 - Definitely pathogenic	>0.99	Munnes (2000) Gene Funct Dis 1 38		 	Error
+Exon 8	Indel	c.527_538del12insGG		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43099784
+Exon 11	Indel	c.922_924delAGCinsT	p.S308*	5 - Definitely pathogenic	>0.99	Seo (2004) Hum Mutat 24; 350		 	43094607
+Exon 11	Indel	c.1121_1123delCACinsT		5 - Definitely pathogenic	>0.99	Diez (2003) Hum Mutat 22; 301		 	43094408
+Exon 11	Indel	c.1293_1295delACTinsGA		5 - Definitely pathogenic	>0.99	Kim (2012) Breast Cancer Res Treat 134; 1315		 	43094236
+Exon 11	Indel	c.1387_1390del4ins5		5 - Definitely pathogenic	>0.99	Liede (2002) Hum Mutat 19; 460		 	Error
+Exon 11	Indel	c.1561_1564del4ins4	p.A521*	5 - Definitely pathogenic	>0.99	Hendrickson (2002) Clin Genet 61; 317		 	Error
+Exon 11	Indel	c.2037delGinsCC		5 - Definitely pathogenic	>0.99	Peixoto (2006) Fam Cancer 5; 379		 	43093494
+Exon 11	Indel	c.2612delCinsTT		5 - Definitely pathogenic	>0.99	Hondow (2011) BMC Cancer 11; 265		 	43092919
+Exon 11	Indel	c.2812_2813delCCinsG		5 - Definitely pathogenic	>0.99	Tchou (2007) Clin Breast Cancer 7; 627		 	43092718
+Exon 11	Indel	c.2834_2836delGTAinsC		5 - Definitely pathogenic	>0.99	Durocher (1996) J Med Genet 33; 814		 	43092695
+Exon 11	Indel	c.2836_2837delATinsC		5 - Definitely pathogenic	>0.99	George (2013) Clin Cancer Res 19; 3474		 	43092694
+Exon 11	Indel	c.3188_3189delCCinsG		5 - Definitely pathogenic	>0.99	Borg (2010) Hum Mutat 31; E1200		 	43092342
+Exon 11	Indel	c.3428delCinsTA		5 - Definitely pathogenic	>0.99	Caux-Moncoutier (2011) Hum Mutat 32; 325		 	43092103
+Exon 11	Indel	c.3549_3550delAGinsT		5 - Definitely pathogenic	>0.99	Peelen (1997) Am J Hum Genet 60; 1041		 	43091981
+Exon 11	Indel	c.3621_3626del6insAA		5 - Definitely pathogenic	>0.99	Machackova (2008) BMC Cancer 8; 140		 	43091905
+Exon 11	Indel	c.3715_3717delTCTinsC		5 - Definitely pathogenic	>0.99	Sekine (2001) Clin Cancer Res 7; 3144		 	43091814
+Exon 11	Indel	c.3839_3843del5ins4	p.S1280*	5 - Definitely pathogenic	>0.99	Presneau (1998) Hum Genet 103; 334		 	Error
+Exon 14	Indel	c.4391_4393delCTAinsTT		5 - Definitely pathogenic	>0.99	Rostagno (2003) J Hum Genet 48; 362		 	43076579
+Exon 14	Indel	c.4416_4417delTTinsG		5 - Definitely pathogenic	>0.99	Hogervorst (2003) Cancer Res 63; 1449		 	43076555
+Exon 15	Indel	c.4617_4618delGGinsTT		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43074388
+Exon 16	Indel	c.4945_4947delAGAins4		5 - Definitely pathogenic	>0.99	Bonadona (2005) Genes Chromosomes Cancer 43; 404		 	Error
+Exon 18	Indel	c.5077_5080del4ins10	p.A1693F ins IL E1694Q	5 - Definitely pathogenic	>0.99	Hardouin (2000) Hum Mutat 17; 154		 	Error
+Exon 21	Indel	c.5329_5332+5del9insC		5 - Definitely pathogenic	>0.99	Lecarpentier (2012) Breast Cancer Res 14; R99		 	43051058
+Exon 22	Indel	c.5360_5361delGTinsAG	Cys1787*	5 - Definitely pathogenic	>0.99	De Leeneer (2011) Hum Mutat 32; 335		 	43049166
+Exon 24	Indel	c.5496_5506del11insA		5 - Definitely pathogenic	>0.99	Ahn (2007) Cancer Lett 245; 90		 	43045764
+Exon 22	Missense	c.5359T>A	p.C1787S	5 - Definitely pathogenic	0.9999	Goldgar et al., AJHG 75: 535-544, 2004.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43049168
+Exon 24	Missense	c.5513T>A	p.V1838E	5 - Definitely pathogenic	0.9999	Spurdle AB et al., J Clin Oncol, 26: 1657-1663, 2008.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43045757
+Exon 5	Missense	c.181T>G	p.C61G	5 - Definitely pathogenic	0.9998	Spearman AD et al., J Clin Oncol, 26:5393-5400, 2008.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43106487
+Exon 18	Missense	c.5123C>A	p.A1708E	5 - Definitely pathogenic	1.0000	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43063903
+Exon 18	Missense	c.5095C>T	p.R1699W	5 - Definitely pathogenic	1.0000	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43063931
+Exon 22	Missense	c.5363G>T	p.G1788V	5 - Definitely pathogenic	1.0000	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43049164
+Exon 21	Missense	c.5291T>C	p.L1764P	5 - Definitely pathogenic	0.9930	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43051104
+Exon 17	Missense	c.5054C>T	p.T1685I	5 - Definitely pathogenic	0.9983	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43067628
+Exon 21	Missense	c.5297T>G	p.I1766S	5 - Definitely pathogenic	0.9963	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43051098
+Exon 20	Missense	c.5212G>A	p.G1738R	5 - Definitely pathogenic	0.9980	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43057117
+Exon 17	Missense	c.5053A>G	p.T1685A	5 - Definitely pathogenic	0.9952	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43067629
+Exon 18	Missense	c.5143A>C	p.S1715R	5 - Definitely pathogenic	0.9948	Easton DF et al., Am J Hum Genet, 81: 873-883, 2007.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43063883
+Exon 2	Missense	c.65T>C	p.L22S	5 - Definitely pathogenic	0.9940	Sweet K et al., Breast Cancer Res Treat, 119:737-743, 2010.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43124032
+Exon 3	Missense	c.110C>A	p.T37K	5 - Definitely pathogenic	0.9996	Sweet K et al., Breast Cancer Res Treat, 119:737-743, 2010.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43115750
+Exon 3	Missense	c.115T>C	p.C39R	5 - Definitely pathogenic	0.9933	Sweet K et al., Breast Cancer Res Treat, 119:737-743, 2010.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43115745
+Exon 3	Missense	c.130T>A	p.C44S	5 - Definitely pathogenic	0.9984	Sweet K et al., Breast Cancer Res Treat, 119:737-743, 2010.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43115730
+Exon 3	Missense	c.131G>A	p.C44Y	5 - Definitely pathogenic	0.9972	Sweet K et al., Breast Cancer Res Treat, 119:737-743, 2010.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43115729
+Exon 21	Missense	c.5324T>G	p.M1775R	5 - Definitely pathogenic	0.9978	Miki Y et al., Science, 266:66-71, 1994.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43051071
+Exon 21	Missense	c.5324T>A	p.M1775K	5 - Definitely pathogenic	0.9978	Tischkowitz M et al., Eur J Hum Genet, 16:820-832, 2008.	Tavtigian et al., Human Mutation 29: 1342-1354, 2008.	 	43051071

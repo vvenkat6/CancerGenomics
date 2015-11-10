@@ -1,0 +1,4 @@
+Location  Mutation Type   Nucleotide Change       Protein Change  Classification  Posterior Probability   Reference       Secondary Reference     Comments        Genomic_Location
+-	Nonsense	c.1690C>T	p.Gln564*	-	-	http://www.nature.com/articles/srep10424/tables/1	-	-	214745842
+-	Missense	c.1972C>T	p.Arg658Cys	-	-	http://www.nature.com/articles/srep10424/tables/1	-	-	214730440	
+-	Splice Mutation	c.1977A>G	p.Arg659Arg	-	-	http://www.nature.com/articles/srep10424/tables/1	-	-	214730435
