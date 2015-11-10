@@ -1,0 +1,53 @@
+\documentclass[11pt]{article}
+
+%% packages
+\usepackage{lipsum} %http://ctan.org/pkg/lipsum
+\usepackage{wallpaper}
+\usepackage{framed, color}
+\definecolor{shadecolor}{rgb}{1.0,0.75,0.0}
+
+%% the main document
+\begin{document}
+
+% the header image
+\ULCornerWallPaper{1}{/Users/sungshine/GeorgiaTech/VannbergBIOL8803F/CancerGenomics/Reports/screentop.png} % ICRC banner image
+\LLCornerWallPaper{1}{/Users/sungshine/GeorgiaTech/VannbergBIOL8803F/CancerGenomics/Reports/screenbottom.png} % ICRC footer image
+
+% the hospital, patient and sample information
+\begin{tabbing}
+  \= Patient \= : \= Kardashian, Kimberly \\
+  \> Clinic \> : \> Grady Memorial Hospital, Atlanta, GA \\
+  \> Gender \> : \> Female \\
+  \> DOB \> : \> 10/21/1980 \\
+\end{tabbing}
+
+% the resulting risk assessment
+\noindent
+\framebox[\linewidth]{HIGH RISK} 
+\newline
+
+% use kable package to display the gene mutation results table 
+<<kable, echo=FALSE, tidy=FALSE>>=
+data <- read.table("688.tsv", header=FALSE)
+names(data) <- c("Gene", "Start", "Class", "Mutation", "Valid", "CADD", "Database")
+trimmed <- data[, c("Gene", "Start", "Class", "Mutation", "CADD")]
+library(knitr)
+kable(trimmed, format="latex", align='c')
+@
+
+% the gene details box
+\noindent
+\framebox[\linewidth]{Gene Details: \textit{MSH2} c.8C$>$G : NM-000251.2}
+\textbf{Functional Significance: Deleterious} \\
+The heterozycous germline \textit{MSH2} c.8C$>$G is predicted to result in the premature truncation of the \textit{MSH2} protein due to abnormal protein production and/or function. \\ \\
+\textbf{Clinical Significance: High Cancer Risk} \\
+This mutation is associated with increased cancer risk and should be regarded as clincally significant. \\
+
+% the additional information box
+\noindent
+\framebox[\linewidth]{Additional Information}
+\textbf{Genes Analyzed:} \textit{APC, ATM, BARD1, BMPR1A, BRCA1, BRCA2, BRIP1, CDH1, CDK4, CDKN2A, CHEK2, EPCAM, MLH1, MSH2, MSH6, MUTYH, NBN, PALB2, PMS2, PTEN, RAD51C, SMAD4, STK11, TP53} \\ 
+\\
+\textbf{Disclaimer:} The techincal specifications summary of ICRC Gene Expose describes the analysis, method, performance, nomenclature, and interpretive criteria of this test. The classification and interpreation of variants identified reflect the current state of scientific understanding at the time of this report. \\
+
+\end{document}

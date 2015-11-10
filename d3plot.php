@@ -68,10 +68,10 @@ a:active  {color:yellow; background-color:transparent; text-decoration:underline
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
-	<script>
-	var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom; 
+<script>
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+width = 960 - margin.left - margin.right,
+height = 500 - margin.top - margin.bottom; 
 
 // setup x 
 var xValue = function(d) { return d.Variant_Classification;}, // data -> value
@@ -191,6 +191,7 @@ function type(d) {
   return d;}
 
 </script>
+
 </body>
 <body>
 	<table width="700" border="3">
