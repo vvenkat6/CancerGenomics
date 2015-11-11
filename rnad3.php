@@ -69,7 +69,7 @@ d3.tsv("rnaDatabase/database.tsv", function(error, tsv) {
 	data[5] = [];
 
 	// add here the header of the csv file
-	data[0][0] = "AXR";
+	data[0][0] = "ARX";
 	data[1][0] = "FOXL2";
 	data[2][0] = "KLHDC8A";
 	data[3][0] = "NRK";
@@ -84,7 +84,7 @@ d3.tsv("rnaDatabase/database.tsv", function(error, tsv) {
 	data[5][1] = [];
   
 	tsv.forEach(function(x) {
-		var v1 = Math.floor(x.AXR),
+		var v1 = Math.floor(x.ARX),
 			v2 = Math.floor(x.FOXL2),
 			v3 = Math.floor(x.KLHDC8A),
 			v4 = Math.floor(x.NRK);
@@ -161,22 +161,45 @@ d3.tsv("rnaDatabase/database.tsv", function(error, tsv) {
 		  .attr("y", 6)
 		  .attr("dy", ".71em")
 		  .style("text-anchor", "end")
-		  .style("font-size", "16px") 
+		  .style("font-size", "12px") 
 		  .text("log10(RPKM)");		
 	
 	// draw x axis	
 	svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + (height  + margin.top + 10) + ")")
-      .call(xAxis)
-	  .append("text")             // text label for the x axis
-        .attr("x", (width / 2) )
-        .attr("y",  10 )
-		.attr("dy", ".71em")
-        .style("text-anchor", "middle")
-		.style("font-size", "16px") 
-        .text("GENE PANEL"); 
+      		.attr("class", "x axis")
+      		.attr("transform", "translate(0," + (height  + margin.top + 10) + ")")
+      		.call(xAxis)
+	  	.append("text")             // text label for the x axis
+        	.attr("x", width+2)
+        	.attr("y",  -6 )
+        	.style("text-anchor", "middle")
+		.style("font-size", "12px") 
+        	.text("GENE PANEL");
+
+//});
+
+d3.tsv("scripts/rna_output.txt",function(error,data){
+        data.forEach(function(d){
+                data.map(function(d){return d.x;});
+                d.y = +d.y;
+        console.log(d);
+        });
+	var xCircle = [1,2,3,4,5,6]
+	console.log(data);
+	var circle = svg.selectAll("circle")
+		.data(data);
+
+	circle.enter().insert("circle")
+		.data(xCircle)
+		.attr("class","dot")
+		.attr("r",10)
+		.attr("cx",function(d){console.log(d); return (d*100);})
+		//.attr("cx",width/2)
+		.data(data)
+		.attr("cy",function(d){console.log(d.y);return d.y;});
+	});
 });
+
 
 // Returns a function to compute the interquartile range.
 function iqr(k) {

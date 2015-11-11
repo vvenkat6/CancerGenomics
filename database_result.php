@@ -6,8 +6,16 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-
+	<script src="sorttable.js"></script> 
+ </head>
+<style>
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+</style>
 <center><body>
 	<section class="page-header">
       	<h1 class="project-name">OVARIAN CANCER DATABASE</h1>
@@ -21,7 +29,7 @@
 	$gene = $_GET["gene"]; 
 	?> <br>
 	
-	<table width="700" border="3">
+	<table width="700" border="3" class="sortable">
 	<?php
 	$string = '/var/www/html/scripts/webSearch_db.py '.$gene;
 	$command = escapeshellcmd($string);

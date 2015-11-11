@@ -6,8 +6,11 @@ use List::MoreUtils qw{ firstidx };
 
 my $file = $ARGV[0];
 
+open(my $fh, ">", "rna_output.txt") ;
+
 ########### Genes Extracted ####### ############
 my ($ARX, $KLHDC8A, $WFIKKN2, $SIGLEC11, $FOXL2, $NRK);
+$ARX =0; $KLHDC8A=0; $WFIKKN2=0; $SIGLEC11=0; $FOXL2=0; $NRK=0;
 
 ########### Genes thresholds ###################
 my $ARXth = 1.375833;
@@ -60,6 +63,8 @@ if ($a =~ /^NRK/  && $b != 0)
     if($NRK >= $NRKth) { $rank2 = $rank2 + 1; }
 }
 }
+print $fh "x\ty\n";
+print $fh "ARX\t$ARX\nFOXL2\t$FOXL2\nKLHDC8A\t$KLHDC8A\nNRK\t$NRK\nSIGLEC11\t$SIGLEC11\nWFIKKN2\t$WFIKKN2";
 ############################################### DISPLAY RESULT BASED ON RANK #########################################################
 if(($rank1 == 3 && $rank2 == 3) || ($rank1 == 3 && $rank2 == 2) ||  ($rank1 == 3 && $rank2 == 1) || ($rank1 == 3 && $rank2 == 0) || ($rank1 == 2 && $rank2 == 3))
 {
@@ -78,4 +83,4 @@ if($rank1 == 0 && $rank2 == 2 || $rank1 == 0 && $rank2 == 1 ||  $rank1 == 0 && $
     print "The Tissue of this sample are UNLIKELY of Ovarian origin\n";
 }
 
-
+close $fh;

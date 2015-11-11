@@ -7,6 +7,7 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+ 
   </head>
 
 <style>
@@ -187,10 +188,10 @@ function type(d) {
   return d;}
 
 </script>
-
+<script src="sorttable.js"></script> 
 </body>
 <center><body>
-	<table width="700" border="3">
+	<table width="700" border="3" class="sortable">
         <p> MUTATION TABLE:<p>
   <?php
         $handle = fopen("newfile.txt","r");
