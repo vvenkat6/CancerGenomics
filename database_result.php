@@ -6,7 +6,8 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-	<script src="sorttable.js"></script> 
+    <script src="stylesheets/sorttable.js"></script> 
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
  </head>
 <style>
 table.sortable thead {

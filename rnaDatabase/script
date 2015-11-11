@@ -1,0 +1,13 @@
+import math
+f = open('database.tsv','r')
+o = open('haha.tsv','w')
+for line in f:
+	line = line.strip()
+	word = line.split()
+	for x in word:
+		x = int(float(x))
+		x = math.log10(x)
+		o.write(str(x)+"\t")
+	o.write("\n")
+o.close()
+f.close() 

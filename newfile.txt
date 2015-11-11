@@ -1,27 +1,1071 @@
-Gene	Start	Variant_Classification	Amino_Acid_change	Validation_Status	Cosmic	Color
-FAM113A	2838470	Silent	p.P201	Valid	.67177	Main
-KIAA1009	84195006	Nonsense	p.S302*	Valid	.95415	Main
-L1TD1	62210940	Silent	p.K722	Unknown	.00056	Main
-MAD2L2	11676107	Deletion	p.L123fs	Unknown	0	Main
-OR2B11	247451959	Deletion	p.L9fs	Unknown	0	Main
-PRDM2	13779899	Insertion	p.704in_frame_insP	Unknown	0	Main
-RHBG	156384556	Deletion	p.R425fs	Unknown	0	Main
-TAF1B	9904895	Deletion	p.V282fs	Unknown	0	Main
-TMEM37	119437075	Insertion	p.T70in_frame_insSVP	Unknown	0	Main
-ZNF804A	184937484	Missense	p.N696K	Unknown	.12369	Main
-TSPYL1	116279302	Insertion	p.176in_frame_insV	Unknown	0	Main
-AKAP9	92022864	Insertion	p.1336in_frame_insQ	Unknown	0	Main
-NCRNA00174	66377558	Insertion	p.T17fs	Unknown	0	Main
-OR11G2	20198016	Insertion	p.G229fs	Unknown	0	Main
-CYP2A7	40880515	Missense	p.S153A	Unknown	.0028	Main
-TMPRSS3	42383199	Splice_Site	e7-1	Unknown	.94873	Main
-TMPRSS3	42383199	Splice_Site	e7-1	Unknown	.94873	Main
-BIRC6	32545808	Missense	p.A4253V	Valid	.96697	Main
-ACO1	32408614	Missense	p.V123L	Unknown	.9893	Main
-FREM2	38689594	Missense	p.D750E	Valid	.74392	Main
-TP53	7675238	Splice_Site	e4-2	Valid	.99475	Main
-TP53	7675238	Splice_Site	e4-2	Valid	.99475	Main
-BRCA1	43092919	Deletion		Valid	0.99	Gold
-BRCA1	43093220	Insertion		Valid	0.99	Gold
-BRCA1	43092919	Insertion		Valid	0.99	Gold
-BRCA1	43092919	Indel		Valid	0.99	Gold
+Start	Variant_Classification	Amino_Acid_change	Validation_Status	Cosmic	Color
+43124089	Nonsense	p.L3*	Valid	0.99	Gold
+43124063	Nonsense	p.Q12*	Valid	0.99	Gold
+43124042	Nonsense	p.Q19*	Valid	0.99	Gold
+43115775	Nonsense	p.E29*	Valid	0.99	Gold
+43115771	Nonsense	p.L30*	Valid	0.99	Gold
+43106490	Nonsense	p.Q60*	Valid	0.99	Gold
+43106480	Nonsense	p.L63*	Valid	0.99	Gold
+43104949	Nonsense	p.Q74*	Valid	0.99	Gold
+43104928	Nonsense	p.Q81*	Valid	0.99	Gold
+43104919	Nonsense	p.E84*	Valid	0.99	Gold
+43104260	Nonsense	p.Y101*	Valid	0.99	Gold
+43104173	Nonsense	p.Y130*	Valid	0.99	Gold
+43104136	Nonsense	p.E143*	Valid	0.99	Gold
+43099859	Nonsense	p.Q155*	Valid	0.99	Gold
+43099817	Nonsense	p.Q169*	Valid	0.99	Gold
+43099808	Nonsense	p.Q172*	Valid	0.99	Gold
+43095900	Nonsense	p.Q206*	Valid	0.99	Gold
+43094853	Nonsense	p.C226*	Valid	0.99	Gold
+43094843	Nonsense	p.E230*	Valid	0.99	Gold
+43094768	Nonsense	p.E255*	Valid	0.99	Gold
+43094748	Nonsense	p.Y261*	Valid	0.99	Gold
+43094731	Nonsense	p.S267*	Valid	0.99	Gold
+43094683	Nonsense	p.L283*	Valid	0.99	Gold
+43094681	Nonsense	p.Q284*	Valid	0.99	Gold
+43094606	Nonsense	p.K309*	Valid	0.99	Gold
+43094603	Nonsense	p.Q310*	Valid	0.99	Gold
+43094582	Nonsense	p.Q317*	Valid	0.99	Gold
+43094569	Nonsense	p.W321*	Valid	0.99	Gold
+43094519	Nonsense	p.K338*	Valid	0.99	Gold
+43094477	Nonsense	p.E352*	Valid	0.99	Gold
+43094473	Nonsense	p.W353*	Valid	0.99	Gold
+43094468	Nonsense	p.K355*	Valid	0.99	Gold
+43094465	Nonsense	p.Q356*	Valid	0.99	Gold
+43094449	Nonsense	p.S361*	Valid	0.99	Gold
+43094416	Nonsense	p.W372*	Valid	0.99	Gold
+43094415	Nonsense	p.W372*	Valid	0.99	Gold
+43094393	Nonsense	p.Q380*	Valid	0.99	Gold
+43094390	Nonsense	p.K381*	Valid	0.99	Gold
+43094338	Nonsense	p.S398*	Valid	0.99	Gold
+43094327	Nonsense	p.E402*	Valid	0.99	Gold
+43094279	Nonsense	p.E418*	Valid	0.99	Gold
+43094265	Nonsense	p.Y422*	Valid	0.99	Gold
+43094252	Nonsense	p.E427*	Valid	0.99	Gold
+43094239	Nonsense	p.L431*	Valid	0.99	Gold
+43094205	Nonsense	p.C442*	Valid	0.99	Gold
+43094198	Nonsense	p.E445*	Valid	0.99	Gold
+43094179	Nonsense	p.S451*	Valid	0.99	Gold
+43094132	Nonsense	p.K467*	Valid	0.99	Gold
+43094110	Nonsense	p.L474*	Valid	0.99	Gold
+43094081	Nonsense	p.G484*	Valid	0.99	Gold
+43094066	Nonsense	p.E489*	Valid	0.99	Gold
+43094060	Nonsense	p.Q491*	Valid	0.99	Gold
+43094051	Nonsense	p.Q494*	Valid	0.99	Gold
+43094026	Nonsense	p.L502*	Valid	0.99	Gold
+43094018	Nonsense	p.K505*	Valid	0.99	Gold
+43094012	Nonsense	p.R507*	Valid	0.99	Gold
+43094002	Nonsense	p.S510*	Valid	0.99	Gold
+43093955	Nonsense	p.Q526*	Valid	0.99	Gold
+43093931	Nonsense	p.Q534*	Valid	0.99	Gold
+43093919	Nonsense	p.Q538*	Valid	0.99	Gold
+43093913	Nonsense	p.E540*	Valid	0.99	Gold
+43093910	Nonsense	p.Q541*	Valid	0.99	Gold
+43093901	Nonsense	p.Q544*	Valid	0.99	Gold
+43093871	Nonsense	p.E554*	Valid	0.99	Gold
+43093844	Nonsense	p.Q563*	Valid	0.99	Gold
+43093817	Nonsense	p.E572*	Valid	0.99	Gold
+43093802	Nonsense	p.E577*	Valid	0.99	Gold
+43093790	Nonsense	p.K581*	Valid	0.99	Gold
+43093784	Nonsense	p.K583*	Valid	0.99	Gold
+43093738	Nonsense	p.L598*	Valid	0.99	Gold
+43093738	Nonsense	p.L598*	Valid	0.99	Gold
+43093723	Nonsense	p.S603*	Valid	0.99	Gold
+43093712	Nonsense	p.K607*	Valid	0.99	Gold
+43093691	Nonsense	p.K614*	Valid	0.99	Gold
+43093619	Nonsense	p.E638*	Valid	0.99	Gold
+43093615	Nonsense	p.L639*	Valid	0.99	Gold
+43093586	Nonsense	p.E649*	Valid	0.99	Gold
+43093571	Nonsense	p.K654*	Valid	0.99	Gold
+43093566	Nonsense	p.Y655*	Valid	0.99	Gold
+43093562	Nonsense	p.Q657*	Valid	0.99	Gold
+43093523	Nonsense	p.E670*	Valid	0.99	Gold
+43093517	Nonsense	p.K672*	Valid	0.99	Gold
+43093496	Nonsense	p.K679*	Valid	0.99	Gold
+43093472	Nonsense	p.Q687*	Valid	0.99	Gold
+43093463	Nonsense	p.K690*	Valid	0.99	Gold
+43093393	Nonsense	p.S713*	Valid	0.99	Gold
+43093376	Nonsense	p.K719*	Valid	0.99	Gold
+43093373	Nonsense	p.E720*	Valid	0.99	Gold
+43093343	Nonsense	p.E730*	Valid	0.99	Gold
+43093337	Nonsense	p.E732*	Valid	0.99	Gold
+43093334	Nonsense	p.E733*	Valid	0.99	Gold
+43093268	Nonsense	p.E755*	Valid	0.99	Gold
+43093256	Nonsense	p.Q759*	Valid	0.99	Gold
+43093222	Nonsense	p.S770*	Valid	0.99	Gold
+43093193	Nonsense	p.Q780*	Valid	0.99	Gold
+43093177	Nonsense	p.L785*	Valid	0.99	Gold
+43093142	Nonsense	p.E797*	Valid	0.99	Gold
+43093097	Nonsense	p.K812*	Valid	0.99	Gold
+43093094	Nonsense	p.G813*	Valid	0.99	Gold
+43092968	Nonsense	p.Q855*	Valid	0.99	Gold
+43092963	Nonsense	p.Y856*	Valid	0.99	Gold
+43092959	Nonsense	p.Q858*	Valid	0.99	Gold
+43092940	Nonsense	p.S864*	Valid	0.99	Gold
+43092928	Nonsense	p.S868*	Valid	0.99	Gold
+43092928	Nonsense	p.S868*	Valid	0.99	Gold
+43092896	Nonsense	p.E879*	Valid	0.99	Gold
+43092890	Nonsense	p.E881*	Valid	0.99	Gold
+43092848	Nonsense	p.Q895*	Valid	0.99	Gold
+43092821	Nonsense	p.E904*	Valid	0.99	Gold
+43092818	Nonsense	p.Q905*	Valid	0.99	Gold
+43092815	Nonsense	p.K906*	Valid	0.99	Gold
+43092809	Nonsense	p.E908*	Valid	0.99	Gold
+43092803	Nonsense	p.Q910*	Valid	0.99	Gold
+43092770	Nonsense	p.Q921*	Valid	0.99	Gold
+43092731	Nonsense	p.Q934*	Valid	0.99	Gold
+43092699	Nonsense	p.C944*	Valid	0.99	Gold
+43092667	Nonsense	p.S955*	Valid	0.99	Gold
+43092662	Nonsense	p.Q957*	Valid	0.99	Gold
+43092641	Nonsense	p.G964*	Valid	0.99	Gold
+43092617	Nonsense	p.G972*	Valid	0.99	Gold
+43092610	Nonsense	p.L974*	Valid	0.99	Gold
+43092608	Nonsense	p.Q975*	Valid	0.99	Gold
+43092597	Nonsense	p.Y978*	Valid	0.99	Gold
+43092568	Nonsense	p.S988*	Valid	0.99	Gold
+43092511	Nonsense	p.S1007*	Valid	0.99	Gold
+43092419	Nonsense	p.E1038*	Valid	0.99	Gold
+43092409	Nonsense	p.S1041*	Valid	0.99	Gold
+43092353	Nonsense	p.E1060*	Valid	0.99	Gold
+43092292	Nonsense	p.L1080*	Valid	0.99	Gold
+43092274	Nonsense	p.L1086*	Valid	0.99	Gold
+43092263	Nonsense	p.Q1090*	Valid	0.99	Gold
+43092245	Nonsense	p.Q1096*	Valid	0.99	Gold
+43092212	Nonsense	p.E1107*	Valid	0.99	Gold
+43092192	Nonsense	p.Y1113*	Valid	0.99	Gold
+43092191	Nonsense	p.E1114*	Valid	0.99	Gold
+43092179	Nonsense	p.Q1118*	Valid	0.99	Gold
+43092150	Nonsense	p.Y1127*	Valid	0.99	Gold
+43092142	Nonsense	p.S1130*	Valid	0.99	Gold
+43092133	Nonsense	p.L1133*	Valid	0.99	Gold
+43092131	Nonsense	p.E1134*	Valid	0.99	Gold
+43092128	Nonsense	p.Q1135*	Valid	0.99	Gold
+43092101	Nonsense	p.Q1144*	Valid	0.99	Gold
+43092059	Nonsense	p.E1158*	Valid	0.99	Gold
+43092017	Nonsense	p.E1172*	Valid	0.99	Gold
+43091978	Nonsense	p.E1185*	Valid	0.99	Gold
+43091938	Nonsense	p.L1198*	Valid	0.99	Gold
+43091933	Nonsense	p.Q1200*	Valid	0.99	Gold
+43091924	Nonsense	p.R1203*	Valid	0.99	Gold
+43091891	Nonsense	p.E1214*	Valid	0.99	Gold
+43091884	Nonsense	p.L1216*	Valid	0.99	Gold
+43091870	Nonsense	p.E1221*	Valid	0.99	Gold
+43091842	Nonsense	p.L1230*	Valid	0.99	Gold
+43091813	Nonsense	p.Q1240*	Valid	0.99	Gold
+43091783	Nonsense	p.E1250*	Valid	0.99	Gold
+43091778	Nonsense	p.C1251*	Valid	0.99	Gold
+43091759	Nonsense	p.E1258*	Valid	0.99	Gold
+43091749	Nonsense	p.L1261*	Valid	0.99	Gold
+43091746	Nonsense	p.S1262*	Valid	0.99	Gold
+43091714	Nonsense	p.Q1273*	Valid	0.99	Gold
+43091690	Nonsense	p.Q1281*	Valid	0.99	Gold
+43091669	Nonsense	p.E1288*	Valid	0.99	Gold
+43091638	Nonsense	p.S1298*	Valid	0.99	Gold
+43091636	Nonsense	p.Q1299*	Valid	0.99	Gold
+43091627	Nonsense	p.E1302*	Valid	0.99	Gold
+43091594	Nonsense	p.Q1313*	Valid	0.99	Gold
+43091564	Nonsense	p.Q1323*	Valid	0.99	Gold
+43091540	Nonsense	p.Q1331*	Valid	0.99	Gold
+43091479	Nonsense	p.L1351*	Valid	0.99	Gold
+43091474	Nonsense	p.E1353*	Valid	0.99	Gold
+43091456	Nonsense	p.Q1359*	Valid	0.99	Gold
+43091443	Nonsense	p.S1363*	Valid	0.99	Gold
+43091013	Nonsense	p.C1372*	Valid	0.99	Gold
+43091012	Nonsense	p.E1373*	Valid	0.99	Gold
+43090946	Nonsense	p.Q1395*	Valid	0.99	Gold
+43082575	Nonsense	p.Q1396*	Valid	0.99	Gold
+43082560	Nonsense	p.Q1401*	Valid	0.99	Gold
+43082539	Nonsense	p.Q1408*	Valid	0.99	Gold
+43082533	Nonsense	p.E1410*	Valid	0.99	Gold
+43082524	Nonsense	p.E1413*	Valid	0.99	Gold
+43082508	Nonsense	p.L1418*	Valid	0.99	Gold
+43082503	Nonsense	p.Q1420*	Valid	0.99	Gold
+43082474	Nonsense	p.Y1429*	Valid	0.99	Gold
+43082434	Nonsense	p.R1443*	Valid	0.99	Gold
+43082422	Nonsense	p.Q1447*	Valid	0.99	Gold
+43076600	Nonsense	p.Q1458*	Valid	0.99	Gold
+43076583	Nonsense	p.Y1463*	Valid	0.99	Gold
+43076573	Nonsense	p.Q1467*	Valid	0.99	Gold
+43076492	Nonsense	p.E1494*	Valid	0.99	Gold
+43074519	Nonsense	p.S1496*	Valid	0.99	Gold
+43074498	Nonsense	p.S1503*	Valid	0.99	Gold
+43074482	Nonsense	p.W1508*	Valid	0.99	Gold
+43074403	Nonsense	p.E1535*	Valid	0.99	Gold
+43074397	Nonsense	p.Q1537*	Valid	0.99	Gold
+43074394	Nonsense	p.Q1538*	Valid	0.99	Gold
+43074385	Nonsense	p.E1541*	Valid	0.99	Gold
+43074350	Nonsense	p.Y1552*	Valid	0.99	Gold
+43071236	Nonsense	p.G1560*	Valid	0.99	Gold
+43071225	Nonsense	p.Y1563*	Valid	0.99	Gold
+43071225	Nonsense	p.Y1563*	Valid	0.99	Gold
+43071173	Nonsense	p.E1581*	Valid	0.99	Gold
+43071154	Nonsense	p.S1587*	Valid	0.99	Gold
+43071113	Nonsense	p.K1601*	Valid	0.99	Gold
+43071104	Nonsense	p.Q1604*	Valid	0.99	Gold
+43071011	Nonsense	p.E1635*	Valid	0.99	Gold
+43070984	Nonsense	p.E1644*	Valid	0.99	Gold
+43070972	Nonsense	p.K1648*	Valid	0.99	Gold
+43070933	Nonsense	p.E1661*	Valid	0.99	Gold
+43067684	Nonsense	p.Y1666*	Valid	0.99	Gold
+43067683	Nonsense	p.K1667*	Valid	0.99	Gold
+43067635	Nonsense	p.E1683*	Valid	0.99	Gold
+43067614	Nonsense	p.K1690*	Valid	0.99	Gold
+43063946	Nonsense	p.E1694*	Valid	0.99	Gold
+43063917	Nonsense	p.Y1703*	Valid	0.99	Gold
+43063898	Nonsense	p.G1710*	Valid	0.99	Gold
+43063890	Nonsense	p.W1712*	Valid	0.99	Gold
+43063878	Nonsense	p.Y1716*	Valid	0.99	Gold
+43063373	Nonsense	p.W1718*	Valid	0.99	Gold
+43063372	Nonsense	p.W1718*	Valid	0.99	Gold
+43063365	Nonsense	p.Q1721*	Valid	0.99	Gold
+43063353	Nonsense	p.E1725*	Valid	0.99	Gold
+43063347	Nonsense	p.K1727*	Valid	0.99	Gold
+43057078	Nonsense	p.R1751*	Valid	0.99	Gold
+43057069	Nonsense	p.E1754*	Valid	0.99	Gold
+43057063	Nonsense	p.Q1756*	Valid	0.99	Gold
+43051102	Nonsense	p.E1765*	Valid	0.99	Gold
+43051088	Nonsense	p.Y1769*	Valid	0.99	Gold
+43049192	Nonsense	p.Q1779*	Valid	0.99	Gold
+43049186	Nonsense	p.E1781*	Valid	0.99	Gold
+43049182	Nonsense	p.W1782*	Valid	0.99	Gold
+43049181	Nonsense	p.W1782*	Valid	0.99	Gold
+43049174	Nonsense	p.Q1785*	Valid	0.99	Gold
+43049150	Nonsense	p.K1793*	Valid	0.99	Gold
+43047679	Nonsense	p.Q1811*	Valid	0.99	Gold
+43047666	Nonsense	p.W1815*	Valid	0.99	Gold
+43047665	Nonsense	p.W1815*	Valid	0.99	Gold
+43047661	Nonsense	p.E1817*	Valid	0.99	Gold
+43045767	Nonsense	p.R1835*	Valid	0.99	Gold
+43045764	Nonsense	p.E1836*	Valid	0.99	Gold
+43045760	Nonsense	p.W1837*	Valid	0.99	Gold
+43045759	Nonsense	p.W1837*	Valid	0.99	Gold
+43045734	Nonsense	p.Q1846*	Valid	0.99	Gold
+43045729	Nonsense	p.C1847*	Valid	0.99	Gold
+43045711	Nonsense	p.Y1853*	Valid	0.99	Gold
+43115785	Splice Site		Valid	0.99	Gold
+43115781	Splice Site		Valid	0.99	Gold
+43115780	Splice Site		Valid	0.99	Gold
+43115780	Splice Site		Valid	0.99	Gold
+43124016	Splice Site		Valid	0.99	Gold
+43106534	Splice Site		Valid	0.99	Gold
+43106534	Splice Site		Valid	0.99	Gold
+43115725	Splice Site		Valid	0.99	Gold
+43115725	Splice Site		Valid	0.99	Gold
+43115724	Splice Site		Valid	0.99	Gold
+43115723	Splice Site		Valid	0.99	Gold
+43104968	Splice Site		Valid	0.99	Gold
+43104967	Splice Site		Valid	0.99	Gold
+43104958	Splice Site		Valid	0.99	Gold
+43104958	Splice Site		Valid	0.99	Gold
+43104957	Splice Site		Valid	0.99	Gold
+43106457	Splice Site		Valid	0.99	Gold
+43106455	Splice Site		Valid	0.99	Gold
+43106455	Splice Site		Valid	0.99	Gold
+43106455	Splice Site		Valid	0.99	Gold
+43106454	Splice Site		Valid	0.99	Gold
+43104264	Splice Site		Valid	0.99	Gold
+43104263	Splice Site		Valid	0.99	Gold
+43104263	Splice Site		Valid	0.99	Gold
+43104262	Splice Site		Valid	0.99	Gold
+43104262	Splice Site		Valid	0.99	Gold
+43104121	Splice Site		Valid	0.99	Gold
+43104120	Splice Site		Valid	0.99	Gold
+43104120	Splice Site		Valid	0.99	Gold
+43099774	Splice Site		Valid	0.99	Gold
+43099773	Splice Site		Valid	0.99	Gold
+43095924	Splice Site		Valid	0.99	Gold
+43095924	Splice Site		Valid	0.99	Gold
+43094862	Splice Site		Valid	0.99	Gold
+43094861	Splice Site		Valid	0.99	Gold
+43091034	Splice Site		Valid	0.99	Gold
+43091033	Splice Site		Valid	0.99	Gold
+43091434	Splice Site		Valid	0.99	Gold
+43091432	Splice Site		Valid	0.99	Gold
+43090944	Splice Site		Valid	0.99	Gold
+43090943	Splice Site		Valid	0.99	Gold
+43082403	Splice Site		Valid	0.99	Gold
+43082403	Splice Site		Valid	0.99	Gold
+43082403	Splice Site		Valid	0.99	Gold
+43082402	Splice Site		Valid	0.99	Gold
+43082398	Splice Site		Valid	0.99	Gold
+43074523	Splice Site		Valid	0.99	Gold
+43074522	Splice Site		Valid	0.99	Gold
+43076488	Splice Site		Valid	0.99	Gold
+43076487	Splice Site		Valid	0.99	Gold
+43076487	Splice Site		Valid	0.99	Gold
+43074331	Splice Site		Valid	0.99	Gold
+43074331	Splice Site		Valid	0.99	Gold
+43074330	Splice Site		Valid	0.99	Gold
+43067700	Splice Site		Valid	0.99	Gold
+43067698	Splice Site		Valid	0.99	Gold
+43067697	Splice Site		Valid	0.99	Gold
+43067696	Splice Site		Valid	0.99	Gold
+43070927	Splice Site		Valid	0.99	Gold
+43070926	Splice Site		Valid	0.99	Gold
+43070925	Splice Site		Valid	0.99	Gold
+43070924	Splice Site		Valid	0.99	Gold
+43070923	Splice Site		Valid	0.99	Gold
+43070922	Splice Site		Valid	0.99	Gold
+43070922	Splice Site		Valid	0.99	Gold
+43063953	Splice Site		Valid	0.99	Gold
+43063953	Splice Site		Valid	0.99	Gold
+43063953	Splice Site		Valid	0.99	Gold
+43063952	Splice Site		Valid	0.99	Gold
+43063952	Splice Site		Valid	0.99	Gold
+43067608	Splice Site		Valid	0.99	Gold
+43067608	Splice Site		Valid	0.99	Gold
+43067608	Splice Site		Valid	0.99	Gold
+43067607	Splice Site		Valid	0.99	Gold
+43067607	Splice Site		Valid	0.99	Gold
+43067605	Splice Site		Valid	0.99	Gold
+43063374	Splice Site		Valid	0.99	Gold
+43063374	Splice Site		Valid	0.99	Gold
+43063374	Splice Site		Valid	0.99	Gold
+43063873	Splice Site		Valid	0.99	Gold
+43063873	Splice Site		Valid	0.99	Gold
+43063873	Splice Site		Valid	0.99	Gold
+43063869	Splice Site		Valid	0.99	Gold
+43057137	Splice Site		Valid	0.99	Gold
+43057137	Splice Site		Valid	0.99	Gold
+43057136	Splice Site		Valid	0.99	Gold
+43063332	Splice Site		Valid	0.99	Gold
+43063331	Splice Site		Valid	0.99	Gold
+43051119	Splice Site		Valid	0.99	Gold
+43051118	Splice Site		Valid	0.99	Gold
+43051118	Splice Site		Valid	0.99	Gold
+43051118	Splice Site		Valid	0.99	Gold
+43057051	Splice Site		Valid	0.99	Gold
+43057051	Splice Site		Valid	0.99	Gold
+43049200	Splice Site		Valid	0.99	Gold
+43049196	Splice Site		Valid	0.99	Gold
+43049196	Splice Site		Valid	0.99	Gold
+43049195	Splice Site		Valid	0.99	Gold
+43049195	Splice Site		Valid	0.99	Gold
+43049195	Splice Site		Valid	0.99	Gold
+43051062	Splice Site		Valid	0.99	Gold
+43051062	Splice Site		Valid	0.99	Gold
+43051061	Splice Site		Valid	0.99	Gold
+43047705	Splice Site		Valid	0.99	Gold
+43047702	Splice Site		Valid	0.99	Gold
+43049118	Splice Site		Valid	0.99	Gold
+43049117	Splice Site		Valid	0.99	Gold
+43049116	Splice Site		Valid	0.99	Gold
+43049116	Splice Site		Valid	0.99	Gold
+43049088	Splice Site		Valid	0.99	Gold
+43047643	Splice Site		Valid	0.99	Gold
+43047642	Splice Site		Valid	0.99	Gold
+43124036	Deletion		Valid	0.99	Gold
+43124032	Deletion		Valid	0.99	Gold
+43124030	Deletion		Valid	0.99	Gold
+43124028	Deletion		Valid	0.99	Gold
+43124017	Deletion		Valid	0.99	Gold
+43124024	Deletion		Valid	0.99	Gold
+43115781	Deletion		Valid	0.99	Gold
+43115776	Deletion		Valid	0.99	Gold
+43115747	Deletion		Valid	0.99	Gold
+43115742	Deletion		Valid	0.99	Gold
+43115738	Deletion		Valid	0.99	Gold
+43115736	Deletion		Valid	0.99	Gold
+43115726	Deletion		Valid	0.99	Gold
+43115724	Deletion		Valid	0.99	Gold
+43115720	Deletion		Valid	0.99	Gold
+43106524	Deletion		Valid	0.99	Gold
+43106508	Deletion		Valid	0.99	Gold
+43106489	Deletion		Valid	0.99	Gold
+43106485	Deletion		Valid	0.99	Gold
+43106475	Deletion		Valid	0.99	Gold
+43106473	Deletion		Valid	0.99	Gold
+43106457	Deletion		Valid	0.99	Gold
+43104937	Deletion		Valid	0.99	Gold
+43104923	Deletion		Valid	0.99	Gold
+43104878	Deletion		Valid	0.99	Gold
+43104263	Deletion		Valid	0.99	Gold
+43104233	Deletion		Valid	0.99	Gold
+43104220	Deletion	p.P115*	Valid	0.99	Gold
+43104163	Deletion		Valid	0.99	Gold
+43104132	Deletion		Valid	0.99	Gold
+43104123	Deletion		Valid	0.99	Gold
+43099864	Deletion		Valid	0.99	Gold
+43099851	Deletion		Valid	0.99	Gold
+43099845	Deletion		Valid	0.99	Gold
+43099836	Deletion		Valid	0.99	Gold
+43099834	Deletion		Valid	0.99	Gold
+43099828	Deletion		Valid	0.99	Gold
+43099808	Deletion		Valid	0.99	Gold
+43099802	Deletion		Valid	0.99	Gold
+43099786	Deletion		Valid	0.99	Gold
+43097289	Deletion		Valid	0.99	Gold
+43095848	Deletion		Valid	0.99	Gold
+43094855	Deletion		Valid	0.99	Gold
+43094833	Deletion		Valid	0.99	Gold
+43094794	Deletion		Valid	0.99	Gold
+43094787	Deletion		Valid	0.99	Gold
+43094737	Deletion		Valid	0.99	Gold
+43094736	Deletion		Valid	0.99	Gold
+43094732	Deletion		Valid	0.99	Gold
+43094696	Deletion		Valid	0.99	Gold
+43094685	Deletion		Valid	0.99	Gold
+43094635	Deletion		Valid	0.99	Gold
+43094622	Deletion		Valid	0.99	Gold
+43094607	Deletion		Valid	0.99	Gold
+43094604	Deletion		Valid	0.99	Gold
+43094602	Deletion		Valid	0.99	Gold
+43094601	Deletion		Valid	0.99	Gold
+43094598	Deletion		Valid	0.99	Gold
+43094571	Deletion		Valid	0.99	Gold
+43094570	Deletion		Valid	0.99	Gold
+43094567	Deletion		Valid	0.99	Gold
+43094550	Deletion		Valid	0.99	Gold
+43094549	Deletion		Valid	0.99	Gold
+43094545	Deletion		Valid	0.99	Gold
+43094515	Deletion		Valid	0.99	Gold
+43094513	Deletion		Valid	0.99	Gold
+43094491	Deletion		Valid	0.99	Gold
+43094491	Deletion		Valid	0.99	Gold
+43094481	Deletion		Valid	0.99	Gold
+43094464	Deletion		Valid	0.99	Gold
+43094454	Deletion		Valid	0.99	Gold
+43094459	Deletion		Valid	0.99	Gold
+43094439	Deletion		Valid	0.99	Gold
+43094444	Deletion		Valid	0.99	Gold
+43094443	Deletion		Valid	0.99	Gold
+43094440	Deletion		Valid	0.99	Gold
+43094419	Deletion		Valid	0.99	Gold
+43094410	Deletion		Valid	0.99	Gold
+43094408	Deletion		Valid	0.99	Gold
+43094404	Deletion		Valid	0.99	Gold
+43094372	Deletion		Valid	0.99	Gold
+43094361	Deletion		Valid	0.99	Gold
+43094365	Deletion		Valid	0.99	Gold
+43094353	Deletion		Valid	0.99	Gold
+43094343	Deletion		Valid	0.99	Gold
+43094327	Deletion		Valid	0.99	Gold
+43094314	Deletion		Valid	0.99	Gold
+43094298	Deletion		Valid	0.99	Gold
+43094276	Deletion		Valid	0.99	Gold
+43094239	Deletion		Valid	0.99	Gold
+43094234	Deletion		Valid	0.99	Gold
+43094212	Deletion		Valid	0.99	Gold
+43094195	Deletion		Valid	0.99	Gold
+43094170	Deletion		Valid	0.99	Gold
+43094160	Deletion		Valid	0.99	Gold
+43094157	Deletion		Valid	0.99	Gold
+43094145	Deletion		Valid	0.99	Gold
+43094141	Deletion		Valid	0.99	Gold
+43094139	Deletion		Valid	0.99	Gold
+43094128	Deletion		Valid	0.99	Gold
+43094126	Deletion		Valid	0.99	Gold
+43094087	Deletion		Valid	0.99	Gold
+43094084	Deletion		Valid	0.99	Gold
+43094033	Deletion		Valid	0.99	Gold
+43094039	Deletion		Valid	0.99	Gold
+43094032	Deletion		Valid	0.99	Gold
+43094024	Deletion		Valid	0.99	Gold
+43094023	Deletion		Valid	0.99	Gold
+43094021	Deletion		Valid	0.99	Gold
+43094013	Deletion		Valid	0.99	Gold
+43094021	Deletion		Valid	0.99	Gold
+43094010	Deletion		Valid	0.99	Gold
+43094001	Deletion		Valid	0.99	Gold
+43093980	Deletion		Valid	0.99	Gold
+43093975	Deletion		Valid	0.99	Gold
+43093961	Deletion		Valid	0.99	Gold
+43093942	Deletion		Valid	0.99	Gold
+43093930	Deletion		Valid	0.99	Gold
+43093920	Deletion		Valid	0.99	Gold
+43093882	Deletion		Valid	0.99	Gold
+43093857	Deletion		Valid	0.99	Gold
+43093857	Deletion		Valid	0.99	Gold
+43093837	Deletion		Valid	0.99	Gold
+43093831	Deletion		Valid	0.99	Gold
+43093814	Deletion		Valid	0.99	Gold
+43093815	Deletion		Valid	0.99	Gold
+43093801	Deletion		Valid	0.99	Gold
+43093774	Deletion		Valid	0.99	Gold
+43093770	Deletion		Valid	0.99	Gold
+43093726	Deletion		Valid	0.99	Gold
+43093714	Deletion		Valid	0.99	Gold
+43093708	Deletion		Valid	0.99	Gold
+43093705	Deletion		Valid	0.99	Gold
+43093700	Deletion	p.L611*	Valid	0.99	Gold
+43093683	Deletion	p.Ser616del	Valid	0.99	Gold
+43093647	Deletion		Valid	0.99	Gold
+43093642	Deletion		Valid	0.99	Gold
+43093625	Deletion		Valid	0.99	Gold
+43093619	Deletion		Valid	0.99	Gold
+43093601	Deletion		Valid	0.99	Gold
+43093595	Deletion		Valid	0.99	Gold
+43093584	Deletion		Valid	0.99	Gold
+43093581	Deletion		Valid	0.99	Gold
+43093579	Deletion		Valid	0.99	Gold
+43093575	Deletion		Valid	0.99	Gold
+43093570	Deletion		Valid	0.99	Gold
+43093570	Deletion		Valid	0.99	Gold
+43093535	Deletion		Valid	0.99	Gold
+43093512	Deletion		Valid	0.99	Gold
+43093510	Deletion		Valid	0.99	Gold
+43093502	Deletion		Valid	0.99	Gold
+43093483	Deletion		Valid	0.99	Gold
+43093465	Deletion		Valid	0.99	Gold
+43093460	Deletion		Valid	0.99	Gold
+43093457	Deletion		Valid	0.99	Gold
+43093455	Deletion		Valid	0.99	Gold
+43093445	Deletion		Valid	0.99	Gold
+43093420	Deletion		Valid	0.99	Gold
+43093404	Deletion		Valid	0.99	Gold
+43093363	Deletion		Valid	0.99	Gold
+43093365	Deletion		Valid	0.99	Gold
+43093357	Deletion		Valid	0.99	Gold
+43093354	Deletion		Valid	0.99	Gold
+43093330	Deletion		Valid	0.99	Gold
+43093335	Deletion		Valid	0.99	Gold
+43093335	Deletion		Valid	0.99	Gold
+43093335	Deletion		Valid	0.99	Gold
+43093330	Deletion		Valid	0.99	Gold
+43093332	Deletion		Valid	0.99	Gold
+43093321	Deletion		Valid	0.99	Gold
+43093320	Deletion		Valid	0.99	Gold
+43093319	Deletion		Valid	0.99	Gold
+43093316	Deletion		Valid	0.99	Gold
+43093314	Deletion		Valid	0.99	Gold
+43093290	Deletion		Valid	0.99	Gold
+43093279	Deletion		Valid	0.99	Gold
+43093277	Deletion		Valid	0.99	Gold
+43093262	Deletion		Valid	0.99	Gold
+43093247	Deletion		Valid	0.99	Gold
+43093234	Deletion	p.S766*	Valid	0.99	Gold
+43093232	Deletion		Valid	0.99	Gold
+43093223	Deletion		Valid	0.99	Gold
+43093217	Deletion		Valid	0.99	Gold
+43093180	Deletion		Valid	0.99	Gold
+43093174	Deletion		Valid	0.99	Gold
+43093175	Deletion		Valid	0.99	Gold
+43093174	Deletion		Valid	0.99	Gold
+43093172	Deletion		Valid	0.99	Gold
+43093142	Deletion		Valid	0.99	Gold
+43093141	Deletion		Valid	0.99	Gold
+43093140	Deletion		Valid	0.99	Gold
+43093125	Deletion		Valid	0.99	Gold
+43093122	Deletion		Valid	0.99	Gold
+43093120	Deletion		Valid	0.99	Gold
+43093119	Deletion		Valid	0.99	Gold
+43093102	Deletion		Valid	0.99	Gold
+43093098	Deletion		Valid	0.99	Gold
+43093074	Deletion		Valid	0.99	Gold
+43093056	Deletion		Valid	0.99	Gold
+43093055	Deletion		Valid	0.99	Gold
+43093054	Deletion		Valid	0.99	Gold
+43093044	Deletion		Valid	0.99	Gold
+43093044	Deletion		Valid	0.99	Gold
+43093030	Deletion		Valid	0.99	Gold
+43093023	Deletion		Valid	0.99	Gold
+43093016	Deletion		Valid	0.99	Gold
+43093013	Deletion		Valid	0.99	Gold
+43093013	Deletion		Valid	0.99	Gold
+43093002	Deletion		Valid	0.99	Gold
+43092980	Deletion		Valid	0.99	Gold
+43092975	Deletion		Valid	0.99	Gold
+43092966	Deletion		Valid	0.99	Gold
+43092937	Deletion		Valid	0.99	Gold
+43092919	Deletion		Valid	0.99	Gold
+43092888	Deletion		Valid	0.99	Gold
+43092883	Deletion		Valid	0.99	Gold
+43092873	Deletion		Valid	0.99	Gold
+43092861	Deletion		Valid	0.99	Gold
+43092860	Deletion		Valid	0.99	Gold
+43092851	Deletion		Valid	0.99	Gold
+43092849	Deletion		Valid	0.99	Gold
+43092849	Deletion		Valid	0.99	Gold
+43092849	Deletion		Valid	0.99	Gold
+43092845	Deletion		Valid	0.99	Gold
+43092845	Deletion		Valid	0.99	Gold
+43092845	Deletion		Valid	0.99	Gold
+43092828	Deletion		Valid	0.99	Gold
+43092821	Deletion		Valid	0.99	Gold
+43092809	Deletion		Valid	0.99	Gold
+43092805	Deletion		Valid	0.99	Gold
+43092801	Deletion		Valid	0.99	Gold
+43092801	Deletion		Valid	0.99	Gold
+43092803	Deletion		Valid	0.99	Gold
+43092786	Deletion		Valid	0.99	Gold
+43092769	Deletion		Valid	0.99	Gold
+43092765	Deletion		Valid	0.99	Gold
+43092764	Deletion		Valid	0.99	Gold
+43092732	Deletion		Valid	0.99	Gold
+43092732	Deletion		Valid	0.99	Gold
+43092726	Deletion		Valid	0.99	Gold
+43092722	Deletion		Valid	0.99	Gold
+43092720	Deletion		Valid	0.99	Gold
+43092718	Deletion		Valid	0.99	Gold
+43092717	Deletion		Valid	0.99	Gold
+43092701	Deletion		Valid	0.99	Gold
+43092696	Deletion		Valid	0.99	Gold
+43092695	Deletion		Valid	0.99	Gold
+43092694	Deletion		Valid	0.99	Gold
+43092678	Deletion		Valid	0.99	Gold
+43092685	Deletion		Valid	0.99	Gold
+43092674	Deletion		Valid	0.99	Gold
+43092661	Deletion		Valid	0.99	Gold
+43092655	Deletion		Valid	0.99	Gold
+43092656	Deletion		Valid	0.99	Gold
+43092644	Deletion		Valid	0.99	Gold
+43092633	Deletion		Valid	0.99	Gold
+43092621	Deletion		Valid	0.99	Gold
+43092620	Deletion		Valid	0.99	Gold
+43092610	Deletion		Valid	0.99	Gold
+43092597	Deletion		Valid	0.99	Gold
+43092579	Deletion		Valid	0.99	Gold
+43092579	Deletion		Valid	0.99	Gold
+43092576	Deletion		Valid	0.99	Gold
+43092564	Deletion		Valid	0.99	Gold
+43092552	Deletion		Valid	0.99	Gold
+43092541	Deletion		Valid	0.99	Gold
+43092551	Deletion		Valid	0.99	Gold
+43092541	Deletion		Valid	0.99	Gold
+43092532	Deletion		Valid	0.99	Gold
+43092526	Deletion		Valid	0.99	Gold
+43092522	Deletion		Valid	0.99	Gold
+43092518	Deletion		Valid	0.99	Gold
+43092510	Deletion		Valid	0.99	Gold
+43092501	Deletion		Valid	0.99	Gold
+43092437	Deletion		Valid	0.99	Gold
+43092419	Deletion	p.F1036*	Valid	0.99	Gold
+43092423	Deletion		Valid	0.99	Gold
+43092397	Deletion		Valid	0.99	Gold
+43092388	Deletion		Valid	0.99	Gold
+43092386	Deletion		Valid	0.99	Gold
+43092376	Deletion		Valid	0.99	Gold
+43092374	Deletion		Valid	0.99	Gold
+43092367	Deletion		Valid	0.99	Gold
+43092363	Deletion		Valid	0.99	Gold
+43092359	Deletion		Valid	0.99	Gold
+43092350	Deletion		Valid	0.99	Gold
+43092348	Deletion		Valid	0.99	Gold
+43092317	Deletion		Valid	0.99	Gold
+43092302	Deletion		Valid	0.99	Gold
+43092269	Deletion		Valid	0.99	Gold
+43092265	Deletion		Valid	0.99	Gold
+43092252	Deletion		Valid	0.99	Gold
+43092246	Deletion		Valid	0.99	Gold
+43092245	Deletion		Valid	0.99	Gold
+43092242	Deletion		Valid	0.99	Gold
+43092242	Deletion		Valid	0.99	Gold
+43092235	Deletion		Valid	0.99	Gold
+43092217	Deletion		Valid	0.99	Gold
+43092205	Deletion		Valid	0.99	Gold
+43092202	Deletion		Valid	0.99	Gold
+43092202	Deletion		Valid	0.99	Gold
+43092201	Deletion		Valid	0.99	Gold
+43092200	Deletion		Valid	0.99	Gold
+43092197	Deletion		Valid	0.99	Gold
+43092198	Deletion		Valid	0.99	Gold
+43092195	Deletion		Valid	0.99	Gold
+43092186	Deletion		Valid	0.99	Gold
+43092188	Deletion		Valid	0.99	Gold
+43092176	Deletion		Valid	0.99	Gold
+43092172	Deletion		Valid	0.99	Gold
+43092174	Deletion		Valid	0.99	Gold
+43092172	Deletion		Valid	0.99	Gold
+43092171	Deletion		Valid	0.99	Gold
+43092168	Deletion		Valid	0.99	Gold
+43092155	Deletion		Valid	0.99	Gold
+43092154	Deletion		Valid	0.99	Gold
+43092141	Deletion		Valid	0.99	Gold
+43092133	Deletion		Valid	0.99	Gold
+43092118	Deletion		Valid	0.99	Gold
+43092115	Deletion		Valid	0.99	Gold
+43092114	Deletion		Valid	0.99	Gold
+43092107	Deletion		Valid	0.99	Gold
+43092092	Deletion		Valid	0.99	Gold
+43092089	Deletion		Valid	0.99	Gold
+43092081	Deletion		Valid	0.99	Gold
+43092063	Deletion		Valid	0.99	Gold
+43092052	Deletion		Valid	0.99	Gold
+43092051	Deletion		Valid	0.99	Gold
+43092050	Deletion		Valid	0.99	Gold
+43092040	Deletion		Valid	0.99	Gold
+43092046	Deletion		Valid	0.99	Gold
+43092036	Deletion		Valid	0.99	Gold
+43092022	Deletion		Valid	0.99	Gold
+43091990	Deletion		Valid	0.99	Gold
+43091981	Deletion		Valid	0.99	Gold
+43091948	Deletion		Valid	0.99	Gold
+43091929	Deletion		Valid	0.99	Gold
+43091919	Deletion		Valid	0.99	Gold
+43091905	Deletion		Valid	0.99	Gold
+43091903	Deletion		Valid	0.99	Gold
+43091901	Deletion		Valid	0.99	Gold
+43091888	Deletion		Valid	0.99	Gold
+43091852	Deletion		Valid	0.99	Gold
+43091833	Deletion		Valid	0.99	Gold
+43091832	Deletion		Valid	0.99	Gold
+43091827	Deletion		Valid	0.99	Gold
+43091827	Deletion		Valid	0.99	Gold
+43091824	Deletion		Valid	0.99	Gold
+43091824	Deletion		Valid	0.99	Gold
+43091818	Deletion		Valid	0.99	Gold
+43091821	Deletion		Valid	0.99	Gold
+43091816	Deletion		Valid	0.99	Gold
+43091793	Deletion		Valid	0.99	Gold
+43091774	Deletion		Valid	0.99	Gold
+43091772	Deletion		Valid	0.99	Gold
+43091772	Deletion		Valid	0.99	Gold
+43091771	Deletion		Valid	0.99	Gold
+43091768	Deletion		Valid	0.99	Gold
+43091767	Deletion		Valid	0.99	Gold
+43091760	Deletion		Valid	0.99	Gold
+43091753	Deletion		Valid	0.99	Gold
+43091756	Deletion		Valid	0.99	Gold
+43091752	Deletion		Valid	0.99	Gold
+43091737	Deletion		Valid	0.99	Gold
+43091711	Deletion	p.V1274*	Valid	0.99	Gold
+43091687	Deletion		Valid	0.99	Gold
+43091670	Deletion		Valid	0.99	Gold
+43091661	Deletion		Valid	0.99	Gold
+43091655	Deletion		Valid	0.99	Gold
+43091629	Deletion		Valid	0.99	Gold
+43091621	Deletion		Valid	0.99	Gold
+43091617	Deletion		Valid	0.99	Gold
+43091614	Deletion		Valid	0.99	Gold
+43091605	Deletion		Valid	0.99	Gold
+43091601	Deletion		Valid	0.99	Gold
+43091597	Deletion		Valid	0.99	Gold
+43091599	Deletion		Valid	0.99	Gold
+43091576	Deletion		Valid	0.99	Gold
+43091564	Deletion		Valid	0.99	Gold
+43091560	Deletion		Valid	0.99	Gold
+43091558	Deletion		Valid	0.99	Gold
+43091550	Deletion		Valid	0.99	Gold
+43091532	Deletion		Valid	0.99	Gold
+43091530	Deletion		Valid	0.99	Gold
+43091526	Deletion		Valid	0.99	Gold
+43091497	Deletion	p.D1344del	Valid	0.99	Gold
+43091496	Deletion		Valid	0.99	Gold
+43091492	Deletion		Valid	0.99	Gold
+43091490	Deletion		Valid	0.99	Gold
+43091489	Deletion		Valid	0.99	Gold
+43091488	Deletion		Valid	0.99	Gold
+43091470	Deletion		Valid	0.99	Gold
+43091463	Deletion		Valid	0.99	Gold
+43091463	Deletion		Valid	0.99	Gold
+43091462	Deletion		Valid	0.99	Gold
+43091438	Deletion		Valid	0.99	Gold
+43091437	Deletion	p.L1365*	Valid	0.99	Gold
+43091008	Deletion		Valid	0.99	Gold
+43091006	Deletion		Valid	0.99	Gold
+43091000	Deletion		Valid	0.99	Gold
+43090992	Deletion		Valid	0.99	Gold
+43090967	Deletion		Valid	0.99	Gold
+43090967	Deletion		Valid	0.99	Gold
+43090963	Deletion	p.S1389*	Valid	0.99	Gold
+43090962	Deletion		Valid	0.99	Gold
+43090961	Deletion		Valid	0.99	Gold
+43090944	Deletion	p.Gln1395del	Valid	0.99	Gold
+43090941	Deletion		Valid	0.99	Gold
+43082565	Deletion		Valid	0.99	Gold
+43082518	Deletion		Valid	0.99	Gold
+43082509	Deletion		Valid	0.99	Gold
+43082453	Deletion		Valid	0.99	Gold
+43082429	Deletion		Valid	0.99	Gold
+43082403	Deletion		Valid	0.99	Gold
+43076583	Deletion		Valid	0.99	Gold
+43076581	Deletion		Valid	0.99	Gold
+43076579	Deletion		Valid	0.99	Gold
+43076537	Deletion		Valid	0.99	Gold
+43076525	Deletion		Valid	0.99	Gold
+43076517	Deletion		Valid	0.99	Gold
+43076516	Deletion		Valid	0.99	Gold
+43076515	Deletion		Valid	0.99	Gold
+43076489	Deletion		Valid	0.99	Gold
+43076487	Deletion		Valid	0.99	Gold
+43074490	Deletion		Valid	0.99	Gold
+43074478	Deletion		Valid	0.99	Gold
+43074472	Deletion		Valid	0.99	Gold
+43074433	Deletion		Valid	0.99	Gold
+43074431	Deletion		Valid	0.99	Gold
+43074421	Deletion		Valid	0.99	Gold
+43074380	Deletion		Valid	0.99	Gold
+43074341	Deletion		Valid	0.99	Gold
+43071233	Deletion		Valid	0.99	Gold
+43071229	Deletion		Valid	0.99	Gold
+43071190	Deletion		Valid	0.99	Gold
+43071169	Deletion		Valid	0.99	Gold
+43071159	Deletion		Valid	0.99	Gold
+43071150	Deletion		Valid	0.99	Gold
+43071077	Deletion		Valid	0.99	Gold
+43071029	Deletion		Valid	0.99	Gold
+43071008	Deletion		Valid	0.99	Gold
+43071004	Deletion		Valid	0.99	Gold
+43070978	Deletion		Valid	0.99	Gold
+43070969	Deletion		Valid	0.99	Gold
+43070933	Deletion		Valid	0.99	Gold
+43070935	Deletion		Valid	0.99	Gold
+43070932	Deletion		Valid	0.99	Gold
+43070930	Deletion		Valid	0.99	Gold
+43067677	Deletion		Valid	0.99	Gold
+43067646	Deletion		Valid	0.99	Gold
+43067652	Deletion		Valid	0.99	Gold
+43067649	Deletion		Valid	0.99	Gold
+43067647	Deletion	p.L1679*	Valid	0.99	Gold
+43067643	Deletion		Valid	0.99	Gold
+43067642	Deletion		Valid	0.99	Gold
+43067618	Deletion	p.V1688del	Valid	0.99	Gold
+43063948	Deletion		Valid	0.99	Gold
+43063946	Deletion	p.A1693del	Valid	0.99	Gold
+43063941	Deletion		Valid	0.99	Gold
+43063923	Deletion		Valid	0.99	Gold
+43063920	Deletion		Valid	0.99	Gold
+43063914	Deletion		Valid	0.99	Gold
+43063900	Deletion		Valid	0.99	Gold
+43063889	Deletion		Valid	0.99	Gold
+43063375	Deletion		Valid	0.99	Gold
+43063364	Deletion		Valid	0.99	Gold
+43063348	Deletion		Valid	0.99	Gold
+43063346	Deletion		Valid	0.99	Gold
+43063334	Deletion		Valid	0.99	Gold
+43063344	Deletion		Valid	0.99	Gold
+43063332	Deletion		Valid	0.99	Gold
+43063331	Deletion		Valid	0.99	Gold
+43057122	Deletion		Valid	0.99	Gold
+43057114	Deletion	p.G1738del	Valid	0.99	Gold
+43057099	Deletion		Valid	0.99	Gold
+43057099	Deletion		Valid	0.99	Gold
+43057098	Deletion		Valid	0.99	Gold
+43057063	Deletion		Valid	0.99	Gold
+43057053	Deletion		Valid	0.99	Gold
+43051119	Deletion		Valid	0.99	Gold
+43051106	Deletion		Valid	0.99	Gold
+43051085	Deletion		Valid	0.99	Gold
+43051080	Deletion		Valid	0.99	Gold
+43051074	Deletion		Valid	0.99	Gold
+43051071	Deletion		Valid	0.99	Gold
+43051062	Deletion		Valid	0.99	Gold
+43049192	Deletion		Valid	0.99	Gold
+43049142	Deletion		Valid	0.99	Gold
+43049118	Deletion		Valid	0.99	Gold
+43047699	Deletion		Valid	0.99	Gold
+43047691	Deletion		Valid	0.99	Gold
+43047670	Deletion		Valid	0.99	Gold
+43047659	Deletion		Valid	0.99	Gold
+43045793	Deletion		Valid	0.99	Gold
+43045787	Deletion		Valid	0.99	Gold
+43045778	Deletion		Valid	0.99	Gold
+43094707	Deletion		Valid	0.99	Gold
+43045767	Deletion		Valid	0.99	Gold
+43045758	Deletion		Valid	0.99	Gold
+43045749	Deletion		Valid	0.99	Gold
+43045722	Deletion		Valid	0.99	Gold
+43124064	Insertion		Valid	0.99	Gold
+43124035	Insertion		Valid	0.99	Gold
+43124031	Insertion		Valid	0.99	Gold
+43124030	Insertion		Valid	0.99	Gold
+43124029	Insertion		Valid	0.99	Gold
+43124028	Insertion		Valid	0.99	Gold
+43124024	Insertion		Valid	0.99	Gold
+43124017	Insertion	p.C27insIC	Valid	0.99	Gold
+43106479	Insertion		Valid	0.99	Gold
+43106457	Insertion		Valid	0.99	Gold
+43104234	Insertion		Valid	0.99	Gold
+43104187	Insertion		Valid	0.99	Gold
+43104157	Insertion		Valid	0.99	Gold
+43104132	Insertion		Valid	0.99	Gold
+43099828	Insertion		Valid	0.99	Gold
+43094853	Insertion		Valid	0.99	Gold
+43094789	Insertion		Valid	0.99	Gold
+43094762	Insertion		Valid	0.99	Gold
+43094762	Insertion		Valid	0.99	Gold
+43094732	Insertion		Valid	0.99	Gold
+43094707	Insertion		Valid	0.99	Gold
+43094707	Insertion		Valid	0.99	Gold
+43094703	Insertion		Valid	0.99	Gold
+43094681	Insertion		Valid	0.99	Gold
+43094627	Insertion		Valid	0.99	Gold
+43094523	Insertion		Valid	0.99	Gold
+43094515	Insertion		Valid	0.99	Gold
+43094450	Insertion		Valid	0.99	Gold
+43094432	Insertion		Valid	0.99	Gold
+43094431	Insertion		Valid	0.99	Gold
+43094379	Insertion		Valid	0.99	Gold
+43094372	Insertion		Valid	0.99	Gold
+43094322	Insertion		Valid	0.99	Gold
+43094290	Insertion		Valid	0.99	Gold
+43094266	Insertion		Valid	0.99	Gold
+43094265	Insertion		Valid	0.99	Gold
+43094244	Insertion		Valid	0.99	Gold
+43094239	Insertion		Valid	0.99	Gold
+43094212	Insertion		Valid	0.99	Gold
+43094192	Insertion		Valid	0.99	Gold
+43094167	Insertion		Valid	0.99	Gold
+43094151	Insertion		Valid	0.99	Gold
+43094145	Insertion		Valid	0.99	Gold
+43094141	Insertion		Valid	0.99	Gold
+43094140	Insertion		Valid	0.99	Gold
+43094138	Insertion		Valid	0.99	Gold
+43094092	Insertion		Valid	0.99	Gold
+43094023	Insertion		Valid	0.99	Gold
+43094020	Insertion	p. K505*	Valid	0.99	Gold
+43094017	Insertion		Valid	0.99	Gold
+43093965	Insertion		Valid	0.99	Gold
+43093930	Insertion		Valid	0.99	Gold
+43093908	Insertion		Valid	0.99	Gold
+43093815	Insertion		Valid	0.99	Gold
+43093685	Insertion		Valid	0.99	Gold
+43093654	Insertion		Valid	0.99	Gold
+43093639	Insertion		Valid	0.99	Gold
+43093579	Insertion		Valid	0.99	Gold
+43093578	Insertion		Valid	0.99	Gold
+43093570	Insertion		Valid	0.99	Gold
+43093567	Insertion		Valid	0.99	Gold
+43093568	Insertion		Valid	0.99	Gold
+43093518	Insertion		Valid	0.99	Gold
+43093488	Insertion		Valid	0.99	Gold
+43093405	Insertion		Valid	0.99	Gold
+43093374	Insertion		Valid	0.99	Gold
+43093295	Insertion		Valid	0.99	Gold
+43093290	Insertion		Valid	0.99	Gold
+43093221	Insertion		Valid	0.99	Gold
+43093220	Insertion		Valid	0.99	Gold
+43093205	Insertion		Valid	0.99	Gold
+43093172	Insertion		Valid	0.99	Gold
+43093151	Insertion		Valid	0.99	Gold
+43093090	Insertion		Valid	0.99	Gold
+43093044	Insertion		Valid	0.99	Gold
+43093034	Insertion	p.K833*	Valid	0.99	Gold
+43093027	Insertion		Valid	0.99	Gold
+43092975	Insertion		Valid	0.99	Gold
+43092973	Insertion		Valid	0.99	Gold
+43092970	Insertion		Valid	0.99	Gold
+43092927	Insertion		Valid	0.99	Gold
+43092919	Insertion		Valid	0.99	Gold
+43092918	Insertion		Valid	0.99	Gold
+43092914	Insertion		Valid	0.99	Gold
+43092871	Insertion		Valid	0.99	Gold
+43092872	Insertion		Valid	0.99	Gold
+43092866	Insertion		Valid	0.99	Gold
+43092841	Insertion		Valid	0.99	Gold
+43092837	Insertion		Valid	0.99	Gold
+43092814	Insertion		Valid	0.99	Gold
+43092805	Insertion		Valid	0.99	Gold
+43092786	Insertion		Valid	0.99	Gold
+43092782	Insertion		Valid	0.99	Gold
+43092696	Insertion		Valid	0.99	Gold
+43092683	Insertion	p.R951*	Valid	0.99	Gold
+43092661	Insertion		Valid	0.99	Gold
+43092629	Insertion		Valid	0.99	Gold
+43092610	Insertion		Valid	0.99	Gold
+43092601	Insertion		Valid	0.99	Gold
+43092579	Insertion		Valid	0.99	Gold
+43092541	Insertion		Valid	0.99	Gold
+43092479	Insertion		Valid	0.99	Gold
+43092423	Insertion		Valid	0.99	Gold
+43092374	Insertion		Valid	0.99	Gold
+43092372	Insertion		Valid	0.99	Gold
+43092338	Insertion		Valid	0.99	Gold
+43092320	Insertion		Valid	0.99	Gold
+43092276	Insertion		Valid	0.99	Gold
+43092276	Insertion		Valid	0.99	Gold
+43092274	Insertion		Valid	0.99	Gold
+43092224	Insertion		Valid	0.99	Gold
+43092202	Insertion		Valid	0.99	Gold
+43092180	Insertion		Valid	0.99	Gold
+43092111	Insertion		Valid	0.99	Gold
+43092081	Insertion	p.D1151*	Valid	0.99	Gold
+43092028	Insertion		Valid	0.99	Gold
+43091955	Insertion		Valid	0.99	Gold
+43091953	Insertion		Valid	0.99	Gold
+43091945	Insertion		Valid	0.99	Gold
+43091907	Insertion		Valid	0.99	Gold
+43091905	Insertion		Valid	0.99	Gold
+43091904	Insertion		Valid	0.99	Gold
+43091883	Insertion		Valid	0.99	Gold
+43091882	Insertion		Valid	0.99	Gold
+43091860	Insertion		Valid	0.99	Gold
+43091838	Insertion		Valid	0.99	Gold
+43091772	Insertion		Valid	0.99	Gold
+43091770	Insertion		Valid	0.99	Gold
+43091767	Insertion		Valid	0.99	Gold
+43091718	Insertion	p.N1272*	Valid	0.99	Gold
+43091716	Insertion		Valid	0.99	Gold
+43091711	Insertion		Valid	0.99	Gold
+43091708	Insertion		Valid	0.99	Gold
+43091659	Insertion		Valid	0.99	Gold
+43091549	Insertion		Valid	0.99	Gold
+43091482	Insertion		Valid	0.99	Gold
+43091479	Insertion		Valid	0.99	Gold
+43091019	Insertion		Valid	0.99	Gold
+43090963	Insertion		Valid	0.99	Gold
+43090946	Insertion		Valid	0.99	Gold
+43082521	Insertion		Valid	0.99	Gold
+43082518	Insertion		Valid	0.99	Gold
+43082495	Insertion		Valid	0.99	Gold
+43082461	Insertion		Valid	0.99	Gold
+43082440	Insertion		Valid	0.99	Gold
+43082423	Insertion		Valid	0.99	Gold
+43076581	Insertion		Valid	0.99	Gold
+43074410	Insertion		Valid	0.99	Gold
+43074394	Insertion		Valid	0.99	Gold
+43071219	Insertion		Valid	0.99	Gold
+43071157	Insertion		Valid	0.99	Gold
+43071078	Insertion		Valid	0.99	Gold
+43071075	Insertion		Valid	0.99	Gold
+43067655	Insertion		Valid	0.99	Gold
+43067640	Insertion		Valid	0.99	Gold
+43067611	Insertion		Valid	0.99	Gold
+43057072	Insertion		Valid	0.99	Gold
+43057063	Insertion		Valid	0.99	Gold
+43051106	Insertion		Valid	0.99	Gold
+43051085	Insertion		Valid	0.99	Gold
+43051076	Insertion		Valid	0.99	Gold
+43051067	Insertion		Valid	0.99	Gold
+43049141	Insertion		Valid	0.99	Gold
+43045737	Insertion		Valid	0.99	Gold
+43045737	Insertion		Valid	0.99	Gold
+43045717	Insertion		Valid	0.99	Gold
+43045712	Insertion		Valid	0.99	Gold
+43124058	Indel		Valid	0.99	Gold
+43115723	Indel		Valid	0.99	Gold
+43099784	Indel		Valid	0.99	Gold
+43094607	Indel	p.S308*	Valid	0.99	Gold
+43094408	Indel		Valid	0.99	Gold
+43094236	Indel		Valid	0.99	Gold
+43093494	Indel		Valid	0.99	Gold
+43092919	Indel		Valid	0.99	Gold
+43092718	Indel		Valid	0.99	Gold
+43092695	Indel		Valid	0.99	Gold
+43092694	Indel		Valid	0.99	Gold
+43092342	Indel		Valid	0.99	Gold
+43092103	Indel		Valid	0.99	Gold
+43091981	Indel		Valid	0.99	Gold
+43091905	Indel		Valid	0.99	Gold
+43091814	Indel		Valid	0.99	Gold
+43076579	Indel		Valid	0.99	Gold
+43076555	Indel		Valid	0.99	Gold
+43074388	Indel		Valid	0.99	Gold
+43051058	Indel		Valid	0.99	Gold
+43049166	Indel	Cys1787*	Valid	0.99	Gold
+43045764	Indel		Valid	0.99	Gold
+43049168	Missense	p.C1787S	Valid	0.99	Gold
+43045757	Missense	p.V1838E	Valid	0.99	Gold
+43106487	Missense	p.C61G	Valid	0.99	Gold
+43063903	Missense	p.A1708E	Valid	0.99	Gold
+43063931	Missense	p.R1699W	Valid	0.99	Gold
+43049164	Missense	p.G1788V	Valid	0.99	Gold
+43051104	Missense	p.L1764P	Valid	0.99	Gold
+43067628	Missense	p.T1685I	Valid	0.99	Gold
+43051098	Missense	p.I1766S	Valid	0.99	Gold
+43057117	Missense	p.G1738R	Valid	0.99	Gold
+43067629	Missense	p.T1685A	Valid	0.99	Gold
+43063883	Missense	p.S1715R	Valid	0.99	Gold
+43124032	Missense	p.L22S	Valid	0.99	Gold
+43115750	Missense	p.T37K	Valid	0.99	Gold
+43115745	Missense	p.C39R	Valid	0.99	Gold
+43115730	Missense	p.C44S	Valid	0.99	Gold
+43115729	Missense	p.C44Y	Valid	0.99	Gold
+43051071	Missense	p.M1775R	Valid	0.99	Gold
+43051071	Missense	p.M1775K	Valid	0.99	Gold
+43091736	Insertion	p.N1265fs	Valid	0	Main
+43106527	Missense	p.C47W	Valid	0	Main
+43093093	Deletion	p.G813fs	Valid	0	Main
+43093974	Deletion	p.A521fs	Valid	0	Main
+43104217	Nonsense	p.E116*	Valid	.89563	Main
+43063897	Deletion	p.G1710fs	Valid	0	Main

@@ -188,7 +188,7 @@ function type(d) {
   return d;}
 
 </script>
-<script src="sorttable.js"></script> 
+<script src="stylesheets/sorttable.js"></script> 
 </body>
 <center><body>
 	<table width="700" border="3" class="sortable">

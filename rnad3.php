@@ -44,6 +44,14 @@ body {
   shape-rendering: crispEdges;
 }
 
+.tooltip {
+  position: absolute;
+  width: 200px;
+  height: 28px;
+  pointer-events: none;
+}
+
+
 </style>
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -58,6 +66,11 @@ var height = 400 - margin.top - margin.bottom;
 var min = Infinity,
     max = -Infinity;
 	
+//add tootip area
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
 // parse in the data	
 d3.tsv("rnaDatabase/database.tsv", function(error, tsv) {
 	var data = [];
@@ -102,7 +115,7 @@ d3.tsv("rnaDatabase/database.tsv", function(error, tsv) {
 		data[5][1].push(v6);
 		 
 		if (rowMax > max) max = rowMax;
-		if (rowMin < min) min = rowMin;	
+		if (rowMin < min) min = rowMin;
 	});
   
 	var chart = d3.box()
@@ -154,15 +167,15 @@ d3.tsv("rnaDatabase/database.tsv", function(error, tsv) {
  
 	 // draw y axis
 	svg.append("g")
-        .attr("class", "y axis")
-        .call(yAxis)
+        	.attr("class", "y axis")
+        	.call(yAxis)
 		.append("text") // and text1
-		  .attr("transform", "rotate(-90)")
-		  .attr("y", 6)
-		  .attr("dy", ".71em")
-		  .style("text-anchor", "end")
-		  .style("font-size", "12px") 
-		  .text("log10(RPKM)");		
+		.attr("transform", "rotate(-90)")
+		.attr("y", 6)
+		.attr("dy", ".71em")
+		.style("text-anchor", "end")
+		.style("font-size", "12px") 
+		.text("RPKM");		
 	
 	// draw x axis	
 	svg.append("g")
@@ -176,27 +189,57 @@ d3.tsv("rnaDatabase/database.tsv", function(error, tsv) {
 		.style("font-size", "12px") 
         	.text("GENE PANEL");
 
-//});
-
-d3.tsv("scripts/rna_output.txt",function(error,data){
+var originalData = data;
+var patientData;
+d3.tsv("rna_output.txt",function(error,data){
         data.forEach(function(d){
                 data.map(function(d){return d.x;});
                 d.y = +d.y;
-        console.log(d);
+        //console.log(d);
         });
-	var xCircle = [1,2,3,4,5,6]
+	console.log("origData");
+	console.log(originalData);
 	console.log(data);
+	var xCircle = [0,1,2,3,4,5]
 	var circle = svg.selectAll("circle")
 		.data(data);
 
+        var xScale = d3.scale.ordinal().rangeRoundBands([0, width],0.7,0.3);
+        var xValue = function(d) { return d.x;};
+        var xMap = function(d) { return xScale(xValue(d))+17;};
+	xScale.domain(data.map(function(d) { return d.x; }));
+
+	var yValue = function(d) { return d.y;},
+    	    yScale = d3.scale.linear().range([min,max]),
+            yMap = function(d) { return yScale(-(yValue(d)));};
+
+
+	yScale.domain([min,max]);
+
 	circle.enter().insert("circle")
-		.data(xCircle)
 		.attr("class","dot")
-		.attr("r",10)
-		.attr("cx",function(d){console.log(d); return (d*100);})
-		//.attr("cx",width/2)
-		.data(data)
-		.attr("cy",function(d){console.log(d.y);return d.y;});
+		.attr("r",3)
+	 	.attr("transform", "translate(0," + (height  + margin.top + 10) + ")")
+		.style("fill","pink")
+		.attr("cx",xMap)
+		//.attr("cy",yMap)
+		.attr("cy",function(d){console.log("y");console.log(d.y);return -(d.y-(d.y*0.35));})
+		.on("mouseover", function(d) {
+          		tooltip.transition()
+               		.duration(200)
+               		.style("opacity", .9);
+          			tooltip.html("<br/> (" + (xValue(d)) 
+                			+ ", " + (yValue(d)) + ")")
+               		.style("left", (d3.event.pageX + 5) + "px")
+               		.style("top", (d3.event.pageY - 28) + "px");})
+		 .on("mouseout", function(d) {
+          		tooltip.transition()
+               		.duration(500)
+               		.style("opacity", 0);});
+
+
+		
+
 	});
 });
 

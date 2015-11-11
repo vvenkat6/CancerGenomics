@@ -28,6 +28,9 @@
 	fwrite($myfile,$output);
 	fclose($myfile);
 	?>
+	<br>
+	<br>
+	<iframe sandbox="allow-scripts allow-forms allow-same-origin" src="rnad3.php" width="850" height = "450" scrolling="yes"></iframe>
 	</center>
 </body>
 </html>
