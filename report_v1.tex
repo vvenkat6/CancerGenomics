@@ -1,0 +1,160 @@
+\documentclass[11pt]{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+
+%% packages
+\usepackage{lipsum} %http://ctan.org/pkg/lipsum
+\usepackage{wallpaper}
+\usepackage{framed, color}
+\definecolor{shadecolor}{rgb}{1.0,0.75,0.0}
+
+%% the main document
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+
+% the header image
+\ULCornerWallPaper{1}{images/screentop.png} % ICRC banner image
+\LLCornerWallPaper{1}{images/screenbottom.png} % ICRC footer image
+
+% the hospital, patient and sample information
+\begin{tabbing}
+  \= Patient \= : \= Kardashian, Kimberly \\
+  \> Clinic \> : \> Grady Memorial Hospital, Atlanta, GA \\
+  \> Gender \> : \> Female \\
+  \> DOB \> : \> 10/21/1980 \\
+\end{tabbing}
+
+% the resulting risk assessment
+\noindent
+\framebox[\linewidth]{HIGH RISK} 
+\newline
+
+% use kable package to display the gene mutation results table 
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}
+\begin{tabular}{c|c|c|c|c}
+\hline
+Gene & Start & Class & Mutation & CADD\\
+\hline
+Gene & Start & Variant\_Classification & Amino\_Acid\_change & Cosmic\\
+\hline
+FAM113A & 2838470 & Silent & p.P201 & .67177\\
+\hline
+KIAA1009 & 84195006 & Nonsense & p.S302* & .95415\\
+\hline
+L1TD1 & 62210940 & Silent & p.K722 & .00056\\
+\hline
+MAD2L2 & 11676107 & Deletion & p.L123fs & 0\\
+\hline
+OR2B11 & 247451959 & Deletion & p.L9fs & 0\\
+\hline
+PRDM2 & 13779899 & Insertion & p.704in\_frame\_insP & 0\\
+\hline
+RHBG & 156384556 & Deletion & p.R425fs & 0\\
+\hline
+TAF1B & 9904895 & Deletion & p.V282fs & 0\\
+\hline
+TMEM37 & 119437075 & Insertion & p.T70in\_frame\_insSVP & 0\\
+\hline
+ZNF804A & 184937484 & Missense & p.N696K & .12369\\
+\hline
+TSPYL1 & 116279302 & Insertion & p.176in\_frame\_insV & 0\\
+\hline
+AKAP9 & 92022864 & Insertion & p.1336in\_frame\_insQ & 0\\
+\hline
+NCRNA00174 & 66377558 & Insertion & p.T17fs & 0\\
+\hline
+OR11G2 & 20198016 & Insertion & p.G229fs & 0\\
+\hline
+CYP2A7 & 40880515 & Missense & p.S153A & .0028\\
+\hline
+TMPRSS3 & 42383199 & Splice\_Site & e7-1 & .94873\\
+\hline
+TMPRSS3 & 42383199 & Splice\_Site & e7-1 & .94873\\
+\hline
+BIRC6 & 32545808 & Missense & p.A4253V & .96697\\
+\hline
+ACO1 & 32408614 & Missense & p.V123L & .9893\\
+\hline
+FREM2 & 38689594 & Missense & p.D750E & .74392\\
+\hline
+TP53 & 7675238 & Splice\_Site & e4-2 & .99475\\
+\hline
+TP53 & 7675238 & Splice\_Site & e4-2 & .99475\\
+\hline
+BRCA1 & 43092919 & Deletion & NA & 0.99\\
+\hline
+BRCA1 & 43093220 & Insertion & NA & 0.99\\
+\hline
+BRCA1 & 43092919 & Insertion & NA & 0.99\\
+\hline
+BRCA1 & 43092919 & Indel & NA & 0.99\\
+\hline
+\end{tabular}
+
+
+\end{knitrout}
+
+% the gene details box
+\noindent
+\framebox[\linewidth]{Gene Details: \textit{MSH2} c.8C$>$G : NM-000251.2}
+\textbf{Functional Significance: Deleterious} \\
+The heterozycous germline \textit{MSH2} c.8C$>$G is predicted to result in the premature truncation of the \textit{MSH2} protein due to abnormal protein production and/or function. \\ \\
+\textbf{Clinical Significance: High Cancer Risk} \\
+This mutation is associated with increased cancer risk and should be regarded as clincally significant. \\
+
+% the additional information box
+\noindent
+\framebox[\linewidth]{Additional Information}
+\textbf{Genes Analyzed:} \textit{APC, ATM, BARD1, BMPR1A, BRCA1, BRCA2, BRIP1, CDH1, CDK4, CDKN2A, CHEK2, EPCAM, MLH1, MSH2, MSH6, MUTYH, NBN, PALB2, PMS2, PTEN, RAD51C, SMAD4, STK11, TP53} \\ 
+\\
+\textbf{Disclaimer:} The techincal specifications summary of ICRC Gene Expose describes the analysis, method, performance, nomenclature, and interpretive criteria of this test. The classification and interpreation of variants identified reflect the current state of scientific understanding at the time of this report. \\
+
+\end{document}

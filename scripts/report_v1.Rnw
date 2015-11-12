@@ -10,8 +10,8 @@
 \begin{document}
 
 % the header image
-\ULCornerWallPaper{1}{/Users/sungshine/GeorgiaTech/VannbergBIOL8803F/CancerGenomics/Reports/screentop.png} % ICRC banner image
-\LLCornerWallPaper{1}{/Users/sungshine/GeorgiaTech/VannbergBIOL8803F/CancerGenomics/Reports/screenbottom.png} % ICRC footer image
+\ULCornerWallPaper{1}{images/screentop.png} % ICRC banner image
+\LLCornerWallPaper{1}{images/screenbottom.png} % ICRC footer image
 
 % the hospital, patient and sample information
 \begin{tabbing}
@@ -28,7 +28,7 @@
 
 % use kable package to display the gene mutation results table 
 <<kable, echo=FALSE, tidy=FALSE>>=
-data <- read.table("688.tsv", header=FALSE)
+data <- read.table("../newfile.txt", header=FALSE)
 names(data) <- c("Gene", "Start", "Class", "Mutation", "Valid", "CADD", "Database")
 trimmed <- data[, c("Gene", "Start", "Class", "Mutation", "CADD")]
 library(knitr)

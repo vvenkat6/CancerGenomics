@@ -49,8 +49,8 @@ with open("/home/vaishnavi/data/DATABASE/BRCA1_Gold") as csvfile:
         for line in linereader:
                 if line[9] != 'Error':
                         if int(line[9]) in patient_dict:
-                                print "BRCA1\t"+line[9]+"\t"+line[1]+"\t"+line[3]+"\tValid\t0.99\tGold"
-                                file.writerow(["BRCA1",line[9],line[1],line[3],"Valid","0.99","Gold"])
+                                print "BRCA1\t"+line[9]+"\t"+line[1]+"\t"+"NA\tValid\t0.99\tGold"
+                                file.writerow(["BRCA1",line[9],line[1],"-","Valid","0.99","Gold"])
 
 with open("/home/vaishnavi/data/DATABASE/BRCA2_Gold") as csvfile:
         linereader = csv.reader(csvfile, delimiter='\t')
@@ -58,7 +58,7 @@ with open("/home/vaishnavi/data/DATABASE/BRCA2_Gold") as csvfile:
         for line in linereader:
                 if line[9] != 'Error':
                         if int(line[9]) in patient_dict:
-                                print "BRCA2\t"+line[9]+"\t"+line[1]+"\t"+line[3]+"\tValid\t0.99\tGold"
+                                print "BRCA2\t"+line[9]+"\t"+line[1]+"\tNA\tValid\t0.99\tGold"
                                 file.writerow(["BRCA2",line[9],line[1],line[3],"Valid","0.99","Gold"])
 
 with open("/home/vaishnavi/data/DATABASE/BARD1_Gold") as csvfile:
@@ -67,7 +67,7 @@ with open("/home/vaishnavi/data/DATABASE/BARD1_Gold") as csvfile:
         for line in linereader:
                 if line[9] != 'Error':
                         if int(line[9]) in patient_dict:
-                                print "BARD1\t"+line[9]+"\t"+line[1]+"\t"+line[3]+"\tValid\t0.99\tGold"
+                                print "BARD1\t"+line[9]+"\t"+line[1]+"\t"+"NA\tValid\t0.99\tGold"
                                 file.writerow(["BARD1",line[9],line[1],line[3],"Valid","0.99","Gold"])
 
 

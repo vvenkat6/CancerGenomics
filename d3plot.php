@@ -61,7 +61,7 @@ body {
         $result = shell_exec($command);
         ?>
 	<br><br>	
-	<a href="supple.html" class="btn">Download supplementary data</a>
+	<a href="supple.php" class="btn">Download supplementary data</a>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 

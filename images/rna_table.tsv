@@ -1,0 +1,9 @@
+RANK_1	RANK_2	INTERPRETATION
+3	0,1,2,3	Most likely to be of ovarian origin
+2	3	Most likely to be of ovarian origin
+2	0,1,2	Likely to be of ovarian origin
+1	3	Likely to be of ovarian origin 
+1	0,1,2	Uncertain of which origin       
+0	3	Uncertain of which origin       
+0	0,1,2	Unlikely to be of ovarian origin     
+
